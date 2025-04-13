@@ -1,0 +1,16 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-09 00:04:19"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-09 00:04:19"}
+{"level":"info","message":"execution of workflow 95 created as 418","timestamp":"2025-04-09 00:04:19"}
+{"level":"info","message":"pending execution (418) ready to process","timestamp":"2025-04-09 00:04:19"}
+{"level":"info","message":"queueing execution (418) from pending list updated to started","timestamp":"2025-04-09 00:04:19"}
+{"level":"info","message":"execution (418) starting...","timestamp":"2025-04-09 00:04:19"}
+{"level":"info","message":"execution (418) run instruction [query] for node (636)","timestamp":"2025-04-09 00:04:19"}
+{"level":"info","message":"execution (418) run instruction [query] for node (636) finished as status: 1","timestamp":"2025-04-09 00:04:19"}
+{"level":"info","message":"execution (418) run instruction [condition] for node (638)","timestamp":"2025-04-09 00:04:19"}
+{"level":"info","message":"execution (418) run instruction [update] for node (637)","timestamp":"2025-04-09 00:04:19"}
+{"level":"info","message":"execution (418) run instruction [update] for node (637) finished as status: 1","timestamp":"2025-04-09 00:04:19"}
+{"level":"info","message":"execution (418) run instruction [condition] for node (638)","timestamp":"2025-04-09 00:04:19"}
+{"level":"info","message":"execution (418) run instruction [condition] for node (638) finished as status: 1","timestamp":"2025-04-09 00:04:19"}
+{"level":"info","message":"execution (418) exiting with status 1","timestamp":"2025-04-09 00:04:19"}
+{"level":"info","message":"execution (418) exiting with status 1","timestamp":"2025-04-09 00:04:19"}
+{"level":"info","execution":{"id":418,"context":{"data":{"createdAt":"2025-04-08T15:19:47.853Z","updatedAt":"2025-04-09T00:04:19.026Z","start_date":"2025-04-08T08:00:26.000Z","end_date":"2025-04-08T08:50:00.000Z","employee_id":1,"create_course_id":86,"salary_id":1,"status":"2","id":246,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"createdById":null,"updatedById":1,"student":"A student","duration":null,"name_sort":2,"salary_db":{"createdAt":"2025-04-05T13:23:25.985Z","updatedAt":"2025-04-08T02:48:30.040Z","employee_id":1,"salary_amount":null,"id":1,"date":"2025-04-01","monthly":"4/2025","createdById":null,"updatedById":1}}},"key":"ju393tq5yqm","eventKey":"abe69227-93d3-4423-aea1-a9bcf92344ab","stack":null,"status":1,"workflowId":95,"updatedAt":"2025-04-09T00:04:19.094Z","createdAt":"2025-04-09T00:04:19.041Z","output":null},"message":"execution (418) finished with status: 1","timestamp":"2025-04-09 00:04:19"}

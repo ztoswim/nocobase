@@ -1,0 +1,48 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-08 12:30:15"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-08 12:30:15"}
+{"level":"info","message":"execution of workflow 98 created as 356","timestamp":"2025-04-08 12:30:15"}
+{"level":"info","message":"pending execution (356) ready to process","timestamp":"2025-04-08 12:30:15"}
+{"level":"info","message":"queueing execution (356) from pending list updated to started","timestamp":"2025-04-08 12:30:15"}
+{"level":"info","message":"execution (356) starting...","timestamp":"2025-04-08 12:30:15"}
+{"level":"info","message":"execution (356) run instruction [condition] for node (649)","timestamp":"2025-04-08 12:30:15"}
+{"level":"info","message":"execution (356) run instruction [create] for node (650)","timestamp":"2025-04-08 12:30:15"}
+{"level":"info","message":"execution (356) run instruction [create] for node (650) finished as status: 1","timestamp":"2025-04-08 12:30:15"}
+{"level":"info","message":"execution (356) run instruction [end] for node (651)","timestamp":"2025-04-08 12:30:15"}
+{"level":"info","message":"execution (356) exiting with status 1","timestamp":"2025-04-08 12:30:15"}
+{"level":"info","message":"execution (356) exiting with status 1","timestamp":"2025-04-08 12:30:15"}
+{"level":"info","message":"execution (356) exiting with status 1","timestamp":"2025-04-08 12:30:15"}
+{"level":"info","execution":{"id":356,"context":{"data":{"createdAt":"2025-04-08T12:30:15.551Z","updatedAt":"2025-04-08T12:30:15.607Z","payment_date":"2025-04-08T12:29:58.915Z","start_date":"2025-04-18T08:00:26.000Z","end_date":"2025-04-18T08:50:04.000Z","package_id":1,"id":80,"invoice_number":"INV1","payment_method":"2","fee":120,"progress":null,"student_id":5,"createdById":1,"updatedById":1,"package_db":{"createdAt":"2025-04-04T02:12:12.702Z","updatedAt":"2025-04-05T02:01:34.980Z","name_sort":2,"fee":120,"id":1,"name":"PV1 - 👤","transport_fee":null,"quantity":1,"type":"PV","createdById":1,"updatedById":1},"student_db":{"createdAt":"2025-04-04T08:16:21.327Z","updatedAt":"2025-04-08T06:52:31.815Z","employee_id":1,"class_venue":2,"name":"A student","gender":"1","parent_name":null,"contact_number":null,"email":null,"address":null,"emergency_contact_name":null,"emergency_contact_nunber":null,"day":null,"duration":"3","id":5,"dob":null,"start_date":null,"start_time":"16:00:26","end_time":"16:50:04","createdById":1,"updatedById":1}},"user":{"createdAt":"2025-03-31T14:39:23.735Z","updatedAt":"2025-04-07T11:13:41.208Z","systemSettings":{"themeId":1},"id":1,"nickname":"Felix","username":"felix","email":"xmrxperfectx@gmail.com","phone":null,"passwordChangeTz":1743556989843,"appLang":"zh-CN","createdById":null,"updatedById":1},"roleName":"root"},"key":"o3iucqm26et","eventKey":"66eff561-1f88-4858-a413-e2f23ea62fee","stack":null,"status":1,"workflowId":98,"updatedAt":"2025-04-08T12:30:15.862Z","createdAt":"2025-04-08T12:30:15.643Z","output":null},"message":"execution (356) finished with status: 1","timestamp":"2025-04-08 12:30:15"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-08 12:31:26"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-08 12:31:26"}
+{"level":"info","message":"execution of workflow 98 created as 358","timestamp":"2025-04-08 12:31:26"}
+{"level":"info","message":"pending execution (358) ready to process","timestamp":"2025-04-08 12:31:26"}
+{"level":"info","message":"queueing execution (358) from pending list updated to started","timestamp":"2025-04-08 12:31:26"}
+{"level":"info","message":"execution (358) starting...","timestamp":"2025-04-08 12:31:26"}
+{"level":"info","message":"execution (358) run instruction [condition] for node (649)","timestamp":"2025-04-08 12:31:26"}
+{"level":"info","message":"execution (358) run instruction [condition] for node (652)","timestamp":"2025-04-08 12:31:26"}
+{"level":"info","message":"execution (358) run instruction [create] for node (653)","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) run instruction [create] for node (653) finished as status: 1","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) run instruction [calculation] for node (662)","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) run instruction [calculation] for node (662) finished as status: 1","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) run instruction [calculation] for node (663)","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) run instruction [calculation] for node (663) finished as status: 1","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) run instruction [create] for node (654)","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) run instruction [create] for node (654) finished as status: 1","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) run instruction [calculation] for node (655)","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) run instruction [calculation] for node (655) finished as status: 1","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) run instruction [calculation] for node (664)","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) run instruction [calculation] for node (664) finished as status: 1","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) run instruction [create] for node (656)","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) run instruction [create] for node (656) finished as status: 1","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) run instruction [calculation] for node (657)","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) run instruction [calculation] for node (657) finished as status: 1","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) run instruction [calculation] for node (665)","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) run instruction [calculation] for node (665) finished as status: 1","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) run instruction [create] for node (658)","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) run instruction [create] for node (658) finished as status: 1","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) run instruction [end] for node (659)","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) exiting with status 1","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) exiting with status 1","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) exiting with status 1","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","message":"execution (358) exiting with status 1","timestamp":"2025-04-08 12:31:27"}
+{"level":"info","execution":{"id":358,"context":{"data":{"createdAt":"2025-04-08T12:31:26.923Z","updatedAt":"2025-04-08T12:31:26.948Z","payment_date":"2025-04-08T12:31:07.523Z","start_date":"2025-04-15T00:00:26.000Z","end_date":"2025-04-15T00:50:04.000Z","package_id":2,"id":81,"invoice_number":"INV2","payment_method":"1","fee":400,"progress":null,"student_id":6,"createdById":1,"updatedById":1,"package_db":{"createdAt":"2025-04-04T05:48:00.404Z","updatedAt":"2025-04-04T08:28:32.254Z","name_sort":3,"fee":400,"id":2,"name":"PV4 - 👤","transport_fee":null,"quantity":4,"type":"PV","createdById":1,"updatedById":1},"student_db":{"createdAt":"2025-04-04T08:17:31.654Z","updatedAt":"2025-04-08T06:09:04.043Z","employee_id":null,"class_venue":2,"name":"B student","gender":null,"parent_name":null,"contact_number":null,"email":null,"address":null,"emergency_contact_name":null,"emergency_contact_nunber":null,"day":null,"duration":"2","id":6,"dob":null,"start_date":null,"start_time":"08:00:26","end_time":"08:50:04","createdById":1,"updatedById":1}},"user":{"createdAt":"2025-03-31T14:39:23.735Z","updatedAt":"2025-04-07T11:13:41.208Z","systemSettings":{"themeId":1},"id":1,"nickname":"Felix","username":"felix","email":"xmrxperfectx@gmail.com","phone":null,"passwordChangeTz":1743556989843,"appLang":"zh-CN","createdById":null,"updatedById":1},"roleName":"root"},"key":"o3iucqm26et","eventKey":"e815ae97-d03f-454d-916d-864ab00be185","stack":null,"status":1,"workflowId":98,"updatedAt":"2025-04-08T12:31:27.129Z","createdAt":"2025-04-08T12:31:26.969Z","output":null},"message":"execution (358) finished with status: 1","timestamp":"2025-04-08 12:31:27"}

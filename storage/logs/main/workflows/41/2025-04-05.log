@@ -1,0 +1,7 @@
+{"level":"info","message":"execution of workflow 41 created as 71","timestamp":"2025-04-05 11:50:27"}
+{"level":"info","message":"queueing execution (71) from pending list updated to started","timestamp":"2025-04-05 11:50:27"}
+{"level":"info","message":"execution (71) starting...","timestamp":"2025-04-05 11:50:27"}
+{"level":"info","message":"execution (71) run instruction [create] for node (425)","timestamp":"2025-04-05 11:50:27"}
+{"level":"info","message":"execution (71) run instruction [create] for node (425) finished as status: 1","timestamp":"2025-04-05 11:50:27"}
+{"level":"info","message":"execution (71) exiting with status 1","timestamp":"2025-04-05 11:50:27"}
+{"level":"info","execution":{"id":71,"context":{"date":"2025-03-31T16:00:00.759Z"},"key":"2ly86fuayl9","eventKey":"a6ce312f-5a36-44d9-a807-34bd3692c72c","stack":null,"status":1,"workflowId":41,"updatedAt":"2025-04-05T11:50:27.120Z","createdAt":"2025-04-05T11:50:27.007Z","output":null},"message":"execution (71) finished with status: 1","timestamp":"2025-04-05 11:50:27"}

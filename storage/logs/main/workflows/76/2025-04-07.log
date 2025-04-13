@@ -1,0 +1,45 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-07 14:22:04"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-07 14:22:04"}
+{"level":"info","message":"execution of workflow 76 created as 152","timestamp":"2025-04-07 14:22:04"}
+{"level":"info","message":"pending execution (152) ready to process","timestamp":"2025-04-07 14:22:04"}
+{"level":"info","message":"queueing execution (152) from pending list updated to started","timestamp":"2025-04-07 14:22:04"}
+{"level":"info","message":"execution (152) starting...","timestamp":"2025-04-07 14:22:04"}
+{"level":"info","message":"execution (152) run instruction [query] for node (559)","timestamp":"2025-04-07 14:22:04"}
+{"level":"info","message":"execution (152) run instruction [query] for node (559) finished as status: 1","timestamp":"2025-04-07 14:22:04"}
+{"level":"info","message":"execution (152) run instruction [condition] for node (561)","timestamp":"2025-04-07 14:22:04"}
+{"level":"info","message":"execution (152) run instruction [update] for node (560)","timestamp":"2025-04-07 14:22:04"}
+{"level":"info","message":"execution (152) run instruction [update] for node (560) finished as status: 1","timestamp":"2025-04-07 14:22:04"}
+{"level":"info","message":"execution (152) run instruction [condition] for node (561)","timestamp":"2025-04-07 14:22:04"}
+{"level":"info","message":"execution (152) run instruction [condition] for node (561) finished as status: 1","timestamp":"2025-04-07 14:22:04"}
+{"level":"info","message":"execution (152) exiting with status 1","timestamp":"2025-04-07 14:22:04"}
+{"level":"info","message":"execution (152) exiting with status 1","timestamp":"2025-04-07 14:22:04"}
+{"level":"info","execution":{"id":152,"context":{"data":{"createdAt":"2025-04-05T02:23:26.112Z","updatedAt":"2025-04-07T14:22:04.093Z","start_date":"2025-04-01T08:00:00.000Z","end_date":"2025-04-11T08:50:00.000Z","employee_id":1,"create_course_id":37,"salary_id":2,"student":"AISYAH KHAYRA BINTI ABDULLAH UZAIR","id":139,"status":"2","status_convert":0,"createdById":null,"updatedById":1,"month_convert":"4/2025","salary_db":{"createdAt":"2025-04-05T13:23:26.011Z","updatedAt":"2025-04-07T13:40:27.693Z","employee_id":3,"salary_amount":null,"id":2,"createdById":null,"updatedById":1,"date":"2025-04-01","monthly":"4/2025"}}},"key":"ju393tq5yqm","eventKey":"7a3b2907-a05f-46e6-9b47-bf494fc3afb2","stack":null,"status":1,"workflowId":76,"updatedAt":"2025-04-07T14:22:04.140Z","createdAt":"2025-04-07T14:22:04.107Z","output":null},"message":"execution (152) finished with status: 1","timestamp":"2025-04-07 14:22:04"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-07 14:22:12"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-07 14:22:12"}
+{"level":"info","message":"execution of workflow 76 created as 153","timestamp":"2025-04-07 14:22:12"}
+{"level":"info","message":"pending execution (153) ready to process","timestamp":"2025-04-07 14:22:12"}
+{"level":"info","message":"queueing execution (153) from pending list updated to started","timestamp":"2025-04-07 14:22:12"}
+{"level":"info","message":"execution (153) starting...","timestamp":"2025-04-07 14:22:12"}
+{"level":"info","message":"execution (153) run instruction [query] for node (559)","timestamp":"2025-04-07 14:22:12"}
+{"level":"info","message":"execution (153) run instruction [query] for node (559) finished as status: 1","timestamp":"2025-04-07 14:22:12"}
+{"level":"info","message":"execution (153) run instruction [condition] for node (561)","timestamp":"2025-04-07 14:22:12"}
+{"level":"info","message":"execution (153) run instruction [update] for node (560)","timestamp":"2025-04-07 14:22:12"}
+{"level":"info","message":"execution (153) run instruction [update] for node (560) finished as status: 1","timestamp":"2025-04-07 14:22:12"}
+{"level":"info","message":"execution (153) run instruction [condition] for node (561)","timestamp":"2025-04-07 14:22:12"}
+{"level":"info","message":"execution (153) run instruction [condition] for node (561) finished as status: 1","timestamp":"2025-04-07 14:22:12"}
+{"level":"info","message":"execution (153) exiting with status 1","timestamp":"2025-04-07 14:22:12"}
+{"level":"info","message":"execution (153) exiting with status 1","timestamp":"2025-04-07 14:22:12"}
+{"level":"info","execution":{"id":153,"context":{"data":{"createdAt":"2025-04-07T12:39:09.408Z","updatedAt":"2025-04-07T14:22:12.402Z","start_date":"2025-04-07T16:00:00.000Z","end_date":"2025-04-07T16:00:00.000Z","employee_id":3,"create_course_id":39,"salary_id":1,"student":"C student","id":153,"status":null,"status_convert":0,"createdById":null,"updatedById":1,"month_convert":"4/2025","salary_db":{"createdAt":"2025-04-05T13:23:25.985Z","updatedAt":"2025-04-07T13:36:21.621Z","employee_id":1,"salary_amount":null,"id":1,"createdById":null,"updatedById":1,"date":"2025-04-01","monthly":"4/2025"}}},"key":"ju393tq5yqm","eventKey":"54c0829a-317d-49ea-b2ac-fc7b6dd0f7a4","stack":null,"status":1,"workflowId":76,"updatedAt":"2025-04-07T14:22:12.436Z","createdAt":"2025-04-07T14:22:12.410Z","output":null},"message":"execution (153) finished with status: 1","timestamp":"2025-04-07 14:22:12"}
+{"level":"info","message":"execution of workflow 76 created as 154","timestamp":"2025-04-07 14:29:24"}
+{"level":"info","message":"queueing execution (154) from pending list updated to started","timestamp":"2025-04-07 14:29:24"}
+{"level":"info","message":"execution (154) starting...","timestamp":"2025-04-07 14:29:24"}
+{"level":"info","message":"execution (154) run instruction [query] for node (559)","timestamp":"2025-04-07 14:29:24"}
+{"level":"info","message":"execution (154) run instruction [query] for node (559) finished as status: 1","timestamp":"2025-04-07 14:29:24"}
+{"level":"info","message":"execution (154) run instruction [condition] for node (561)","timestamp":"2025-04-07 14:29:24"}
+{"level":"info","message":"execution (154) run instruction [update] for node (560)","timestamp":"2025-04-07 14:29:24"}
+{"level":"info","message":"execution (154) run instruction [update] for node (560) finished as status: 1","timestamp":"2025-04-07 14:29:24"}
+{"level":"info","message":"execution (154) run instruction [condition] for node (561)","timestamp":"2025-04-07 14:29:24"}
+{"level":"info","message":"execution (154) run instruction [condition] for node (561) finished as status: 1","timestamp":"2025-04-07 14:29:24"}
+{"level":"info","message":"execution (154) exiting with status 1","timestamp":"2025-04-07 14:29:24"}
+{"level":"info","message":"execution (154) exiting with status 1","timestamp":"2025-04-07 14:29:24"}
+{"level":"info","execution":{"id":154,"context":{"data":{"createdAt":"2025-04-05T02:23:26.112Z","updatedAt":"2025-04-07T14:22:12.431Z","start_date":"2025-04-01T08:00:00.000Z","end_date":"2025-04-11T08:50:00.000Z","employee_id":1,"create_course_id":37,"salary_id":2,"student":"AISYAH KHAYRA BINTI ABDULLAH UZAIR","id":139,"status":"2","status_convert":0,"createdById":null,"updatedById":1,"month_convert":"4/2025","salary_db":{"createdAt":"2025-04-05T13:23:26.011Z","updatedAt":"2025-04-07T13:40:27.693Z","employee_id":3,"salary_amount":null,"id":2,"createdById":null,"updatedById":1,"date":"2025-04-01","monthly":"4/2025"}}},"key":"ju393tq5yqm","eventKey":"b98bc11f-7721-46d3-9f1d-d756ca29a04d","stack":null,"status":1,"workflowId":76,"updatedAt":"2025-04-07T14:29:24.382Z","createdAt":"2025-04-07T14:29:24.333Z","output":null},"message":"execution (154) finished with status: 1","timestamp":"2025-04-07 14:29:24"}

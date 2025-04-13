@@ -1,0 +1,208 @@
+{"level":"info","message":"new event triggered, now events: 2","timestamp":"2025-04-13 04:22:36"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-13 04:22:36"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-13 04:22:36"}
+{"level":"info","message":"execution of workflow 147 created as 1003","timestamp":"2025-04-13 04:22:36"}
+{"level":"info","message":"execution (1003) fetched from db","timestamp":"2025-04-13 04:22:36"}
+{"level":"info","message":"execution (1003) starting...","timestamp":"2025-04-13 04:22:36"}
+{"level":"info","message":"execution (1003) run instruction [query] for node (1314)","timestamp":"2025-04-13 04:22:36"}
+{"level":"info","message":"execution (1003) run instruction [query] for node (1314) finished as status: 1","timestamp":"2025-04-13 04:22:36"}
+{"level":"info","message":"execution (1003) run instruction [condition] for node (1316)","timestamp":"2025-04-13 04:22:36"}
+{"level":"info","message":"execution (1003) run instruction [update] for node (1315)","timestamp":"2025-04-13 04:22:36"}
+{"level":"info","message":"execution (1003) run instruction [update] for node (1315) finished as status: 1","timestamp":"2025-04-13 04:22:36"}
+{"level":"info","message":"execution (1003) run instruction [condition] for node (1316)","timestamp":"2025-04-13 04:22:36"}
+{"level":"info","message":"execution (1003) run instruction [condition] for node (1316) finished as status: 1","timestamp":"2025-04-13 04:22:36"}
+{"level":"info","message":"execution (1003) exiting with status 1","timestamp":"2025-04-13 04:22:36"}
+{"level":"info","message":"execution (1003) exiting with status 1","timestamp":"2025-04-13 04:22:36"}
+{"level":"info","execution":{"id":1003,"createdAt":"2025-04-13T04:22:36.472Z","updatedAt":"2025-04-13T04:22:36.520Z","key":"ju393tq5yqm","eventKey":"1c43763d-c068-48f0-99ef-76577e2baa38","context":{"data":{"createdAt":"2025-04-13T03:44:05.668Z","updatedAt":"2025-04-13T04:22:36.436Z","start_date":"2025-04-13T08:00:26.000Z","end_date":"2025-04-13T08:50:00.000Z","employee_id":1,"create_course_id":158,"salary_id":null,"status_sort":2,"status":"Attend","id":564,"status_convert":0,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"teaching_fee":null,"createdById":null,"updatedById":null,"salary_db":null}},"status":1,"stack":null,"output":null,"workflowId":147},"message":"execution (1003) finished with status: 1","timestamp":"2025-04-13 04:22:36"}
+{"level":"info","message":"new event triggered, now events: 2","timestamp":"2025-04-13 04:22:38"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-13 04:22:38"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-13 04:22:38"}
+{"level":"info","message":"execution of workflow 147 created as 1005","timestamp":"2025-04-13 04:22:38"}
+{"level":"info","message":"execution (1005) fetched from db","timestamp":"2025-04-13 04:22:38"}
+{"level":"info","message":"execution (1005) starting...","timestamp":"2025-04-13 04:22:38"}
+{"level":"info","message":"execution (1005) run instruction [query] for node (1314)","timestamp":"2025-04-13 04:22:38"}
+{"level":"info","message":"execution (1005) run instruction [query] for node (1314) finished as status: 1","timestamp":"2025-04-13 04:22:39"}
+{"level":"info","message":"execution (1005) run instruction [condition] for node (1316)","timestamp":"2025-04-13 04:22:39"}
+{"level":"info","message":"execution (1005) run instruction [update] for node (1317)","timestamp":"2025-04-13 04:22:39"}
+{"level":"info","message":"execution (1005) run instruction [update] for node (1317) finished as status: 1","timestamp":"2025-04-13 04:22:39"}
+{"level":"info","message":"execution (1005) run instruction [condition] for node (1316)","timestamp":"2025-04-13 04:22:39"}
+{"level":"info","message":"execution (1005) run instruction [condition] for node (1316) finished as status: 1","timestamp":"2025-04-13 04:22:39"}
+{"level":"info","message":"execution (1005) exiting with status 1","timestamp":"2025-04-13 04:22:39"}
+{"level":"info","message":"execution (1005) exiting with status 1","timestamp":"2025-04-13 04:22:39"}
+{"level":"info","execution":{"id":1005,"createdAt":"2025-04-13T04:22:38.973Z","updatedAt":"2025-04-13T04:22:39.023Z","key":"ju393tq5yqm","eventKey":"b2deb780-33d0-48df-8244-da7f087d8fae","context":{"data":{"createdAt":"2025-04-13T03:26:15.133Z","updatedAt":"2025-04-13T04:22:38.960Z","start_date":"2025-04-13T08:00:26.000Z","end_date":"2025-04-13T08:50:00.000Z","employee_id":1,"create_course_id":157,"salary_id":1,"status_sort":16,"status":"Inactive","id":554,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"teaching_fee":null,"createdById":null,"updatedById":null,"salary_db":{"createdAt":"2025-04-05T13:23:25.985Z","updatedAt":"2025-04-09T14:30:50.356Z","employee_id":1,"salary_amount":0,"id":1,"date":"2025-04-01","monthly":"4/2025","createdById":null,"updatedById":1,"attendance_db":[{"createdAt":"2025-04-13T03:26:15.133Z","updatedAt":"2025-04-13T04:22:38.960Z","start_date":"2025-04-13T08:00:26.000Z","end_date":"2025-04-13T08:50:00.000Z","employee_id":1,"create_course_id":157,"salary_id":1,"status_sort":16,"status":"Inactive","id":554,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"teaching_fee":null,"createdById":null,"updatedById":null},{"createdAt":"2025-04-13T03:44:05.668Z","updatedAt":"2025-04-13T04:22:36.514Z","start_date":"2025-04-13T08:00:26.000Z","end_date":"2025-04-13T08:50:00.000Z","employee_id":1,"create_course_id":158,"salary_id":1,"status_sort":2,"status":"Attend","id":564,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"teaching_fee":null,"createdById":null,"updatedById":null}]}}},"status":1,"stack":null,"output":null,"workflowId":147},"message":"execution (1005) finished with status: 1","timestamp":"2025-04-13 04:22:39"}
+{"level":"info","message":"new event triggered, now events: 2","timestamp":"2025-04-13 04:22:40"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-13 04:22:40"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-13 04:22:40"}
+{"level":"info","message":"execution of workflow 147 created as 1007","timestamp":"2025-04-13 04:22:40"}
+{"level":"info","message":"execution (1007) fetched from db","timestamp":"2025-04-13 04:22:40"}
+{"level":"info","message":"execution (1007) starting...","timestamp":"2025-04-13 04:22:40"}
+{"level":"info","message":"execution (1007) run instruction [query] for node (1314)","timestamp":"2025-04-13 04:22:40"}
+{"level":"info","message":"execution (1007) run instruction [query] for node (1314) finished as status: 1","timestamp":"2025-04-13 04:22:40"}
+{"level":"info","message":"execution (1007) run instruction [condition] for node (1316)","timestamp":"2025-04-13 04:22:40"}
+{"level":"info","message":"execution (1007) run instruction [update] for node (1315)","timestamp":"2025-04-13 04:22:40"}
+{"level":"info","message":"execution (1007) run instruction [update] for node (1315) finished as status: 1","timestamp":"2025-04-13 04:22:40"}
+{"level":"info","message":"execution (1007) run instruction [condition] for node (1316)","timestamp":"2025-04-13 04:22:40"}
+{"level":"info","message":"execution (1007) run instruction [condition] for node (1316) finished as status: 1","timestamp":"2025-04-13 04:22:40"}
+{"level":"info","message":"execution (1007) exiting with status 1","timestamp":"2025-04-13 04:22:40"}
+{"level":"info","message":"execution (1007) exiting with status 1","timestamp":"2025-04-13 04:22:40"}
+{"level":"info","execution":{"id":1007,"createdAt":"2025-04-13T04:22:40.701Z","updatedAt":"2025-04-13T04:22:40.744Z","key":"ju393tq5yqm","eventKey":"94e7fd34-78ea-4452-b02b-24b06a71584c","context":{"data":{"createdAt":"2025-04-13T03:26:15.133Z","updatedAt":"2025-04-13T04:22:40.688Z","start_date":"2025-04-13T08:00:26.000Z","end_date":"2025-04-13T08:50:00.000Z","employee_id":1,"create_course_id":157,"salary_id":null,"status_sort":3,"status":"Attend","id":554,"status_convert":0,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"teaching_fee":null,"createdById":null,"updatedById":null,"salary_db":null}},"status":1,"stack":null,"output":null,"workflowId":147},"message":"execution (1007) finished with status: 1","timestamp":"2025-04-13 04:22:40"}
+{"level":"info","message":"new event triggered, now events: 2","timestamp":"2025-04-13 04:24:16"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-13 04:24:16"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-13 04:24:16"}
+{"level":"info","message":"execution of workflow 147 created as 1009","timestamp":"2025-04-13 04:24:16"}
+{"level":"info","message":"execution (1009) fetched from db","timestamp":"2025-04-13 04:24:16"}
+{"level":"info","message":"execution (1009) starting...","timestamp":"2025-04-13 04:24:16"}
+{"level":"info","message":"execution (1009) run instruction [query] for node (1314)","timestamp":"2025-04-13 04:24:16"}
+{"level":"info","message":"execution (1009) run instruction [query] for node (1314) finished as status: 1","timestamp":"2025-04-13 04:24:16"}
+{"level":"info","message":"execution (1009) run instruction [condition] for node (1316)","timestamp":"2025-04-13 04:24:16"}
+{"level":"info","message":"execution (1009) run instruction [update] for node (1317)","timestamp":"2025-04-13 04:24:16"}
+{"level":"info","message":"execution (1009) run instruction [update] for node (1317) finished as status: 1","timestamp":"2025-04-13 04:24:16"}
+{"level":"info","message":"execution (1009) run instruction [condition] for node (1316)","timestamp":"2025-04-13 04:24:16"}
+{"level":"info","message":"execution (1009) run instruction [condition] for node (1316) finished as status: 1","timestamp":"2025-04-13 04:24:16"}
+{"level":"info","message":"execution (1009) exiting with status 1","timestamp":"2025-04-13 04:24:16"}
+{"level":"info","message":"execution (1009) exiting with status 1","timestamp":"2025-04-13 04:24:16"}
+{"level":"info","execution":{"id":1009,"createdAt":"2025-04-13T04:24:16.550Z","updatedAt":"2025-04-13T04:24:16.603Z","key":"ju393tq5yqm","eventKey":"786fd5c4-7bc2-4c67-9b41-1ca1ed3f9592","context":{"data":{"createdAt":"2025-04-13T03:44:05.668Z","updatedAt":"2025-04-13T04:24:16.530Z","start_date":"2025-04-13T08:00:26.000Z","end_date":"2025-04-13T08:50:00.000Z","employee_id":1,"create_course_id":158,"salary_id":1,"status_sort":16,"status":"Inactive","id":564,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"teaching_fee":null,"createdById":null,"updatedById":null,"salary_db":{"createdAt":"2025-04-05T13:23:25.985Z","updatedAt":"2025-04-09T14:30:50.356Z","employee_id":1,"salary_amount":0,"id":1,"date":"2025-04-01","monthly":"4/2025","createdById":null,"updatedById":1,"attendance_db":[{"createdAt":"2025-04-13T03:26:15.133Z","updatedAt":"2025-04-13T04:22:40.739Z","start_date":"2025-04-13T08:00:26.000Z","end_date":"2025-04-13T08:50:00.000Z","employee_id":1,"create_course_id":157,"salary_id":1,"status_sort":3,"status":"Attend","id":554,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"teaching_fee":null,"createdById":null,"updatedById":null},{"createdAt":"2025-04-13T03:44:05.668Z","updatedAt":"2025-04-13T04:24:16.530Z","start_date":"2025-04-13T08:00:26.000Z","end_date":"2025-04-13T08:50:00.000Z","employee_id":1,"create_course_id":158,"salary_id":1,"status_sort":16,"status":"Inactive","id":564,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"teaching_fee":null,"createdById":null,"updatedById":null}]}}},"status":1,"stack":null,"output":null,"workflowId":147},"message":"execution (1009) finished with status: 1","timestamp":"2025-04-13 04:24:16"}
+{"level":"info","message":"new event triggered, now events: 2","timestamp":"2025-04-13 04:24:17"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-13 04:24:17"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-13 04:24:17"}
+{"level":"info","message":"execution of workflow 147 created as 1011","timestamp":"2025-04-13 04:24:17"}
+{"level":"info","message":"execution (1011) fetched from db","timestamp":"2025-04-13 04:24:17"}
+{"level":"info","message":"execution (1011) starting...","timestamp":"2025-04-13 04:24:17"}
+{"level":"info","message":"execution (1011) run instruction [query] for node (1314)","timestamp":"2025-04-13 04:24:17"}
+{"level":"info","message":"execution (1011) run instruction [query] for node (1314) finished as status: 1","timestamp":"2025-04-13 04:24:17"}
+{"level":"info","message":"execution (1011) run instruction [condition] for node (1316)","timestamp":"2025-04-13 04:24:17"}
+{"level":"info","message":"execution (1011) run instruction [update] for node (1317)","timestamp":"2025-04-13 04:24:17"}
+{"level":"info","message":"execution (1011) run instruction [update] for node (1317) finished as status: 1","timestamp":"2025-04-13 04:24:17"}
+{"level":"info","message":"execution (1011) run instruction [condition] for node (1316)","timestamp":"2025-04-13 04:24:17"}
+{"level":"info","message":"execution (1011) run instruction [condition] for node (1316) finished as status: 1","timestamp":"2025-04-13 04:24:17"}
+{"level":"info","message":"execution (1011) exiting with status 1","timestamp":"2025-04-13 04:24:17"}
+{"level":"info","message":"execution (1011) exiting with status 1","timestamp":"2025-04-13 04:24:17"}
+{"level":"info","execution":{"id":1011,"createdAt":"2025-04-13T04:24:17.533Z","updatedAt":"2025-04-13T04:24:17.566Z","key":"ju393tq5yqm","eventKey":"b803be8d-e790-44ca-8d0f-66b4d439e28d","context":{"data":{"createdAt":"2025-04-13T03:26:15.133Z","updatedAt":"2025-04-13T04:24:17.521Z","start_date":"2025-04-13T08:00:26.000Z","end_date":"2025-04-13T08:50:00.000Z","employee_id":1,"create_course_id":157,"salary_id":1,"status_sort":17,"status":"Inactive","id":554,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"teaching_fee":null,"createdById":null,"updatedById":null,"salary_db":{"createdAt":"2025-04-05T13:23:25.985Z","updatedAt":"2025-04-09T14:30:50.356Z","employee_id":1,"salary_amount":0,"id":1,"date":"2025-04-01","monthly":"4/2025","createdById":null,"updatedById":1,"attendance_db":[{"createdAt":"2025-04-13T03:26:15.133Z","updatedAt":"2025-04-13T04:24:17.521Z","start_date":"2025-04-13T08:00:26.000Z","end_date":"2025-04-13T08:50:00.000Z","employee_id":1,"create_course_id":157,"salary_id":1,"status_sort":17,"status":"Inactive","id":554,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"teaching_fee":null,"createdById":null,"updatedById":null}]}}},"status":1,"stack":null,"output":null,"workflowId":147},"message":"execution (1011) finished with status: 1","timestamp":"2025-04-13 04:24:17"}
+{"level":"info","message":"new event triggered, now events: 2","timestamp":"2025-04-13 04:26:56"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-13 04:26:56"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-13 04:26:56"}
+{"level":"info","message":"execution of workflow 147 created as 1013","timestamp":"2025-04-13 04:26:56"}
+{"level":"info","message":"execution (1013) fetched from db","timestamp":"2025-04-13 04:26:56"}
+{"level":"info","message":"execution (1013) starting...","timestamp":"2025-04-13 04:26:56"}
+{"level":"info","message":"execution (1013) run instruction [query] for node (1314)","timestamp":"2025-04-13 04:26:56"}
+{"level":"info","message":"execution (1013) run instruction [query] for node (1314) finished as status: 1","timestamp":"2025-04-13 04:26:56"}
+{"level":"info","message":"execution (1013) run instruction [condition] for node (1316)","timestamp":"2025-04-13 04:26:56"}
+{"level":"info","message":"execution (1013) run instruction [update] for node (1315)","timestamp":"2025-04-13 04:26:56"}
+{"level":"info","message":"execution (1013) run instruction [update] for node (1315) finished as status: 1","timestamp":"2025-04-13 04:26:56"}
+{"level":"info","message":"execution (1013) run instruction [condition] for node (1316)","timestamp":"2025-04-13 04:26:56"}
+{"level":"info","message":"execution (1013) run instruction [condition] for node (1316) finished as status: 1","timestamp":"2025-04-13 04:26:56"}
+{"level":"info","message":"execution (1013) exiting with status 1","timestamp":"2025-04-13 04:26:56"}
+{"level":"info","message":"execution (1013) exiting with status 1","timestamp":"2025-04-13 04:26:56"}
+{"level":"info","execution":{"id":1013,"createdAt":"2025-04-13T04:26:56.913Z","updatedAt":"2025-04-13T04:26:56.980Z","key":"ju393tq5yqm","eventKey":"a6ba2eef-845b-40cc-a2c5-5f71a2cbdd7a","context":{"data":{"createdAt":"2025-04-13T03:44:05.668Z","updatedAt":"2025-04-13T04:26:56.861Z","start_date":"2025-04-13T08:00:26.000Z","end_date":"2025-04-13T08:50:00.000Z","employee_id":1,"create_course_id":158,"salary_id":null,"status_sort":1,"status":"Attend","id":564,"status_convert":0,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"teaching_fee":null,"createdById":null,"updatedById":null,"salary_db":null}},"status":1,"stack":null,"output":null,"workflowId":147},"message":"execution (1013) finished with status: 1","timestamp":"2025-04-13 04:26:56"}
+{"level":"info","message":"new event triggered, now events: 2","timestamp":"2025-04-13 04:26:57"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-13 04:26:57"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-13 04:26:57"}
+{"level":"info","message":"execution of workflow 147 created as 1015","timestamp":"2025-04-13 04:26:57"}
+{"level":"info","message":"execution (1015) fetched from db","timestamp":"2025-04-13 04:26:57"}
+{"level":"info","message":"execution (1015) starting...","timestamp":"2025-04-13 04:26:57"}
+{"level":"info","message":"execution (1015) run instruction [query] for node (1314)","timestamp":"2025-04-13 04:26:57"}
+{"level":"info","message":"execution (1015) run instruction [query] for node (1314) finished as status: 1","timestamp":"2025-04-13 04:26:57"}
+{"level":"info","message":"execution (1015) run instruction [condition] for node (1316)","timestamp":"2025-04-13 04:26:57"}
+{"level":"info","message":"execution (1015) run instruction [update] for node (1315)","timestamp":"2025-04-13 04:26:57"}
+{"level":"info","message":"execution (1015) run instruction [update] for node (1315) finished as status: 1","timestamp":"2025-04-13 04:26:57"}
+{"level":"info","message":"execution (1015) run instruction [condition] for node (1316)","timestamp":"2025-04-13 04:26:57"}
+{"level":"info","message":"execution (1015) run instruction [condition] for node (1316) finished as status: 1","timestamp":"2025-04-13 04:26:57"}
+{"level":"info","message":"execution (1015) exiting with status 1","timestamp":"2025-04-13 04:26:57"}
+{"level":"info","message":"execution (1015) exiting with status 1","timestamp":"2025-04-13 04:26:57"}
+{"level":"info","execution":{"id":1015,"createdAt":"2025-04-13T04:26:57.849Z","updatedAt":"2025-04-13T04:26:57.926Z","key":"ju393tq5yqm","eventKey":"f14c49a6-78b2-43fd-85bd-16f493a72b6a","context":{"data":{"createdAt":"2025-04-13T03:26:15.133Z","updatedAt":"2025-04-13T04:26:57.821Z","start_date":"2025-04-13T08:00:26.000Z","end_date":"2025-04-13T08:50:00.000Z","employee_id":1,"create_course_id":157,"salary_id":null,"status_sort":2,"status":"Attend","id":554,"status_convert":0,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"teaching_fee":null,"createdById":null,"updatedById":null,"salary_db":null}},"status":1,"stack":null,"output":null,"workflowId":147},"message":"execution (1015) finished with status: 1","timestamp":"2025-04-13 04:26:57"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-13 05:57:55"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-13 05:57:58"}
+{"level":"info","message":"execution of workflow 147 created as 1016","timestamp":"2025-04-13 05:58:01"}
+{"level":"info","message":"pending execution (1016) ready to process","timestamp":"2025-04-13 05:58:08"}
+{"level":"info","message":"queueing execution (1016) from pending list updated to started","timestamp":"2025-04-13 05:58:08"}
+{"level":"info","message":"execution (1016) starting...","timestamp":"2025-04-13 05:58:08"}
+{"level":"info","message":"execution (1016) run instruction [query] for node (1314)","timestamp":"2025-04-13 05:58:08"}
+{"level":"info","message":"execution (1016) run instruction [query] for node (1314) finished as status: 1","timestamp":"2025-04-13 05:58:09"}
+{"level":"info","message":"execution (1016) run instruction [condition] for node (1316)","timestamp":"2025-04-13 05:58:09"}
+{"level":"info","message":"execution (1016) run instruction [update] for node (1315)","timestamp":"2025-04-13 05:58:09"}
+{"level":"info","message":"execution (1016) run instruction [update] for node (1315) finished as status: 1","timestamp":"2025-04-13 05:58:10"}
+{"level":"info","message":"execution (1016) run instruction [condition] for node (1316)","timestamp":"2025-04-13 05:58:10"}
+{"level":"info","message":"execution (1016) run instruction [condition] for node (1316) finished as status: 1","timestamp":"2025-04-13 05:58:10"}
+{"level":"info","message":"execution (1016) exiting with status 1","timestamp":"2025-04-13 05:58:10"}
+{"level":"info","message":"execution (1016) exiting with status 1","timestamp":"2025-04-13 05:58:10"}
+{"level":"info","execution":{"id":1016,"context":{"data":{"createdAt":"2025-04-13T03:26:15.188Z","updatedAt":"2025-04-13T05:57:55.165Z","start_date":"2025-04-20T08:00:00.000Z","end_date":"2025-04-20T08:50:00.000Z","employee_id":1,"create_course_id":157,"salary_id":null,"status_sort":3,"status":"Attend","id":555,"status_convert":0,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"teaching_fee":66.5,"createdById":null,"updatedById":1,"salary_db":null}},"key":"ju393tq5yqm","eventKey":"648276cd-973e-4581-9247-051b6b3b366b","stack":null,"status":1,"workflowId":147,"updatedAt":"2025-04-13T05:58:10.490Z","createdAt":"2025-04-13T05:57:58.598Z","output":null},"message":"execution (1016) finished with status: 1","timestamp":"2025-04-13 05:58:10"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-13 06:02:38"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-13 06:02:39"}
+{"level":"info","message":"execution of workflow 147 created as 1018","timestamp":"2025-04-13 06:02:40"}
+{"level":"info","message":"pending execution (1018) ready to process","timestamp":"2025-04-13 06:02:40"}
+{"level":"info","message":"queueing execution (1018) from pending list updated to started","timestamp":"2025-04-13 06:02:40"}
+{"level":"info","message":"execution (1018) starting...","timestamp":"2025-04-13 06:02:40"}
+{"level":"info","message":"execution (1018) run instruction [query] for node (1314)","timestamp":"2025-04-13 06:02:40"}
+{"level":"info","message":"execution (1018) run instruction [query] for node (1314) finished as status: 1","timestamp":"2025-04-13 06:02:40"}
+{"level":"info","message":"execution (1018) run instruction [condition] for node (1316)","timestamp":"2025-04-13 06:02:40"}
+{"level":"info","message":"execution (1018) run instruction [update] for node (1315)","timestamp":"2025-04-13 06:02:40"}
+{"level":"info","message":"execution (1018) run instruction [update] for node (1315) finished as status: 1","timestamp":"2025-04-13 06:02:41"}
+{"level":"info","message":"execution (1018) run instruction [condition] for node (1316)","timestamp":"2025-04-13 06:02:41"}
+{"level":"info","message":"execution (1018) run instruction [condition] for node (1316) finished as status: 1","timestamp":"2025-04-13 06:02:41"}
+{"level":"info","message":"execution (1018) exiting with status 1","timestamp":"2025-04-13 06:02:41"}
+{"level":"info","message":"execution (1018) exiting with status 1","timestamp":"2025-04-13 06:02:41"}
+{"level":"info","execution":{"id":1018,"context":{"data":{"createdAt":"2025-04-13T03:44:05.719Z","updatedAt":"2025-04-13T06:02:38.597Z","start_date":"2025-04-20T08:00:00.000Z","end_date":"2025-04-20T08:50:00.000Z","employee_id":1,"create_course_id":158,"salary_id":null,"status_sort":4,"status":"Attend","id":565,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"teaching_fee":70,"createdById":null,"updatedById":1,"salary_db":null}},"key":"ju393tq5yqm","eventKey":"b3a96289-bb1f-4b8d-a039-17d5f559e62e","stack":null,"status":1,"workflowId":147,"updatedAt":"2025-04-13T06:02:41.386Z","createdAt":"2025-04-13T06:02:39.856Z","output":null},"message":"execution (1018) finished with status: 1","timestamp":"2025-04-13 06:02:41"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"execution of workflow 147 created as 1020","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"pending execution (1020) ready to process","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"queueing execution (1020) from pending list updated to started","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"execution (1020) starting...","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"execution (1020) run instruction [query] for node (1314)","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"execution (1020) run instruction [query] for node (1314) finished as status: 1","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"execution (1020) run instruction [condition] for node (1316)","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"execution (1020) run instruction [update] for node (1317)","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"execution (1020) run instruction [update] for node (1317) finished as status: 1","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"execution (1020) run instruction [condition] for node (1316)","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"execution (1020) run instruction [condition] for node (1316) finished as status: 1","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"execution (1020) exiting with status 1","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"execution (1020) exiting with status 1","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","execution":{"id":1020,"context":{"data":{"createdAt":"2025-04-13T03:44:05.668Z","updatedAt":"2025-04-13T08:42:59.997Z","start_date":"2025-04-13T08:00:26.000Z","end_date":"2025-04-13T08:50:00.000Z","employee_id":1,"create_course_id":158,"salary_id":1,"status_sort":16,"status":"Inactive","id":564,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"createdById":null,"updatedById":null,"teaching_fee":null,"salary_db":{"createdAt":"2025-04-05T13:23:25.985Z","updatedAt":"2025-04-09T14:30:50.356Z","employee_id":1,"salary_amount":136.5,"id":1,"date":"2025-04-01","monthly":"4/2025","createdById":null,"updatedById":1,"attendance_db":[{"createdAt":"2025-04-13T03:26:15.133Z","updatedAt":"2025-04-13T06:02:41.290Z","start_date":"2025-04-13T08:00:26.000Z","end_date":"2025-04-13T08:50:00.000Z","employee_id":1,"create_course_id":157,"salary_id":1,"status_sort":2,"status":"Attend","id":554,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"createdById":null,"updatedById":null,"teaching_fee":null},{"createdAt":"2025-04-13T03:26:15.188Z","updatedAt":"2025-04-13T06:02:41.290Z","start_date":"2025-04-20T08:00:00.000Z","end_date":"2025-04-20T08:50:00.000Z","employee_id":1,"create_course_id":157,"salary_id":1,"status_sort":3,"status":"Attend","id":555,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"createdById":null,"updatedById":1,"teaching_fee":66.5},{"createdAt":"2025-04-13T03:44:05.668Z","updatedAt":"2025-04-13T08:42:59.997Z","start_date":"2025-04-13T08:00:26.000Z","end_date":"2025-04-13T08:50:00.000Z","employee_id":1,"create_course_id":158,"salary_id":1,"status_sort":16,"status":"Inactive","id":564,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"createdById":null,"updatedById":null,"teaching_fee":null},{"createdAt":"2025-04-13T03:44:05.719Z","updatedAt":"2025-04-13T06:02:41.290Z","start_date":"2025-04-20T08:00:00.000Z","end_date":"2025-04-20T08:50:00.000Z","employee_id":1,"create_course_id":158,"salary_id":1,"status_sort":4,"status":"Attend","id":565,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"createdById":null,"updatedById":1,"teaching_fee":70}]}}},"key":"ju393tq5yqm","eventKey":"e4adeaca-0a2c-4d16-9afd-ea433736cce9","stack":null,"status":1,"workflowId":147,"updatedAt":"2025-04-13T08:43:00.208Z","createdAt":"2025-04-13T08:43:00.084Z","output":null},"message":"execution (1020) finished with status: 1","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"execution of workflow 147 created as 1022","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"pending execution (1022) ready to process","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"queueing execution (1022) from pending list updated to started","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"execution (1022) starting...","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"execution (1022) run instruction [query] for node (1314)","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"execution (1022) run instruction [query] for node (1314) finished as status: 1","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"execution (1022) run instruction [condition] for node (1316)","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"execution (1022) run instruction [update] for node (1317)","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"execution (1022) run instruction [update] for node (1317) finished as status: 1","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"execution (1022) run instruction [condition] for node (1316)","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"execution (1022) run instruction [condition] for node (1316) finished as status: 1","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"execution (1022) exiting with status 1","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"execution (1022) exiting with status 1","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","execution":{"id":1022,"context":{"data":{"createdAt":"2025-04-13T03:26:15.133Z","updatedAt":"2025-04-13T08:43:00.912Z","start_date":"2025-04-13T08:00:26.000Z","end_date":"2025-04-13T08:50:00.000Z","employee_id":1,"create_course_id":157,"salary_id":1,"status_sort":17,"status":"Inactive","id":554,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"createdById":null,"updatedById":null,"teaching_fee":null,"salary_db":{"createdAt":"2025-04-05T13:23:25.985Z","updatedAt":"2025-04-09T14:30:50.356Z","employee_id":1,"salary_amount":136.5,"id":1,"date":"2025-04-01","monthly":"4/2025","createdById":null,"updatedById":1,"attendance_db":[{"createdAt":"2025-04-13T03:26:15.133Z","updatedAt":"2025-04-13T08:43:00.912Z","start_date":"2025-04-13T08:00:26.000Z","end_date":"2025-04-13T08:50:00.000Z","employee_id":1,"create_course_id":157,"salary_id":1,"status_sort":17,"status":"Inactive","id":554,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"createdById":null,"updatedById":null,"teaching_fee":null},{"createdAt":"2025-04-13T03:26:15.188Z","updatedAt":"2025-04-13T06:02:41.290Z","start_date":"2025-04-20T08:00:00.000Z","end_date":"2025-04-20T08:50:00.000Z","employee_id":1,"create_course_id":157,"salary_id":1,"status_sort":3,"status":"Attend","id":555,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"createdById":null,"updatedById":1,"teaching_fee":66.5},{"createdAt":"2025-04-13T03:44:05.719Z","updatedAt":"2025-04-13T06:02:41.290Z","start_date":"2025-04-20T08:00:00.000Z","end_date":"2025-04-20T08:50:00.000Z","employee_id":1,"create_course_id":158,"salary_id":1,"status_sort":4,"status":"Attend","id":565,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"createdById":null,"updatedById":1,"teaching_fee":70}]}}},"key":"ju393tq5yqm","eventKey":"225b330d-d3a2-4d8e-abea-0d8828c77d28","stack":null,"status":1,"workflowId":147,"updatedAt":"2025-04-13T08:43:00.982Z","createdAt":"2025-04-13T08:43:00.926Z","output":null},"message":"execution (1022) finished with status: 1","timestamp":"2025-04-13 08:43:00"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-13 08:44:44"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-13 08:44:44"}
+{"level":"info","message":"execution of workflow 147 created as 1024","timestamp":"2025-04-13 08:44:44"}
+{"level":"info","message":"pending execution (1024) ready to process","timestamp":"2025-04-13 08:44:44"}
+{"level":"info","message":"queueing execution (1024) from pending list updated to started","timestamp":"2025-04-13 08:44:44"}
+{"level":"info","message":"execution (1024) starting...","timestamp":"2025-04-13 08:44:44"}
+{"level":"info","message":"execution (1024) run instruction [query] for node (1314)","timestamp":"2025-04-13 08:44:44"}
+{"level":"info","message":"execution (1024) run instruction [query] for node (1314) finished as status: 1","timestamp":"2025-04-13 08:44:44"}
+{"level":"info","message":"execution (1024) run instruction [condition] for node (1316)","timestamp":"2025-04-13 08:44:44"}
+{"level":"info","message":"execution (1024) run instruction [update] for node (1315)","timestamp":"2025-04-13 08:44:44"}
+{"level":"info","message":"execution (1024) run instruction [update] for node (1315) finished as status: 1","timestamp":"2025-04-13 08:44:44"}
+{"level":"info","message":"execution (1024) run instruction [condition] for node (1316)","timestamp":"2025-04-13 08:44:44"}
+{"level":"info","message":"execution (1024) run instruction [condition] for node (1316) finished as status: 1","timestamp":"2025-04-13 08:44:44"}
+{"level":"info","message":"execution (1024) exiting with status 1","timestamp":"2025-04-13 08:44:44"}
+{"level":"info","message":"execution (1024) exiting with status 1","timestamp":"2025-04-13 08:44:44"}
+{"level":"info","execution":{"id":1024,"context":{"data":{"createdAt":"2025-04-13T03:44:05.668Z","updatedAt":"2025-04-13T08:44:44.413Z","start_date":"2025-04-13T08:00:26.000Z","end_date":"2025-04-13T08:50:00.000Z","employee_id":1,"create_course_id":158,"salary_id":null,"status_sort":5,"status":"Attend","id":564,"status_convert":0,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"createdById":null,"updatedById":null,"teaching_fee":null,"salary_db":null}},"key":"ju393tq5yqm","eventKey":"1b24140e-b10e-465b-a4f5-a85a5a455197","stack":null,"status":1,"workflowId":147,"updatedAt":"2025-04-13T08:44:44.561Z","createdAt":"2025-04-13T08:44:44.450Z","output":null},"message":"execution (1024) finished with status: 1","timestamp":"2025-04-13 08:44:44"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-13 08:46:06"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-13 08:46:06"}
+{"level":"info","message":"execution of workflow 147 created as 1026","timestamp":"2025-04-13 08:46:06"}
+{"level":"info","message":"pending execution (1026) ready to process","timestamp":"2025-04-13 08:46:06"}
+{"level":"info","message":"queueing execution (1026) from pending list updated to started","timestamp":"2025-04-13 08:46:06"}
+{"level":"info","message":"execution (1026) starting...","timestamp":"2025-04-13 08:46:06"}
+{"level":"info","message":"execution (1026) run instruction [query] for node (1314)","timestamp":"2025-04-13 08:46:06"}
+{"level":"info","message":"execution (1026) run instruction [query] for node (1314) finished as status: 1","timestamp":"2025-04-13 08:46:06"}
+{"level":"info","message":"execution (1026) run instruction [condition] for node (1316)","timestamp":"2025-04-13 08:46:06"}
+{"level":"info","message":"execution (1026) run instruction [update] for node (1315)","timestamp":"2025-04-13 08:46:06"}
+{"level":"info","message":"execution (1026) run instruction [update] for node (1315) finished as status: 1","timestamp":"2025-04-13 08:46:06"}
+{"level":"info","message":"execution (1026) run instruction [condition] for node (1316)","timestamp":"2025-04-13 08:46:06"}
+{"level":"info","message":"execution (1026) run instruction [condition] for node (1316) finished as status: 1","timestamp":"2025-04-13 08:46:06"}
+{"level":"info","message":"execution (1026) exiting with status 1","timestamp":"2025-04-13 08:46:06"}
+{"level":"info","message":"execution (1026) exiting with status 1","timestamp":"2025-04-13 08:46:06"}
+{"level":"info","execution":{"id":1026,"context":{"data":{"createdAt":"2025-04-13T03:26:15.133Z","updatedAt":"2025-04-13T08:46:06.808Z","start_date":"2025-04-13T08:00:26.000Z","end_date":"2025-04-13T08:50:00.000Z","employee_id":1,"create_course_id":157,"salary_id":null,"status_sort":6,"status":"Attend","id":554,"status_convert":0,"month_convert":"4/2025","time_calculation":null,"student":"A Student","duration":null,"createdById":null,"updatedById":null,"teaching_fee":0,"salary_db":null}},"key":"ju393tq5yqm","eventKey":"c8737381-31de-4eac-9ecf-cd3cd72963f4","stack":null,"status":1,"workflowId":147,"updatedAt":"2025-04-13T08:46:06.946Z","createdAt":"2025-04-13T08:46:06.854Z","output":null},"message":"execution (1026) finished with status: 1","timestamp":"2025-04-13 08:46:06"}

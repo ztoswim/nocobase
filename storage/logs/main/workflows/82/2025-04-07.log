@@ -1,0 +1,13 @@
+{"level":"info","message":"execution of workflow 82 created as 185","timestamp":"2025-04-07 15:06:54"}
+{"level":"info","message":"queueing execution (185) from pending list updated to started","timestamp":"2025-04-07 15:06:54"}
+{"level":"info","message":"execution (185) starting...","timestamp":"2025-04-07 15:06:54"}
+{"level":"info","message":"execution (185) run instruction [query] for node (583)","timestamp":"2025-04-07 15:06:54"}
+{"level":"info","message":"execution (185) run instruction [query] for node (583) finished as status: 1","timestamp":"2025-04-07 15:06:54"}
+{"level":"info","message":"execution (185) run instruction [condition] for node (585)","timestamp":"2025-04-07 15:06:54"}
+{"level":"info","message":"execution (185) run instruction [update] for node (586)","timestamp":"2025-04-07 15:06:54"}
+{"level":"info","message":"execution (185) run instruction [update] for node (586) finished as status: 1","timestamp":"2025-04-07 15:06:54"}
+{"level":"info","message":"execution (185) run instruction [condition] for node (585)","timestamp":"2025-04-07 15:06:54"}
+{"level":"info","message":"execution (185) run instruction [condition] for node (585) finished as status: 1","timestamp":"2025-04-07 15:06:54"}
+{"level":"info","message":"execution (185) exiting with status 1","timestamp":"2025-04-07 15:06:54"}
+{"level":"info","message":"execution (185) exiting with status 1","timestamp":"2025-04-07 15:06:54"}
+{"level":"info","execution":{"id":185,"context":{"data":{"createdAt":"2025-04-05T02:24:15.229Z","updatedAt":"2025-04-07T15:06:35.580Z","start_date":"2025-06-06T16:00:00.000Z","end_date":"2025-06-06T16:00:00.000Z","employee_id":3,"create_course_id":38,"salary_id":1,"student":"B student","id":151,"status":null,"status_convert":null,"createdById":null,"updatedById":1,"month_convert":"6/2025","salary_db":{"createdAt":"2025-04-05T13:23:25.985Z","updatedAt":"2025-04-07T13:36:21.621Z","employee_id":1,"salary_amount":null,"id":1,"createdById":null,"updatedById":1,"date":"2025-04-01","monthly":"4/2025"}}},"key":"ju393tq5yqm","eventKey":"756b6f04-3893-4919-a73f-3f155660fd0f","stack":null,"status":1,"workflowId":82,"updatedAt":"2025-04-07T15:06:54.956Z","createdAt":"2025-04-07T15:06:54.927Z","output":null},"message":"execution (185) finished with status: 1","timestamp":"2025-04-07 15:06:54"}

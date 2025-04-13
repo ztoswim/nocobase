@@ -1,0 +1,12 @@
+{"level":"info","message":"caching scheduled workflow will run at: 2025-04-09T08:37:24.000Z","timestamp":"2025-04-09 08:37:18"}
+{"level":"info","message":"execution of workflow 107 created as 469","timestamp":"2025-04-09 08:37:22"}
+{"level":"info","message":"queueing execution (469) from pending list updated to started","timestamp":"2025-04-09 08:37:22"}
+{"level":"info","message":"execution (469) starting...","timestamp":"2025-04-09 08:37:22"}
+{"level":"info","message":"execution (469) run instruction [query] for node (853)","timestamp":"2025-04-09 08:37:22"}
+{"level":"info","message":"execution (469) run instruction [query] for node (853) finished as status: 1","timestamp":"2025-04-09 08:37:22"}
+{"level":"info","message":"execution (469) run instruction [calculation] for node (854)","timestamp":"2025-04-09 08:37:22"}
+{"level":"info","message":"execution (469) run instruction [calculation] for node (854) finished as status: 1","timestamp":"2025-04-09 08:37:22"}
+{"level":"info","message":"execution (469) run instruction [update] for node (852)","timestamp":"2025-04-09 08:37:22"}
+{"level":"info","message":"execution (469) run instruction [update] for node (852) finished as status: 1","timestamp":"2025-04-09 08:37:22"}
+{"level":"info","message":"execution (469) exiting with status 1","timestamp":"2025-04-09 08:37:22"}
+{"level":"info","execution":{"id":469,"context":{"date":"2025-04-09T08:37:22.937Z"},"key":"rbyplgq5t6z","eventKey":"b7330674-c738-4ef1-bcb3-7387addd7c89","stack":null,"status":1,"workflowId":107,"updatedAt":"2025-04-09T08:37:22.987Z","createdAt":"2025-04-09T08:37:22.938Z","output":null},"message":"execution (469) finished with status: 1","timestamp":"2025-04-09 08:37:22"}

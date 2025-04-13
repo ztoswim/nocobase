@@ -1,0 +1,42 @@
+{"level":"info","message":"caching scheduled workflow will run at: 2025-04-10T07:59:00.000Z","timestamp":"2025-04-10 05:22:13"}
+{"level":"info","message":"caching scheduled workflow will run at: 2025-04-11T07:59:00.000Z","timestamp":"2025-04-10 14:11:10"}
+{"level":"info","message":"caching scheduled workflow will run at: 2025-04-11T07:04:00.000Z","timestamp":"2025-04-10 16:03:48"}
+{"level":"info","message":"caching scheduled workflow will run at: 2025-04-11T07:59:00.000Z","timestamp":"2025-04-10 16:03:56"}
+{"level":"info","message":"caching scheduled workflow will run at: 2025-04-11T08:05:00.000Z","timestamp":"2025-04-10 16:04:34"}
+{"level":"info","message":"caching scheduled workflow will run at: 2025-04-11T08:06:00.000Z","timestamp":"2025-04-10 16:05:20"}
+{"level":"info","message":"caching scheduled workflow will run at: 2025-04-11T08:05:00.000Z","timestamp":"2025-04-10 16:05:24"}
+{"level":"info","message":"caching scheduled workflow will run at: 2025-04-11T00:07:00.000Z","timestamp":"2025-04-10 16:06:42"}
+{"level":"info","message":"caching scheduled workflow will run at: 2025-04-11T08:05:00.000Z","timestamp":"2025-04-10 16:06:44"}
+{"level":"info","message":"caching scheduled workflow will run at: 2025-04-11T00:07:00.000Z","timestamp":"2025-04-10 16:06:46"}
+{"level":"info","message":"caching scheduled workflow will run at: 2025-04-11T08:05:00.000Z","timestamp":"2025-04-10 16:06:49"}
+{"level":"info","message":"caching scheduled workflow will run at: 2025-04-11T00:07:00.000Z","timestamp":"2025-04-10 16:06:53"}
+{"level":"info","message":"caching scheduled workflow will run at: 2025-04-11T00:07:00.000Z","timestamp":"2025-04-10 16:07:09"}
+{"level":"info","message":"caching scheduled workflow will run at: 2025-04-11T00:07:00.000Z","timestamp":"2025-04-10 16:07:12"}
+{"level":"info","message":"caching scheduled workflow will run at: 2025-04-10T16:08:17.000Z","timestamp":"2025-04-10 16:07:56"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-10 16:08:17"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-10 16:08:17"}
+{"level":"info","message":"execution of workflow 128 created as 730","timestamp":"2025-04-10 16:08:17"}
+{"level":"info","message":"pending execution (730) ready to process","timestamp":"2025-04-10 16:08:17"}
+{"level":"info","message":"queueing execution (730) from pending list updated to started","timestamp":"2025-04-10 16:08:17"}
+{"level":"info","message":"execution (730) starting...","timestamp":"2025-04-10 16:08:17"}
+{"level":"info","message":"execution (730) run instruction [sql] for node (893)","timestamp":"2025-04-10 16:08:17"}
+{"level":"info","message":"execution (730) run instruction [sql] for node (893) finished as status: 1","timestamp":"2025-04-10 16:08:17"}
+{"level":"info","message":"execution (730) exiting with status 1","timestamp":"2025-04-10 16:08:17"}
+{"level":"info","execution":{"id":730,"context":{"date":"2025-04-10T16:08:17.000Z"},"key":"xe1jdej16kv","eventKey":"128@1744301297000","stack":null,"status":1,"workflowId":128,"updatedAt":"2025-04-10T16:08:17.211Z","createdAt":"2025-04-10T16:08:17.052Z","output":null},"message":"execution (730) finished with status: 1","timestamp":"2025-04-10 16:08:17"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-10 16:09:16"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-10 16:09:16"}
+{"level":"info","message":"execution of workflow 128 created as 731","timestamp":"2025-04-10 16:09:17"}
+{"level":"info","message":"pending execution (731) ready to process","timestamp":"2025-04-10 16:09:17"}
+{"level":"info","message":"queueing execution (731) from pending list updated to started","timestamp":"2025-04-10 16:09:17"}
+{"level":"info","message":"execution (731) starting...","timestamp":"2025-04-10 16:09:17"}
+{"level":"info","message":"execution (731) run instruction [sql] for node (893)","timestamp":"2025-04-10 16:09:17"}
+{"level":"info","message":"execution (731) run instruction [sql] for node (893) finished as status: 1","timestamp":"2025-04-10 16:09:17"}
+{"level":"info","message":"execution (731) exiting with status 1","timestamp":"2025-04-10 16:09:17"}
+{"level":"info","execution":{"id":731,"context":{"date":"2025-04-10T16:09:17.000Z"},"key":"xe1jdej16kv","eventKey":"128@1744301357000","stack":null,"status":1,"workflowId":128,"updatedAt":"2025-04-10T16:09:17.033Z","createdAt":"2025-04-10T16:09:16.999Z","output":null},"message":"execution (731) finished with status: 1","timestamp":"2025-04-10 16:09:17"}
+{"level":"info","message":"execution of workflow 128 created as 732","timestamp":"2025-04-10 16:28:58"}
+{"level":"info","message":"queueing execution (732) from pending list updated to started","timestamp":"2025-04-10 16:28:58"}
+{"level":"info","message":"execution (732) starting...","timestamp":"2025-04-10 16:28:58"}
+{"level":"info","message":"execution (732) run instruction [sql] for node (893)","timestamp":"2025-04-10 16:28:58"}
+{"level":"info","message":"execution (732) run instruction [sql] for node (893) finished as status: 1","timestamp":"2025-04-10 16:28:58"}
+{"level":"info","message":"execution (732) exiting with status 1","timestamp":"2025-04-10 16:28:58"}
+{"level":"info","execution":{"id":732,"context":{"date":"2025-04-10T16:28:57.992Z"},"key":"xe1jdej16kv","eventKey":"f4b460c6-f601-40be-8f5a-0787a1cc14a1","stack":null,"status":1,"workflowId":128,"updatedAt":"2025-04-10T16:28:58.077Z","createdAt":"2025-04-10T16:28:58.007Z","output":null},"message":"execution (732) finished with status: 1","timestamp":"2025-04-10 16:28:58"}

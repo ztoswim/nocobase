@@ -1,0 +1,31 @@
+{"level":"info","message":"caching scheduled workflow will run at: 2025-04-09T10:07:17.000Z","timestamp":"2025-04-09 10:07:01"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-09 10:07:17"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-09 10:07:17"}
+{"level":"info","message":"execution of workflow 119 created as 512","timestamp":"2025-04-09 10:07:17"}
+{"level":"info","message":"pending execution (512) ready to process","timestamp":"2025-04-09 10:07:17"}
+{"level":"info","message":"queueing execution (512) from pending list updated to started","timestamp":"2025-04-09 10:07:17"}
+{"level":"info","message":"execution (512) starting...","timestamp":"2025-04-09 10:07:17"}
+{"level":"info","message":"execution (512) run instruction [update] for node (882)","timestamp":"2025-04-09 10:07:17"}
+{"level":"info","message":"execution (512) run instruction [update] for node (882) finished as status: 1","timestamp":"2025-04-09 10:07:17"}
+{"level":"info","message":"execution (512) exiting with status 1","timestamp":"2025-04-09 10:07:17"}
+{"level":"info","execution":{"id":512,"context":{"date":"2025-04-09T10:07:17.000Z"},"key":"xe1jdej16kv","eventKey":"119@1744193237000","stack":null,"status":1,"workflowId":119,"updatedAt":"2025-04-09T10:07:17.028Z","createdAt":"2025-04-09T10:07:17.002Z","output":null},"message":"execution (512) finished with status: 1","timestamp":"2025-04-09 10:07:17"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-09 10:08:16"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-09 10:08:16"}
+{"level":"info","message":"execution of workflow 119 created as 513","timestamp":"2025-04-09 10:08:17"}
+{"level":"info","message":"pending execution (513) ready to process","timestamp":"2025-04-09 10:08:17"}
+{"level":"info","message":"queueing execution (513) from pending list updated to started","timestamp":"2025-04-09 10:08:17"}
+{"level":"info","message":"execution (513) starting...","timestamp":"2025-04-09 10:08:17"}
+{"level":"info","message":"execution (513) run instruction [update] for node (882)","timestamp":"2025-04-09 10:08:17"}
+{"level":"info","message":"execution (513) run instruction [update] for node (882) finished as status: 1","timestamp":"2025-04-09 10:08:17"}
+{"level":"info","message":"execution (513) exiting with status 1","timestamp":"2025-04-09 10:08:17"}
+{"level":"info","execution":{"id":513,"context":{"date":"2025-04-09T10:08:17.000Z"},"key":"xe1jdej16kv","eventKey":"119@1744193297000","stack":null,"status":1,"workflowId":119,"updatedAt":"2025-04-09T10:08:17.083Z","createdAt":"2025-04-09T10:08:17.045Z","output":null},"message":"execution (513) finished with status: 1","timestamp":"2025-04-09 10:08:17"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-09 10:09:16"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-09 10:09:16"}
+{"level":"info","message":"execution of workflow 119 created as 514","timestamp":"2025-04-09 10:09:17"}
+{"level":"info","message":"pending execution (514) ready to process","timestamp":"2025-04-09 10:09:17"}
+{"level":"info","message":"queueing execution (514) from pending list updated to started","timestamp":"2025-04-09 10:09:17"}
+{"level":"info","message":"execution (514) starting...","timestamp":"2025-04-09 10:09:17"}
+{"level":"info","message":"execution (514) run instruction [update] for node (882)","timestamp":"2025-04-09 10:09:17"}
+{"level":"info","message":"execution (514) run instruction [update] for node (882) finished as status: 1","timestamp":"2025-04-09 10:09:17"}
+{"level":"info","message":"execution (514) exiting with status 1","timestamp":"2025-04-09 10:09:17"}
+{"level":"info","execution":{"id":514,"context":{"date":"2025-04-09T10:09:17.000Z"},"key":"xe1jdej16kv","eventKey":"119@1744193357000","stack":null,"status":1,"workflowId":119,"updatedAt":"2025-04-09T10:09:17.026Z","createdAt":"2025-04-09T10:09:16.999Z","output":null},"message":"execution (514) finished with status: 1","timestamp":"2025-04-09 10:09:17"}

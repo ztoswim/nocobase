@@ -1,0 +1,92 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-04 09:28:42"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-04 09:28:42"}
+{"level":"info","message":"execution of workflow 21 created as 26","timestamp":"2025-04-04 09:28:42"}
+{"level":"info","message":"pending execution (26) ready to process","timestamp":"2025-04-04 09:28:42"}
+{"level":"info","message":"queueing execution (26) from pending list updated to started","timestamp":"2025-04-04 09:28:42"}
+{"level":"info","message":"execution (26) starting...","timestamp":"2025-04-04 09:28:42"}
+{"level":"info","message":"execution (26) run instruction [condition] for node (102)","timestamp":"2025-04-04 09:28:42"}
+{"level":"info","message":"execution (26) run instruction [condition] for node (105)","timestamp":"2025-04-04 09:28:42"}
+{"level":"info","message":"execution (26) run instruction [condition] for node (114)","timestamp":"2025-04-04 09:28:42"}
+{"level":"info","message":"execution (26) run instruction [condition] for node (114) finished as status: 1","timestamp":"2025-04-04 09:28:42"}
+{"level":"info","message":"execution (26) run instruction [condition] for node (105)","timestamp":"2025-04-04 09:28:42"}
+{"level":"info","message":"execution (26) run instruction [condition] for node (105) finished as status: 1","timestamp":"2025-04-04 09:28:42"}
+{"level":"info","message":"execution (26) run instruction [condition] for node (102)","timestamp":"2025-04-04 09:28:42"}
+{"level":"info","message":"execution (26) run instruction [condition] for node (102) finished as status: 1","timestamp":"2025-04-04 09:28:42"}
+{"level":"info","message":"execution (26) exiting with status 1","timestamp":"2025-04-04 09:28:42"}
+{"level":"info","message":"execution (26) exiting with status 1","timestamp":"2025-04-04 09:28:42"}
+{"level":"info","message":"execution (26) exiting with status 1","timestamp":"2025-04-04 09:28:42"}
+{"level":"info","execution":{"id":26,"context":{"data":{"createdAt":"2025-04-04T09:28:42.390Z","updatedAt":"2025-04-04T09:28:42.401Z","payment_date":"2025-04-03T16:00:00.000Z","start_date":"2025-04-04T08:00:00.000Z","package_id":null,"id":23,"invoice_number":"1","student":5,"payment_method":"4","createdById":1,"updatedById":1,"package_db":null,"student_db":{"createdAt":"2025-04-04T08:16:21.327Z","updatedAt":"2025-04-04T09:24:30.784Z","dob":null,"start_date":null,"coach":1,"class_venue":2,"name":"AISYAH KHAYRA BINTI ABDULLAH UZAIR","gender":null,"parent_name":null,"contact_number":null,"email":null,"address":null,"emergency_contact_name":null,"emergency_contact_nunber":null,"day":null,"time":"16:00:25","duration":null,"id":5,"createdById":1,"updatedById":1}},"user":{"createdAt":"2025-03-31T14:39:23.735Z","updatedAt":"2025-04-04T07:45:27.126Z","systemSettings":{},"id":1,"nickname":"Felix","username":"felix","email":"xmrxperfectx@gmail.com","phone":null,"passwordChangeTz":1743556989843,"appLang":"zh-CN","createdById":null},"roleName":"root"},"key":"o3iucqm26et","eventKey":"c2ab7623-8567-4556-b672-5fa01108e23d","stack":null,"status":1,"workflowId":21,"updatedAt":"2025-04-04T09:28:42.488Z","createdAt":"2025-04-04T09:28:42.452Z","output":null},"message":"execution (26) finished with status: 1","timestamp":"2025-04-04 09:28:42"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution of workflow 21 created as 28","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"pending execution (28) ready to process","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"queueing execution (28) from pending list updated to started","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution (28) starting...","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution (28) run instruction [condition] for node (102)","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution (28) run instruction [condition] for node (105)","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution (28) run instruction [create] for node (106)","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution (28) run instruction [create] for node (106) finished as status: 1","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution (28) run instruction [calculation] for node (107)","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution (28) run instruction [calculation] for node (107) finished as status: 1","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution (28) run instruction [create] for node (108)","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution (28) run instruction [create] for node (108) finished as status: 1","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution (28) run instruction [calculation] for node (109)","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution (28) run instruction [calculation] for node (109) finished as status: 1","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution (28) run instruction [create] for node (110)","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution (28) run instruction [create] for node (110) finished as status: 1","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution (28) run instruction [calculation] for node (111)","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution (28) run instruction [calculation] for node (111) finished as status: 1","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution (28) run instruction [create] for node (112)","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution (28) run instruction [create] for node (112) finished as status: 1","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution (28) run instruction [end] for node (113)","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution (28) exiting with status 1","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution (28) exiting with status 1","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution (28) exiting with status 1","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"execution (28) exiting with status 1","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","execution":{"id":28,"context":{"data":{"createdAt":"2025-04-04T09:29:17.718Z","updatedAt":"2025-04-04T09:29:17.723Z","payment_date":null,"start_date":"2025-04-04T16:00:00.000Z","package_id":2,"id":24,"invoice_number":"1","student":5,"payment_method":null,"createdById":1,"updatedById":1,"package_db":{"createdAt":"2025-04-04T05:48:00.404Z","updatedAt":"2025-04-04T08:28:32.254Z","fee":400,"id":2,"name":"PV4 - 👤","transport_fee":null,"quantity":4,"createdById":1,"updatedById":1,"type":"PV"},"student_db":{"createdAt":"2025-04-04T08:16:21.327Z","updatedAt":"2025-04-04T09:24:30.784Z","dob":null,"start_date":null,"coach":1,"class_venue":2,"name":"AISYAH KHAYRA BINTI ABDULLAH UZAIR","gender":null,"parent_name":null,"contact_number":null,"email":null,"address":null,"emergency_contact_name":null,"emergency_contact_nunber":null,"day":null,"time":"16:00:25","duration":null,"id":5,"createdById":1,"updatedById":1}},"user":{"createdAt":"2025-03-31T14:39:23.735Z","updatedAt":"2025-04-04T07:45:27.126Z","systemSettings":{},"id":1,"nickname":"Felix","username":"felix","email":"xmrxperfectx@gmail.com","phone":null,"passwordChangeTz":1743556989843,"appLang":"zh-CN","createdById":null},"roleName":"root"},"key":"o3iucqm26et","eventKey":"3016ded1-d93f-4eac-9824-8c1dfeca3728","stack":null,"status":1,"workflowId":21,"updatedAt":"2025-04-04T09:29:17.797Z","createdAt":"2025-04-04T09:29:17.730Z","output":null},"message":"execution (28) finished with status: 1","timestamp":"2025-04-04 09:29:17"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-04 09:30:25"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-04 09:30:25"}
+{"level":"info","message":"execution of workflow 21 created as 30","timestamp":"2025-04-04 09:30:25"}
+{"level":"info","message":"pending execution (30) ready to process","timestamp":"2025-04-04 09:30:25"}
+{"level":"info","message":"queueing execution (30) from pending list updated to started","timestamp":"2025-04-04 09:30:25"}
+{"level":"info","message":"execution (30) starting...","timestamp":"2025-04-04 09:30:25"}
+{"level":"info","message":"execution (30) run instruction [condition] for node (102)","timestamp":"2025-04-04 09:30:25"}
+{"level":"info","message":"execution (30) run instruction [condition] for node (105)","timestamp":"2025-04-04 09:30:25"}
+{"level":"info","message":"execution (30) run instruction [condition] for node (114)","timestamp":"2025-04-04 09:30:25"}
+{"level":"info","message":"execution (30) run instruction [condition] for node (114) finished as status: 1","timestamp":"2025-04-04 09:30:25"}
+{"level":"info","message":"execution (30) run instruction [condition] for node (105)","timestamp":"2025-04-04 09:30:25"}
+{"level":"info","message":"execution (30) run instruction [condition] for node (105) finished as status: 1","timestamp":"2025-04-04 09:30:25"}
+{"level":"info","message":"execution (30) run instruction [condition] for node (102)","timestamp":"2025-04-04 09:30:25"}
+{"level":"info","message":"execution (30) run instruction [condition] for node (102) finished as status: 1","timestamp":"2025-04-04 09:30:25"}
+{"level":"info","message":"execution (30) exiting with status 1","timestamp":"2025-04-04 09:30:25"}
+{"level":"info","message":"execution (30) exiting with status 1","timestamp":"2025-04-04 09:30:25"}
+{"level":"info","message":"execution (30) exiting with status 1","timestamp":"2025-04-04 09:30:25"}
+{"level":"info","execution":{"id":30,"context":{"data":{"createdAt":"2025-04-04T09:30:25.637Z","updatedAt":"2025-04-04T09:30:25.643Z","payment_date":"2025-04-02T16:00:00.000Z","start_date":"2025-04-04T08:00:00.000Z","package_id":null,"id":25,"invoice_number":"12","student":5,"payment_method":null,"createdById":1,"updatedById":1,"package_db":null,"student_db":{"createdAt":"2025-04-04T08:16:21.327Z","updatedAt":"2025-04-04T09:24:30.784Z","dob":null,"start_date":null,"coach":1,"class_venue":2,"name":"AISYAH KHAYRA BINTI ABDULLAH UZAIR","gender":null,"parent_name":null,"contact_number":null,"email":null,"address":null,"emergency_contact_name":null,"emergency_contact_nunber":null,"day":null,"time":"16:00:25","duration":null,"id":5,"createdById":1,"updatedById":1}},"user":{"createdAt":"2025-03-31T14:39:23.735Z","updatedAt":"2025-04-04T07:45:27.126Z","systemSettings":{},"id":1,"nickname":"Felix","username":"felix","email":"xmrxperfectx@gmail.com","phone":null,"passwordChangeTz":1743556989843,"appLang":"zh-CN","createdById":null},"roleName":"root"},"key":"o3iucqm26et","eventKey":"09eddafe-4b0d-4b8a-a546-4d33fde6286d","stack":null,"status":1,"workflowId":21,"updatedAt":"2025-04-04T09:30:25.688Z","createdAt":"2025-04-04T09:30:25.657Z","output":null},"message":"execution (30) finished with status: 1","timestamp":"2025-04-04 09:30:25"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution of workflow 21 created as 32","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"pending execution (32) ready to process","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"queueing execution (32) from pending list updated to started","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution (32) starting...","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution (32) run instruction [condition] for node (102)","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution (32) run instruction [condition] for node (105)","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution (32) run instruction [create] for node (106)","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution (32) run instruction [create] for node (106) finished as status: 1","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution (32) run instruction [calculation] for node (107)","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution (32) run instruction [calculation] for node (107) finished as status: 1","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution (32) run instruction [create] for node (108)","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution (32) run instruction [create] for node (108) finished as status: 1","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution (32) run instruction [calculation] for node (109)","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution (32) run instruction [calculation] for node (109) finished as status: 1","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution (32) run instruction [create] for node (110)","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution (32) run instruction [create] for node (110) finished as status: 1","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution (32) run instruction [calculation] for node (111)","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution (32) run instruction [calculation] for node (111) finished as status: 1","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution (32) run instruction [create] for node (112)","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution (32) run instruction [create] for node (112) finished as status: 1","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution (32) run instruction [end] for node (113)","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution (32) exiting with status 1","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution (32) exiting with status 1","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution (32) exiting with status 1","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","message":"execution (32) exiting with status 1","timestamp":"2025-04-04 09:30:48"}
+{"level":"info","execution":{"id":32,"context":{"data":{"createdAt":"2025-04-04T09:30:48.901Z","updatedAt":"2025-04-04T09:30:48.906Z","payment_date":null,"start_date":"2025-04-03T20:00:00.000Z","package_id":2,"id":26,"invoice_number":"4","student":5,"payment_method":null,"createdById":1,"updatedById":1,"package_db":{"createdAt":"2025-04-04T05:48:00.404Z","updatedAt":"2025-04-04T08:28:32.254Z","fee":400,"id":2,"name":"PV4 - 👤","transport_fee":null,"quantity":4,"createdById":1,"updatedById":1,"type":"PV"},"student_db":{"createdAt":"2025-04-04T08:16:21.327Z","updatedAt":"2025-04-04T09:24:30.784Z","dob":null,"start_date":null,"coach":1,"class_venue":2,"name":"AISYAH KHAYRA BINTI ABDULLAH UZAIR","gender":null,"parent_name":null,"contact_number":null,"email":null,"address":null,"emergency_contact_name":null,"emergency_contact_nunber":null,"day":null,"time":"16:00:25","duration":null,"id":5,"createdById":1,"updatedById":1}},"user":{"createdAt":"2025-03-31T14:39:23.735Z","updatedAt":"2025-04-04T07:45:27.126Z","systemSettings":{},"id":1,"nickname":"Felix","username":"felix","email":"xmrxperfectx@gmail.com","phone":null,"passwordChangeTz":1743556989843,"appLang":"zh-CN","createdById":null},"roleName":"root"},"key":"o3iucqm26et","eventKey":"030d2a6e-bba5-4eaa-9830-dc6c5dd8c555","stack":null,"status":1,"workflowId":21,"updatedAt":"2025-04-04T09:30:48.974Z","createdAt":"2025-04-04T09:30:48.916Z","output":null},"message":"execution (32) finished with status: 1","timestamp":"2025-04-04 09:30:48"}

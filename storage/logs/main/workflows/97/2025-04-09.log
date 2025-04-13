@@ -1,0 +1,98 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-09 00:11:34"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-09 00:11:34"}
+{"level":"info","message":"execution of workflow 97 created as 419","timestamp":"2025-04-09 00:11:34"}
+{"level":"info","message":"pending execution (419) ready to process","timestamp":"2025-04-09 00:11:34"}
+{"level":"info","message":"queueing execution (419) from pending list updated to started","timestamp":"2025-04-09 00:11:34"}
+{"level":"info","message":"execution (419) starting...","timestamp":"2025-04-09 00:11:34"}
+{"level":"info","message":"execution (419) run instruction [query] for node (644)","timestamp":"2025-04-09 00:11:34"}
+{"level":"info","message":"execution (419) run instruction [query] for node (644) finished as status: 1","timestamp":"2025-04-09 00:11:34"}
+{"level":"info","message":"execution (419) run instruction [condition] for node (646)","timestamp":"2025-04-09 00:11:34"}
+{"level":"info","message":"execution (419) run instruction [update] for node (647)","timestamp":"2025-04-09 00:11:34"}
+{"level":"info","message":"execution (419) run instruction [update] for node (647) finished as status: 1","timestamp":"2025-04-09 00:11:34"}
+{"level":"info","message":"execution (419) run instruction [condition] for node (646)","timestamp":"2025-04-09 00:11:34"}
+{"level":"info","message":"execution (419) run instruction [condition] for node (646) finished as status: 1","timestamp":"2025-04-09 00:11:34"}
+{"level":"info","message":"execution (419) exiting with status 1","timestamp":"2025-04-09 00:11:34"}
+{"level":"info","message":"execution (419) exiting with status 1","timestamp":"2025-04-09 00:11:34"}
+{"level":"info","execution":{"id":419,"context":{"data":{"createdAt":"2025-04-08T15:19:47.853Z","updatedAt":"2025-04-09T00:11:34.316Z","start_date":"2025-04-08T08:00:26.000Z","end_date":"2025-04-08T08:50:00.000Z","employee_id":1,"create_course_id":86,"salary_id":1,"status":"2","id":246,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"createdById":null,"updatedById":1,"student":"A student","duration":null,"name_sort":2,"salary_db":{"createdAt":"2025-04-05T13:23:25.985Z","updatedAt":"2025-04-08T02:48:30.040Z","employee_id":1,"salary_amount":null,"id":1,"date":"2025-04-01","monthly":"4/2025","createdById":null,"updatedById":1}}},"key":"ju393tq5yqm","eventKey":"89492cd1-c4dc-4009-9987-6790b6979a85","stack":null,"status":1,"workflowId":97,"updatedAt":"2025-04-09T00:11:34.389Z","createdAt":"2025-04-09T00:11:34.340Z","output":null},"message":"execution (419) finished with status: 1","timestamp":"2025-04-09 00:11:34"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-09 00:11:43"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-09 00:11:43"}
+{"level":"info","message":"execution of workflow 97 created as 420","timestamp":"2025-04-09 00:11:43"}
+{"level":"info","message":"pending execution (420) ready to process","timestamp":"2025-04-09 00:11:43"}
+{"level":"info","message":"queueing execution (420) from pending list updated to started","timestamp":"2025-04-09 00:11:43"}
+{"level":"info","message":"execution (420) starting...","timestamp":"2025-04-09 00:11:43"}
+{"level":"info","message":"execution (420) run instruction [query] for node (644)","timestamp":"2025-04-09 00:11:43"}
+{"level":"info","message":"execution (420) run instruction [query] for node (644) finished as status: 1","timestamp":"2025-04-09 00:11:43"}
+{"level":"info","message":"execution (420) run instruction [condition] for node (646)","timestamp":"2025-04-09 00:11:43"}
+{"level":"info","message":"execution (420) run instruction [update] for node (647)","timestamp":"2025-04-09 00:11:43"}
+{"level":"error","message":"execution (420) run instruction [update] for node (647) failed:  Cannot read properties of undefined (reading 'replace')","stack":"TypeError: Cannot read properties of undefined (reading 'replace')\n    at escapeLike (/app/nocobase/node_modules/@nocobase/database/lib/operators/string.js:36:16)\n    at $notIncludes (/app/nocobase/node_modules/@nocobase/database/lib/operators/string.js:110:35)\n    at _FilterParser.toSequelizeParams (/app/nocobase/node_modules/@nocobase/database/lib/filter-parser.js:126:23)\n    at _OptionsParser.toSequelizeParams (/app/nocobase/node_modules/@nocobase/database/lib/options-parser.js:116:43)\n    at _Repository.buildQueryOptions (/app/nocobase/node_modules/@nocobase/database/lib/repository.js:538:27)\n    at _Repository.update (/app/nocobase/node_modules/@nocobase/database/lib/repository.js:394:34)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async descriptor.value (/app/nocobase/node_modules/@nocobase/database/lib/decorators/transaction-decorator.js:84:29)\n    at async UpdateInstruction.run (/app/nocobase/node_modules/@nocobase/plugin-workflow/dist/server/instructions/UpdateInstruction.js:42:20)\n    at async Processor.exec (/app/nocobase/node_modules/@nocobase/plugin-workflow/dist/server/Processor.js:160:13)\n    at async ConditionInstruction.run (/app/nocobase/node_modules/@nocobase/plugin-workflow/dist/server/instructions/ConditionInstruction.js:77:5)\n    at async Processor.exec (/app/nocobase/node_modules/@nocobase/plugin-workflow/dist/server/Processor.js:160:13)\n    at async Processor.start (/app/nocobase/node_modules/@nocobase/plugin-workflow/dist/server/Processor.js:141:7)\n    at async PluginWorkflowServer.process (/app/nocobase/node_modules/@nocobase/plugin-workflow/dist/server/Plugin.js:602:7)\n    at async /app/nocobase/node_modules/@nocobase/plugin-workflow/dist/server/Plugin.js:579:9","timestamp":"2025-04-09 00:11:43"}
+{"level":"info","message":"execution (420) run instruction [update] for node (647) finished as status: -2","timestamp":"2025-04-09 00:11:43"}
+{"level":"info","message":"execution (420) run instruction [condition] for node (646)","timestamp":"2025-04-09 00:11:43"}
+{"level":"info","message":"execution (420) exiting with status -2","timestamp":"2025-04-09 00:11:43"}
+{"level":"info","message":"execution (420) exiting with status -2","timestamp":"2025-04-09 00:11:43"}
+{"level":"info","message":"execution (420) exiting with status -2","timestamp":"2025-04-09 00:11:43"}
+{"level":"info","execution":{"id":420,"context":{"data":{"createdAt":"2025-04-08T15:19:47.853Z","updatedAt":"2025-04-09T00:11:43.738Z","start_date":"2025-04-08T08:00:26.000Z","end_date":"2025-04-08T08:50:00.000Z","employee_id":1,"create_course_id":86,"salary_id":null,"status":"1","id":246,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"createdById":null,"updatedById":1,"student":"A student","duration":null,"name_sort":5,"salary_db":null}},"key":"ju393tq5yqm","eventKey":"6152a2e7-d293-40d9-b836-6225954e51d1","stack":null,"status":-2,"workflowId":97,"updatedAt":"2025-04-09T00:11:43.777Z","createdAt":"2025-04-09T00:11:43.749Z","output":null},"message":"execution (420) finished with status: -2","timestamp":"2025-04-09 00:11:43"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-09 00:11:57"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-09 00:11:57"}
+{"level":"info","message":"execution of workflow 97 created as 421","timestamp":"2025-04-09 00:11:57"}
+{"level":"info","message":"pending execution (421) ready to process","timestamp":"2025-04-09 00:11:57"}
+{"level":"info","message":"queueing execution (421) from pending list updated to started","timestamp":"2025-04-09 00:11:57"}
+{"level":"info","message":"execution (421) starting...","timestamp":"2025-04-09 00:11:57"}
+{"level":"info","message":"execution (421) run instruction [query] for node (644)","timestamp":"2025-04-09 00:11:57"}
+{"level":"info","message":"execution (421) run instruction [query] for node (644) finished as status: 1","timestamp":"2025-04-09 00:11:57"}
+{"level":"info","message":"execution (421) run instruction [condition] for node (646)","timestamp":"2025-04-09 00:11:57"}
+{"level":"info","message":"execution (421) run instruction [update] for node (647)","timestamp":"2025-04-09 00:11:57"}
+{"level":"info","message":"execution (421) run instruction [update] for node (647) finished as status: 1","timestamp":"2025-04-09 00:11:57"}
+{"level":"info","message":"execution (421) run instruction [condition] for node (646)","timestamp":"2025-04-09 00:11:57"}
+{"level":"info","message":"execution (421) run instruction [condition] for node (646) finished as status: 1","timestamp":"2025-04-09 00:11:57"}
+{"level":"info","message":"execution (421) exiting with status 1","timestamp":"2025-04-09 00:11:57"}
+{"level":"info","message":"execution (421) exiting with status 1","timestamp":"2025-04-09 00:11:57"}
+{"level":"info","execution":{"id":421,"context":{"data":{"createdAt":"2025-04-08T15:20:05.585Z","updatedAt":"2025-04-09T00:11:57.090Z","start_date":"2025-04-08T00:00:26.000Z","end_date":"2025-04-08T00:30:00.000Z","employee_id":3,"create_course_id":88,"salary_id":2,"status":"1","id":251,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"createdById":null,"updatedById":1,"student":"C student","duration":null,"name_sort":3,"salary_db":{"createdAt":"2025-04-05T13:23:26.011Z","updatedAt":"2025-04-07T13:40:27.693Z","employee_id":3,"salary_amount":null,"id":2,"date":"2025-04-01","monthly":"4/2025","createdById":null,"updatedById":1}}},"key":"ju393tq5yqm","eventKey":"2c7ad45d-45c8-4772-804a-1b91392a12ef","stack":null,"status":1,"workflowId":97,"updatedAt":"2025-04-09T00:11:57.123Z","createdAt":"2025-04-09T00:11:57.097Z","output":null},"message":"execution (421) finished with status: 1","timestamp":"2025-04-09 00:11:57"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-09 00:12:03"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-09 00:12:03"}
+{"level":"info","message":"execution of workflow 97 created as 422","timestamp":"2025-04-09 00:12:03"}
+{"level":"info","message":"pending execution (422) ready to process","timestamp":"2025-04-09 00:12:03"}
+{"level":"info","message":"queueing execution (422) from pending list updated to started","timestamp":"2025-04-09 00:12:03"}
+{"level":"info","message":"execution (422) starting...","timestamp":"2025-04-09 00:12:03"}
+{"level":"info","message":"execution (422) run instruction [query] for node (644)","timestamp":"2025-04-09 00:12:03"}
+{"level":"info","message":"execution (422) run instruction [query] for node (644) finished as status: 1","timestamp":"2025-04-09 00:12:03"}
+{"level":"info","message":"execution (422) run instruction [condition] for node (646)","timestamp":"2025-04-09 00:12:03"}
+{"level":"info","message":"execution (422) run instruction [update] for node (647)","timestamp":"2025-04-09 00:12:03"}
+{"level":"error","message":"execution (422) run instruction [update] for node (647) failed:  Cannot read properties of undefined (reading 'replace')","stack":"TypeError: Cannot read properties of undefined (reading 'replace')\n    at escapeLike (/app/nocobase/node_modules/@nocobase/database/lib/operators/string.js:36:16)\n    at $notIncludes (/app/nocobase/node_modules/@nocobase/database/lib/operators/string.js:110:35)\n    at _FilterParser.toSequelizeParams (/app/nocobase/node_modules/@nocobase/database/lib/filter-parser.js:126:23)\n    at _OptionsParser.toSequelizeParams (/app/nocobase/node_modules/@nocobase/database/lib/options-parser.js:116:43)\n    at _Repository.buildQueryOptions (/app/nocobase/node_modules/@nocobase/database/lib/repository.js:538:27)\n    at _Repository.update (/app/nocobase/node_modules/@nocobase/database/lib/repository.js:394:34)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async descriptor.value (/app/nocobase/node_modules/@nocobase/database/lib/decorators/transaction-decorator.js:84:29)\n    at async UpdateInstruction.run (/app/nocobase/node_modules/@nocobase/plugin-workflow/dist/server/instructions/UpdateInstruction.js:42:20)\n    at async Processor.exec (/app/nocobase/node_modules/@nocobase/plugin-workflow/dist/server/Processor.js:160:13)\n    at async ConditionInstruction.run (/app/nocobase/node_modules/@nocobase/plugin-workflow/dist/server/instructions/ConditionInstruction.js:77:5)\n    at async Processor.exec (/app/nocobase/node_modules/@nocobase/plugin-workflow/dist/server/Processor.js:160:13)\n    at async Processor.start (/app/nocobase/node_modules/@nocobase/plugin-workflow/dist/server/Processor.js:141:7)\n    at async PluginWorkflowServer.process (/app/nocobase/node_modules/@nocobase/plugin-workflow/dist/server/Plugin.js:602:7)\n    at async /app/nocobase/node_modules/@nocobase/plugin-workflow/dist/server/Plugin.js:579:9","timestamp":"2025-04-09 00:12:03"}
+{"level":"info","message":"execution (422) run instruction [update] for node (647) finished as status: -2","timestamp":"2025-04-09 00:12:03"}
+{"level":"info","message":"execution (422) run instruction [condition] for node (646)","timestamp":"2025-04-09 00:12:03"}
+{"level":"info","message":"execution (422) exiting with status -2","timestamp":"2025-04-09 00:12:03"}
+{"level":"info","message":"execution (422) exiting with status -2","timestamp":"2025-04-09 00:12:03"}
+{"level":"info","message":"execution (422) exiting with status -2","timestamp":"2025-04-09 00:12:03"}
+{"level":"info","execution":{"id":422,"context":{"data":{"createdAt":"2025-04-08T15:19:47.853Z","updatedAt":"2025-04-09T00:12:03.814Z","start_date":"2025-04-08T08:00:26.000Z","end_date":"2025-04-08T08:50:00.000Z","employee_id":1,"create_course_id":86,"salary_id":null,"status":"1","id":246,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"createdById":null,"updatedById":1,"student":"A student","duration":null,"name_sort":5,"salary_db":null}},"key":"ju393tq5yqm","eventKey":"6941ccf6-a0b2-4963-9a62-50e4186e6542","stack":null,"status":-2,"workflowId":97,"updatedAt":"2025-04-09T00:12:03.843Z","createdAt":"2025-04-09T00:12:03.821Z","output":null},"message":"execution (422) finished with status: -2","timestamp":"2025-04-09 00:12:03"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-09 00:16:29"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-09 00:16:29"}
+{"level":"info","message":"execution of workflow 97 created as 423","timestamp":"2025-04-09 00:16:29"}
+{"level":"info","message":"pending execution (423) ready to process","timestamp":"2025-04-09 00:16:29"}
+{"level":"info","message":"queueing execution (423) from pending list updated to started","timestamp":"2025-04-09 00:16:29"}
+{"level":"info","message":"execution (423) starting...","timestamp":"2025-04-09 00:16:29"}
+{"level":"info","message":"execution (423) run instruction [query] for node (644)","timestamp":"2025-04-09 00:16:29"}
+{"level":"info","message":"execution (423) run instruction [query] for node (644) finished as status: 1","timestamp":"2025-04-09 00:16:29"}
+{"level":"info","message":"execution (423) run instruction [condition] for node (646)","timestamp":"2025-04-09 00:16:29"}
+{"level":"info","message":"execution (423) run instruction [update] for node (645)","timestamp":"2025-04-09 00:16:29"}
+{"level":"info","message":"execution (423) run instruction [update] for node (645) finished as status: 1","timestamp":"2025-04-09 00:16:29"}
+{"level":"info","message":"execution (423) run instruction [condition] for node (646)","timestamp":"2025-04-09 00:16:29"}
+{"level":"info","message":"execution (423) run instruction [condition] for node (646) finished as status: 1","timestamp":"2025-04-09 00:16:29"}
+{"level":"info","message":"execution (423) exiting with status 1","timestamp":"2025-04-09 00:16:29"}
+{"level":"info","message":"execution (423) exiting with status 1","timestamp":"2025-04-09 00:16:29"}
+{"level":"info","execution":{"id":423,"context":{"data":{"createdAt":"2025-04-08T15:20:05.585Z","updatedAt":"2025-04-09T00:16:29.391Z","start_date":"2025-04-08T00:00:26.000Z","end_date":"2025-04-08T00:30:00.000Z","employee_id":3,"create_course_id":88,"salary_id":2,"id":251,"status_convert":1,"month_convert":"4/2025","time_calculation":null,"createdById":null,"updatedById":1,"student":"C student","duration":null,"name_sort":1,"status":"Attend","salary_db":{"createdAt":"2025-04-05T13:23:26.011Z","updatedAt":"2025-04-07T13:40:27.693Z","employee_id":3,"salary_amount":null,"id":2,"date":"2025-04-01","monthly":"4/2025","createdById":null,"updatedById":1}}},"key":"ju393tq5yqm","eventKey":"b123de88-1f42-4def-bb6b-9631c2c3b5d6","stack":null,"status":1,"workflowId":97,"updatedAt":"2025-04-09T00:16:29.446Z","createdAt":"2025-04-09T00:16:29.398Z","output":null},"message":"execution (423) finished with status: 1","timestamp":"2025-04-09 00:16:29"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-09 00:16:36"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-09 00:16:36"}
+{"level":"info","message":"execution of workflow 97 created as 424","timestamp":"2025-04-09 00:16:36"}
+{"level":"info","message":"pending execution (424) ready to process","timestamp":"2025-04-09 00:16:36"}
+{"level":"info","message":"queueing execution (424) from pending list updated to started","timestamp":"2025-04-09 00:16:36"}
+{"level":"info","message":"execution (424) starting...","timestamp":"2025-04-09 00:16:36"}
+{"level":"info","message":"execution (424) run instruction [query] for node (644)","timestamp":"2025-04-09 00:16:36"}
+{"level":"info","message":"execution (424) run instruction [query] for node (644) finished as status: 1","timestamp":"2025-04-09 00:16:36"}
+{"level":"info","message":"execution (424) run instruction [condition] for node (646)","timestamp":"2025-04-09 00:16:36"}
+{"level":"info","message":"execution (424) run instruction [update] for node (645)","timestamp":"2025-04-09 00:16:36"}
+{"level":"info","message":"execution (424) run instruction [update] for node (645) finished as status: 1","timestamp":"2025-04-09 00:16:36"}
+{"level":"info","message":"execution (424) run instruction [condition] for node (646)","timestamp":"2025-04-09 00:16:36"}
+{"level":"info","message":"execution (424) run instruction [condition] for node (646) finished as status: 1","timestamp":"2025-04-09 00:16:36"}
+{"level":"info","message":"execution (424) exiting with status 1","timestamp":"2025-04-09 00:16:36"}
+{"level":"info","message":"execution (424) exiting with status 1","timestamp":"2025-04-09 00:16:36"}
+{"level":"info","execution":{"id":424,"context":{"data":{"createdAt":"2025-04-08T15:19:56.032Z","updatedAt":"2025-04-09T00:16:36.138Z","start_date":"2025-04-08T00:00:26.000Z","end_date":"2025-04-08T00:40:00.000Z","employee_id":3,"create_course_id":87,"salary_id":null,"id":247,"status_convert":0,"month_convert":"4/2025","time_calculation":null,"createdById":null,"updatedById":1,"student":"B student","duration":null,"name_sort":2,"status":"Attend","salary_db":null}},"key":"ju393tq5yqm","eventKey":"369792ec-aeb0-4bf6-a4c0-1b259723eb48","stack":null,"status":1,"workflowId":97,"updatedAt":"2025-04-09T00:16:36.169Z","createdAt":"2025-04-09T00:16:36.144Z","output":null},"message":"execution (424) finished with status: 1","timestamp":"2025-04-09 00:16:36"}

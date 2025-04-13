@@ -1,0 +1,7 @@
+{"level":"info","message":"execution of workflow 125 created as 588","timestamp":"2025-04-09 15:17:59"}
+{"level":"info","message":"queueing execution (588) from pending list updated to started","timestamp":"2025-04-09 15:18:00"}
+{"level":"info","message":"execution (588) starting...","timestamp":"2025-04-09 15:18:00"}
+{"level":"info","message":"execution (588) run instruction [sql] for node (890)","timestamp":"2025-04-09 15:18:00"}
+{"level":"info","message":"execution (588) run instruction [sql] for node (890) finished as status: 1","timestamp":"2025-04-09 15:18:00"}
+{"level":"info","message":"execution (588) exiting with status 1","timestamp":"2025-04-09 15:18:00"}
+{"level":"info","execution":{"id":588,"context":{"date":"2025-05-01T00:00:00.319Z"},"key":"xe1jdej16kv","eventKey":"eeabd13d-ddff-4eb4-9e3a-aedcfb0928ad","stack":null,"status":1,"workflowId":125,"updatedAt":"2025-04-09T15:18:00.038Z","createdAt":"2025-04-09T15:17:59.996Z","output":null},"message":"execution (588) finished with status: 1","timestamp":"2025-04-09 15:18:00"}

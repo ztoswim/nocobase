@@ -1,0 +1,75 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/app/nocobase/storage/logs/main/.2e0a0e7ec860e6ba210307d1de96c8d16f77f409-audit.json",
+    "files": [
+        {
+            "date": 1743431956486,
+            "name": "/app/nocobase/storage/logs/main/system_2025-03-31.log",
+            "hash": "0aca4161c94546c0475a05e2216acb7d1f50fe78528f4c9784ba065f8af2cb39"
+        },
+        {
+            "date": 1743479802011,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-01.log",
+            "hash": "a768388dfb0a55de828dec7fb2f087c493e8c819a2d7643ce1db6db6909307c7"
+        },
+        {
+            "date": 1743556542613,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-02.log",
+            "hash": "a4e5801d816a53db38e3c90a6f7a5fbdc2a0a731ef8518d7421f8b2c5aed1920"
+        },
+        {
+            "date": 1743644261468,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-03.log",
+            "hash": "3b475c7cdcf48d068b2e07b84be1d4f0c93dbfc736ac07bebdab25371ce7a048"
+        },
+        {
+            "date": 1743731649890,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-04.log",
+            "hash": "e563a62eeb8b54c19bd4b0429c985d78b199ce4a3f378b898b2fdc6d8801c4da"
+        },
+        {
+            "date": 1743843879998,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-05.log",
+            "hash": "701623df10e37292c6fa0e9d7660ec608471853752316e4fe32493999efda3d8"
+        },
+        {
+            "date": 1744023106293,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-07.log",
+            "hash": "d4b8d21e2db3085f5c549228b9a2739a3d12808c47899bb3d386bb44a61042d9"
+        },
+        {
+            "date": 1744078443484,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-08.log",
+            "hash": "2f3346b1abc44e6879914522f7e0bb9686600650f88fd1bb0100c0034dc27e73"
+        },
+        {
+            "date": 1744173603729,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-09.log",
+            "hash": "a473e79f31ada4aacfec0118a589f2ec02f74b12ca3963373444ecf29d63cfa5"
+        },
+        {
+            "date": 1744262281128,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-10.log",
+            "hash": "bdfbf1cbe15a19dd095582ef6eae6e3ff4bf38766debc2510eda052f7bf17538"
+        },
+        {
+            "date": 1744345782842,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-11.log",
+            "hash": "e9f4a8a6b1d350bb3fd94acab8fab7470ce07e69b2f2186b926db9c553b8f7b7"
+        },
+        {
+            "date": 1744434580161,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-12.log",
+            "hash": "fdc655eb1e74bfcd577b0bd0f2e6b518aec52ed39588efdabb8c998589378058"
+        },
+        {
+            "date": 1744507878357,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-13.log",
+            "hash": "9165db15c130733b4f2b2991ce1344b39541b25ed8ecca784d566b0fd2449f71"
+        }
+    ],
+    "hashType": "sha256"
+}

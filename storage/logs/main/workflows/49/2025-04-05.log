@@ -1,0 +1,7 @@
+{"level":"info","message":"execution of workflow 49 created as 77","timestamp":"2025-04-05 13:49:01"}
+{"level":"info","message":"queueing execution (77) from pending list updated to started","timestamp":"2025-04-05 13:49:01"}
+{"level":"info","message":"execution (77) starting...","timestamp":"2025-04-05 13:49:01"}
+{"level":"info","message":"execution (77) run instruction [query] for node (493)","timestamp":"2025-04-05 13:49:01"}
+{"level":"info","message":"execution (77) run instruction [query] for node (493) finished as status: -1","timestamp":"2025-04-05 13:49:01"}
+{"level":"info","message":"execution (77) exiting with status -1","timestamp":"2025-04-05 13:49:01"}
+{"level":"info","execution":{"id":77,"context":{"data":{"createdAt":"2025-04-05T02:23:26.112Z","updatedAt":"2025-04-05T13:46:45.523Z","start_date":"2025-04-11T08:00:00.000Z","end_date":"2025-04-11T08:50:00.000Z","employee_id":1,"create_course_id":37,"student":"AISYAH KHAYRA BINTI ABDULLAH UZAIR","id":139,"status":"2","createdById":null,"updatedById":1,"salary_id":null,"status_convert":0}},"key":"ju393tq5yqm","eventKey":"89161a05-fe3f-4073-b008-71c26fabd011","stack":null,"status":-1,"workflowId":49,"updatedAt":"2025-04-05T13:49:01.288Z","createdAt":"2025-04-05T13:49:01.255Z","output":null},"message":"execution (77) finished with status: -1","timestamp":"2025-04-05 13:49:01"}

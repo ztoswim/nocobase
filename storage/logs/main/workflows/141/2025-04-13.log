@@ -1,0 +1,88 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution of workflow 141 created as 932","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"pending execution (932) ready to process","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"queueing execution (932) from pending list updated to started","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) starting...","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1220)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1220) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [create] for node (1219)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [create] for node (1219) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [condition] for node (1221)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [condition] for node (1221) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1222)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1222) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1223)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1223) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1225)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1225) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [create] for node (1224)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [create] for node (1224) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1228)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1228) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1227)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1227) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1226)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1226) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [create] for node (1229)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [create] for node (1229) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1232)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1232) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1231)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1231) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1230)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1230) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [create] for node (1233)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [create] for node (1233) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [condition] for node (1238)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [condition] for node (1238) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1236)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1236) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1235)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1235) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1234)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1234) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [create] for node (1237)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [create] for node (1237) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1241)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1241) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1240)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1240) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1239)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1239) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [create] for node (1242)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [create] for node (1242) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1245)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1245) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1244)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1244) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1243)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1243) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [create] for node (1246)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [create] for node (1246) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1249)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1249) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1248)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1248) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1247)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1247) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [create] for node (1250)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [create] for node (1250) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1253)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1253) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1252)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1252) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1251)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1251) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [create] for node (1254)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [create] for node (1254) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1257)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1257) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1256)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1256) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1255)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [calculation] for node (1255) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [create] for node (1258)","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) run instruction [create] for node (1258) finished as status: 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","message":"execution (932) exiting with status 1","timestamp":"2025-04-13 02:27:03"}
+{"level":"info","execution":{"id":932,"context":{"data":{"createdAt":"2025-04-13T02:27:03.135Z","updatedAt":"2025-04-13T02:27:03.142Z","start_date":"2025-04-13T08:00:26.000Z","end_date":"2025-04-13T08:50:00.000Z","package_id":3,"id":155,"payment_method":"Online Transfer","progress":0,"student_id":5,"invoice_number":"INV16","payment_date":"2025-04-13","createdById":1,"updatedById":1,"fee":950,"student_db":{"createdAt":"2025-04-04T08:16:21.327Z","updatedAt":"2025-04-12T15:30:13.702Z","employee_id":1,"class_venue":2,"gender":"Male","day":["2"],"name":"A Student","parent_name":null,"contact_number":"1","email":null,"address":"22,jln Jelatang 7 , Tmn Megah Ria, Masai, 81750 Johor 22,jln Jelatang 7 , Tmn Megah Ria, Masai, 81750 \nJohor","emergency_contact_name":"","emergency_contact_nunber":null,"id":5,"dob":"2025-04-10","start_date":"2025-04-10","start_time":"16:00:26","duration":"50 Mins","createdById":1,"updatedById":1},"attendance_db":[],"package_db":{"createdAt":"2025-04-04T08:27:13.303Z","updatedAt":"2025-04-09T15:33:58.807Z","name_sort":6,"nop_sort":3,"fee":950,"id":3,"name":"PV10 - 👤","transport_fee":null,"quantity":10,"type":"PV","nop":"1","createdById":1,"updatedById":1}},"user":{"createdAt":"2025-03-31T14:39:23.735Z","updatedAt":"2025-04-07T11:13:41.208Z","systemSettings":{"themeId":1},"id":1,"nickname":"Felix","username":"felix","email":"xmrxperfectx@gmail.com","phone":null,"passwordChangeTz":1743556989843,"appLang":"zh-CN","createdById":null,"updatedById":1},"roleName":"root"},"key":"o3iucqm26et","eventKey":"3d873cdd-81f0-41f1-83c1-dcb47a95e7a2","stack":null,"status":1,"workflowId":141,"updatedAt":"2025-04-13T02:27:03.540Z","createdAt":"2025-04-13T02:27:03.163Z","output":null},"message":"execution (932) finished with status: 1","timestamp":"2025-04-13 02:27:03"}

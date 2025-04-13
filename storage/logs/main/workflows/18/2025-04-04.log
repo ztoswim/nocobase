@@ -1,0 +1,37 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-04 08:48:24"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-04 08:48:24"}
+{"level":"info","message":"execution of workflow 18 created as 16","timestamp":"2025-04-04 08:48:24"}
+{"level":"info","message":"pending execution (16) ready to process","timestamp":"2025-04-04 08:48:24"}
+{"level":"info","message":"queueing execution (16) from pending list updated to started","timestamp":"2025-04-04 08:48:24"}
+{"level":"info","message":"execution (16) starting...","timestamp":"2025-04-04 08:48:24"}
+{"level":"info","message":"execution (16) run instruction [destroy] for node (82)","timestamp":"2025-04-04 08:48:24"}
+{"level":"info","message":"execution (16) run instruction [destroy] for node (82) finished as status: 1","timestamp":"2025-04-04 08:48:24"}
+{"level":"info","message":"execution (16) exiting with status 1","timestamp":"2025-04-04 08:48:24"}
+{"level":"info","execution":{"id":16,"context":{"data":{"createdAt":"2025-04-04T08:36:49.640Z","updatedAt":"2025-04-04T08:47:18.200Z","payment_date":"2025-04-10T16:00:00.000Z","start_date":"2025-04-11T16:00:00.000Z","package_id":2,"id":18,"invoice_number":"1222","student":6,"payment_method":"4","createdById":1,"updatedById":1}},"key":"ovwxg0vt98l","eventKey":"c073525a-409a-46d3-8fb1-79a4f2de2694","stack":null,"status":1,"workflowId":18,"updatedAt":"2025-04-04T08:48:24.129Z","createdAt":"2025-04-04T08:48:24.096Z","output":null},"message":"execution (16) finished with status: 1","timestamp":"2025-04-04 08:48:24"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-04 08:52:49"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-04 08:52:49"}
+{"level":"info","message":"execution of workflow 18 created as 18","timestamp":"2025-04-04 08:52:49"}
+{"level":"info","message":"pending execution (18) ready to process","timestamp":"2025-04-04 08:52:49"}
+{"level":"info","message":"queueing execution (18) from pending list updated to started","timestamp":"2025-04-04 08:52:49"}
+{"level":"info","message":"execution (18) starting...","timestamp":"2025-04-04 08:52:49"}
+{"level":"info","message":"execution (18) run instruction [destroy] for node (82)","timestamp":"2025-04-04 08:52:49"}
+{"level":"info","message":"execution (18) run instruction [destroy] for node (82) finished as status: 1","timestamp":"2025-04-04 08:52:49"}
+{"level":"info","message":"execution (18) exiting with status 1","timestamp":"2025-04-04 08:52:49"}
+{"level":"info","execution":{"id":18,"context":{"data":{"createdAt":"2025-04-04T08:52:02.501Z","updatedAt":"2025-04-04T08:52:02.515Z","payment_date":"2025-04-01T16:00:00.000Z","start_date":"2025-04-18T16:00:00.000Z","package_id":1,"id":19,"invoice_number":"213","student":5,"payment_method":null,"createdById":1,"updatedById":1}},"key":"ovwxg0vt98l","eventKey":"baae749a-ea3c-4a3e-a6d8-737ea35e1934","stack":null,"status":1,"workflowId":18,"updatedAt":"2025-04-04T08:52:49.951Z","createdAt":"2025-04-04T08:52:49.904Z","output":null},"message":"execution (18) finished with status: 1","timestamp":"2025-04-04 08:52:49"}
+{"level":"info","message":"execution of workflow 18 created as 20","timestamp":"2025-04-04 08:57:04"}
+{"level":"info","message":"queueing execution (20) from pending list updated to started","timestamp":"2025-04-04 08:57:04"}
+{"level":"info","message":"execution (20) starting...","timestamp":"2025-04-04 08:57:04"}
+{"level":"info","message":"execution (20) run instruction [destroy] for node (82)","timestamp":"2025-04-04 08:57:04"}
+{"level":"info","message":"execution (20) run instruction [destroy] for node (82) finished as status: 1","timestamp":"2025-04-04 08:57:04"}
+{"level":"info","message":"execution (20) exiting with status 1","timestamp":"2025-04-04 08:57:04"}
+{"level":"info","execution":{"id":20,"context":{"data":{"createdAt":"2025-04-04T08:55:05.576Z","updatedAt":"2025-04-04T08:55:05.586Z","payment_date":"2025-04-01T16:00:00.000Z","start_date":"2025-04-08T16:00:00.000Z","package_id":2,"id":20,"invoice_number":"123","student":6,"payment_method":"4","createdById":1,"updatedById":1}},"key":"ovwxg0vt98l","eventKey":"97365ff1-ada2-4546-a604-4e738f302b2f","stack":null,"status":1,"workflowId":18,"updatedAt":"2025-04-04T08:57:04.853Z","createdAt":"2025-04-04T08:57:04.819Z","output":null},"message":"execution (20) finished with status: 1","timestamp":"2025-04-04 08:57:04"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-04 08:57:50"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-04 08:57:50"}
+{"level":"info","message":"execution of workflow 18 created as 21","timestamp":"2025-04-04 08:57:50"}
+{"level":"info","message":"pending execution (21) ready to process","timestamp":"2025-04-04 08:57:50"}
+{"level":"info","message":"queueing execution (21) from pending list updated to started","timestamp":"2025-04-04 08:57:50"}
+{"level":"info","message":"execution (21) starting...","timestamp":"2025-04-04 08:57:50"}
+{"level":"info","message":"execution (21) run instruction [destroy] for node (82)","timestamp":"2025-04-04 08:57:50"}
+{"level":"info","message":"execution (21) run instruction [destroy] for node (82) finished as status: 1","timestamp":"2025-04-04 08:57:50"}
+{"level":"info","message":"execution (21) exiting with status 1","timestamp":"2025-04-04 08:57:50"}
+{"level":"info","execution":{"id":21,"context":{"data":{"createdAt":"2025-04-04T08:55:05.576Z","updatedAt":"2025-04-04T08:55:05.586Z","payment_date":"2025-04-01T16:00:00.000Z","start_date":"2025-04-08T16:00:00.000Z","package_id":2,"id":20,"invoice_number":"123","student":6,"payment_method":"4","createdById":1,"updatedById":1}},"key":"ovwxg0vt98l","eventKey":"b4c2957a-cd6a-4b83-88a8-0b4c172d24c8","stack":null,"status":1,"workflowId":18,"updatedAt":"2025-04-04T08:57:50.206Z","createdAt":"2025-04-04T08:57:50.176Z","output":null},"message":"execution (21) finished with status: 1","timestamp":"2025-04-04 08:57:50"}

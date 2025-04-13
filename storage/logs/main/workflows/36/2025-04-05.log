@@ -1,0 +1,60 @@
+{"level":"info","message":"execution of workflow 36 created as 60","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"queueing execution (60) from pending list updated to started","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"execution (60) starting...","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"execution (60) run instruction [calculation] for node (406)","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"execution (60) run instruction [calculation] for node (406) finished as status: 1","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"execution (60) run instruction [update] for node (407)","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"new event triggered, now events: 2","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"new event triggered, now events: 3","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"new event triggered, now events: 4","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"new event triggered, now events: 5","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"new event triggered, now events: 6","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"new event triggered, now events: 7","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"new event triggered, now events: 8","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"new event triggered, now events: 9","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"new event triggered, now events: 10","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"execution (60) run instruction [update] for node (407) finished as status: 1","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"execution (60) run instruction [update] for node (408)","timestamp":"2025-04-05 01:49:05"}
+{"level":"warn","message":"workflow 36 has already been triggered in stacks executions (60), and max call coont is 1, newly triggering will be skipped.","timestamp":"2025-04-05 01:49:05"}
+{"level":"error","error":{},"message":"failed to create execution:","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-05 01:49:05"}
+{"level":"warn","message":"workflow 36 has already been triggered in stacks executions (60), and max call coont is 1, newly triggering will be skipped.","timestamp":"2025-04-05 01:49:05"}
+{"level":"error","error":{},"message":"failed to create execution:","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"execution (60) run instruction [update] for node (408) finished as status: 1","timestamp":"2025-04-05 01:49:05"}
+{"level":"warn","message":"workflow 36 has already been triggered in stacks executions (60), and max call coont is 1, newly triggering will be skipped.","timestamp":"2025-04-05 01:49:05"}
+{"level":"error","error":{},"message":"failed to create execution:","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"execution (60) exiting with status 1","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","execution":{"id":60,"context":{"data":{"createdAt":"2025-04-04T12:51:59.419Z","updatedAt":"2025-04-05T01:33:12.805Z","start_date":"2024-04-22T08:00:00.000Z","end_date":"2024-04-22T08:50:00.000Z","employee_id":1,"create_course_id":35,"student":"AISYAH KHAYRA BINTI ABDULLAH UZAIR","id":119,"createdById":null,"updatedById":1,"status":null,"status_convert":null}},"key":"7onz6z2yqo4","eventKey":"d0db6df7-8e0a-4f4e-8e2a-9fefa0d65f18","stack":null,"status":1,"workflowId":36,"updatedAt":"2025-04-05T01:49:05.741Z","createdAt":"2025-04-05T01:49:05.685Z","output":null},"message":"execution (60) finished with status: 1","timestamp":"2025-04-05 01:49:05"}
+{"level":"warn","message":"workflow 36 has already been triggered in stacks executions (60), and max call coont is 1, newly triggering will be skipped.","timestamp":"2025-04-05 01:49:05"}
+{"level":"error","error":{},"message":"failed to create execution:","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-05 01:49:05"}
+{"level":"warn","message":"workflow 36 has already been triggered in stacks executions (60), and max call coont is 1, newly triggering will be skipped.","timestamp":"2025-04-05 01:49:05"}
+{"level":"error","error":{},"message":"failed to create execution:","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-05 01:49:05"}
+{"level":"warn","message":"workflow 36 has already been triggered in stacks executions (60), and max call coont is 1, newly triggering will be skipped.","timestamp":"2025-04-05 01:49:05"}
+{"level":"error","error":{},"message":"failed to create execution:","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-05 01:49:05"}
+{"level":"warn","message":"workflow 36 has already been triggered in stacks executions (60), and max call coont is 1, newly triggering will be skipped.","timestamp":"2025-04-05 01:49:05"}
+{"level":"error","error":{},"message":"failed to create execution:","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-05 01:49:05"}
+{"level":"warn","message":"workflow 36 has already been triggered in stacks executions (60), and max call coont is 1, newly triggering will be skipped.","timestamp":"2025-04-05 01:49:05"}
+{"level":"error","error":{},"message":"failed to create execution:","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-05 01:49:05"}
+{"level":"warn","message":"workflow 36 has already been triggered in stacks executions (60), and max call coont is 1, newly triggering will be skipped.","timestamp":"2025-04-05 01:49:05"}
+{"level":"error","error":{},"message":"failed to create execution:","timestamp":"2025-04-05 01:49:05"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-05 01:49:05"}
+{"level":"warn","message":"workflow 36 has already been triggered in stacks executions (60), and max call coont is 1, newly triggering will be skipped.","timestamp":"2025-04-05 01:49:05"}
+{"level":"error","error":{},"message":"failed to create execution:","timestamp":"2025-04-05 01:49:05"}

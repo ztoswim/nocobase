@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/app/nocobase/storage/logs/main/workflows/19/.e6a0fd35018fd7531670e3e5fcce1940af6ac80c-audit.json",
+    "files": [
+        {
+            "date": 1743757628711,
+            "name": "/app/nocobase/storage/logs/main/workflows/19/2025-04-04.log",
+            "hash": "e031af4a25bf357ae80b4fe32781fe9f75c1ccff9e5b750fbc15e2cd96ac0c86"
+        },
+        {
+            "date": 1743818072387,
+            "name": "/app/nocobase/storage/logs/main/workflows/19/2025-04-05.log",
+            "hash": "c05da5296a698ade258b92722636d35cbc59056c5d70501554ad62ae7eece6e8"
+        },
+        {
+            "date": 1744075930254,
+            "name": "/app/nocobase/storage/logs/main/workflows/19/2025-04-08.log",
+            "hash": "d8dc600565065b98b86edfb59fe1aaa2c85e33dda28c6af1b7349a20112570b0"
+        },
+        {
+            "date": 1744161440155,
+            "name": "/app/nocobase/storage/logs/main/workflows/19/2025-04-09.log",
+            "hash": "0e0b5ae3626d93f5f8742029d6893898e78d5986e4ea507a1f77687154b4e375"
+        },
+        {
+            "date": 1744246227721,
+            "name": "/app/nocobase/storage/logs/main/workflows/19/2025-04-10.log",
+            "hash": "0947f325f4a1070f39e9144814ecb76cd2e545e3fa47a4b9043e3b8d647d0aa7"
+        },
+        {
+            "date": 1744374972558,
+            "name": "/app/nocobase/storage/logs/main/workflows/19/2025-04-11.log",
+            "hash": "73e46d8f3a83724d893dd1dc65e205b0db8ec581e234a64ba02e2163eaaaf2b7"
+        },
+        {
+            "date": 1744462812947,
+            "name": "/app/nocobase/storage/logs/main/workflows/19/2025-04-12.log",
+            "hash": "4070b38bf0bb6c1b62411908bbf7e8fdcb398773c261fb6ef794e96e5c75b65e"
+        },
+        {
+            "date": 1744514761785,
+            "name": "/app/nocobase/storage/logs/main/workflows/19/2025-04-13.log",
+            "hash": "c18001bdd69d69da36b42addf668d9c9259b366b657ea6cb2d22f63a477fa15c"
+        }
+    ],
+    "hashType": "sha256"
+}

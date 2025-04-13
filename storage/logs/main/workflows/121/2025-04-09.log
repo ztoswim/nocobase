@@ -1,0 +1,65 @@
+{"level":"info","message":"caching scheduled workflow will run at: 2025-04-09T10:14:17.000Z","timestamp":"2025-04-09 10:13:38"}
+{"level":"info","message":"execution of workflow 121 created as 519","timestamp":"2025-04-09 10:13:42"}
+{"level":"info","message":"queueing execution (519) from pending list updated to started","timestamp":"2025-04-09 10:13:42"}
+{"level":"info","message":"execution (519) starting...","timestamp":"2025-04-09 10:13:42"}
+{"level":"info","message":"execution (519) run instruction [update] for node (884)","timestamp":"2025-04-09 10:13:42"}
+{"level":"info","message":"execution (519) run instruction [update] for node (884) finished as status: 1","timestamp":"2025-04-09 10:13:42"}
+{"level":"info","message":"execution (519) exiting with status 1","timestamp":"2025-04-09 10:13:42"}
+{"level":"info","execution":{"id":519,"context":{"date":"2025-04-09T10:13:42.055Z"},"key":"xe1jdej16kv","eventKey":"31e093a6-bdd6-46eb-8483-7e1f86c46ee4","stack":null,"status":1,"workflowId":121,"updatedAt":"2025-04-09T10:13:42.085Z","createdAt":"2025-04-09T10:13:42.057Z","output":null},"message":"execution (519) finished with status: 1","timestamp":"2025-04-09 10:13:42"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-09 10:14:17"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-09 10:14:17"}
+{"level":"info","message":"execution of workflow 121 created as 520","timestamp":"2025-04-09 10:14:17"}
+{"level":"info","message":"pending execution (520) ready to process","timestamp":"2025-04-09 10:14:17"}
+{"level":"info","message":"queueing execution (520) from pending list updated to started","timestamp":"2025-04-09 10:14:17"}
+{"level":"info","message":"execution (520) starting...","timestamp":"2025-04-09 10:14:17"}
+{"level":"info","message":"execution (520) run instruction [update] for node (884)","timestamp":"2025-04-09 10:14:17"}
+{"level":"info","message":"execution (520) run instruction [update] for node (884) finished as status: 1","timestamp":"2025-04-09 10:14:17"}
+{"level":"info","message":"execution (520) exiting with status 1","timestamp":"2025-04-09 10:14:17"}
+{"level":"info","execution":{"id":520,"context":{"date":"2025-04-09T10:14:17.000Z"},"key":"xe1jdej16kv","eventKey":"121@1744193657000","stack":null,"status":1,"workflowId":121,"updatedAt":"2025-04-09T10:14:17.048Z","createdAt":"2025-04-09T10:14:17.001Z","output":null},"message":"execution (520) finished with status: 1","timestamp":"2025-04-09 10:14:17"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-09 10:15:16"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-09 10:15:16"}
+{"level":"info","message":"execution of workflow 121 created as 521","timestamp":"2025-04-09 10:15:17"}
+{"level":"info","message":"pending execution (521) ready to process","timestamp":"2025-04-09 10:15:17"}
+{"level":"info","message":"queueing execution (521) from pending list updated to started","timestamp":"2025-04-09 10:15:17"}
+{"level":"info","message":"execution (521) starting...","timestamp":"2025-04-09 10:15:17"}
+{"level":"info","message":"execution (521) run instruction [update] for node (884)","timestamp":"2025-04-09 10:15:17"}
+{"level":"info","message":"execution (521) run instruction [update] for node (884) finished as status: 1","timestamp":"2025-04-09 10:15:17"}
+{"level":"info","message":"execution (521) exiting with status 1","timestamp":"2025-04-09 10:15:17"}
+{"level":"info","execution":{"id":521,"context":{"date":"2025-04-09T10:15:17.000Z"},"key":"xe1jdej16kv","eventKey":"121@1744193717000","stack":null,"status":1,"workflowId":121,"updatedAt":"2025-04-09T10:15:17.033Z","createdAt":"2025-04-09T10:15:16.999Z","output":null},"message":"execution (521) finished with status: 1","timestamp":"2025-04-09 10:15:17"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-09 10:16:16"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-09 10:16:16"}
+{"level":"info","message":"execution of workflow 121 created as 522","timestamp":"2025-04-09 10:16:17"}
+{"level":"info","message":"pending execution (522) ready to process","timestamp":"2025-04-09 10:16:17"}
+{"level":"info","message":"queueing execution (522) from pending list updated to started","timestamp":"2025-04-09 10:16:17"}
+{"level":"info","message":"execution (522) starting...","timestamp":"2025-04-09 10:16:17"}
+{"level":"info","message":"execution (522) run instruction [update] for node (884)","timestamp":"2025-04-09 10:16:17"}
+{"level":"info","message":"execution (522) run instruction [update] for node (884) finished as status: 1","timestamp":"2025-04-09 10:16:17"}
+{"level":"info","message":"execution (522) exiting with status 1","timestamp":"2025-04-09 10:16:17"}
+{"level":"info","execution":{"id":522,"context":{"date":"2025-04-09T10:16:17.000Z"},"key":"xe1jdej16kv","eventKey":"121@1744193777000","stack":null,"status":1,"workflowId":121,"updatedAt":"2025-04-09T10:16:17.050Z","createdAt":"2025-04-09T10:16:17.000Z","output":null},"message":"execution (522) finished with status: 1","timestamp":"2025-04-09 10:16:17"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-09 10:17:16"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-09 10:17:16"}
+{"level":"info","message":"execution of workflow 121 created as 523","timestamp":"2025-04-09 10:17:17"}
+{"level":"info","message":"pending execution (523) ready to process","timestamp":"2025-04-09 10:17:17"}
+{"level":"info","message":"queueing execution (523) from pending list updated to started","timestamp":"2025-04-09 10:17:17"}
+{"level":"info","message":"execution (523) starting...","timestamp":"2025-04-09 10:17:17"}
+{"level":"info","message":"execution (523) run instruction [update] for node (884)","timestamp":"2025-04-09 10:17:17"}
+{"level":"info","message":"execution (523) run instruction [update] for node (884) finished as status: 1","timestamp":"2025-04-09 10:17:17"}
+{"level":"info","message":"execution (523) exiting with status 1","timestamp":"2025-04-09 10:17:17"}
+{"level":"info","execution":{"id":523,"context":{"date":"2025-04-09T10:17:17.000Z"},"key":"xe1jdej16kv","eventKey":"121@1744193837000","stack":null,"status":1,"workflowId":121,"updatedAt":"2025-04-09T10:17:17.039Z","createdAt":"2025-04-09T10:17:17.001Z","output":null},"message":"execution (523) finished with status: 1","timestamp":"2025-04-09 10:17:17"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-09 10:18:16"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-09 10:18:16"}
+{"level":"info","message":"execution of workflow 121 created as 524","timestamp":"2025-04-09 10:18:17"}
+{"level":"info","message":"pending execution (524) ready to process","timestamp":"2025-04-09 10:18:17"}
+{"level":"info","message":"queueing execution (524) from pending list updated to started","timestamp":"2025-04-09 10:18:17"}
+{"level":"info","message":"execution (524) starting...","timestamp":"2025-04-09 10:18:17"}
+{"level":"info","message":"execution (524) run instruction [update] for node (884)","timestamp":"2025-04-09 10:18:17"}
+{"level":"info","message":"execution (524) run instruction [update] for node (884) finished as status: 1","timestamp":"2025-04-09 10:18:17"}
+{"level":"info","message":"execution (524) exiting with status 1","timestamp":"2025-04-09 10:18:17"}
+{"level":"info","execution":{"id":524,"context":{"date":"2025-04-09T10:18:17.000Z"},"key":"xe1jdej16kv","eventKey":"121@1744193897000","stack":null,"status":1,"workflowId":121,"updatedAt":"2025-04-09T10:18:17.042Z","createdAt":"2025-04-09T10:18:16.999Z","output":null},"message":"execution (524) finished with status: 1","timestamp":"2025-04-09 10:18:17"}
+{"level":"info","message":"execution of workflow 121 created as 559","timestamp":"2025-04-09 14:30:50"}
+{"level":"info","message":"queueing execution (559) from pending list updated to started","timestamp":"2025-04-09 14:30:50"}
+{"level":"info","message":"execution (559) starting...","timestamp":"2025-04-09 14:30:50"}
+{"level":"info","message":"execution (559) run instruction [update] for node (884)","timestamp":"2025-04-09 14:30:50"}
+{"level":"info","message":"execution (559) run instruction [update] for node (884) finished as status: 1","timestamp":"2025-04-09 14:30:50"}
+{"level":"info","message":"execution (559) exiting with status 1","timestamp":"2025-04-09 14:30:50"}
+{"level":"info","execution":{"id":559,"context":{"date":"2025-04-09T14:30:50.312Z"},"key":"xe1jdej16kv","eventKey":"c945d0ba-ff85-4b91-8240-3daa811c67e8","stack":null,"status":1,"workflowId":121,"updatedAt":"2025-04-09T14:30:50.363Z","createdAt":"2025-04-09T14:30:50.325Z","output":null},"message":"execution (559) finished with status: 1","timestamp":"2025-04-09 14:30:50"}

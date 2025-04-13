@@ -1,0 +1,50 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-12 13:00:12"}
+{"level":"info","message":"new event triggered, now events: 2","timestamp":"2025-04-12 13:00:12"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-12 13:00:12"}
+{"level":"info","message":"new event triggered, now events: 3","timestamp":"2025-04-12 13:00:12"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-12 13:00:12"}
+{"level":"info","message":"new event triggered, now events: 4","timestamp":"2025-04-12 13:00:12"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-12 13:00:12"}
+{"level":"info","message":"new event triggered, now events: 5","timestamp":"2025-04-12 13:00:12"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-12 13:00:12"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-12 13:00:12"}
+{"level":"info","message":"execution of workflow 19 created as 765","timestamp":"2025-04-12 13:00:12"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution of workflow 19 created as 766","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution of workflow 19 created as 767","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution of workflow 19 created as 768","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution of workflow 19 created as 769","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"pending execution (765) ready to process","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"queueing execution (765) from pending list updated to started","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (765) starting...","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (765) run instruction [destroy] for node (83)","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (765) run instruction [destroy] for node (83) finished as status: 1","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (765) exiting with status 1","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","execution":{"id":765,"context":{"data":{"createdAt":"2025-04-11T12:40:27.047Z","updatedAt":"2025-04-11T12:40:27.065Z","start_date":"2025-04-11 08:00:26","end_date":"2025-04-11 08:50:00","package_id":2,"id":135,"payment_method":"Cash","fee":400,"progress":0,"student_id":5,"invoice_number":"INV1","payment_date":"2025-04-11","createdById":1,"updatedById":1}},"key":"ovwxg0vt98l","eventKey":"1b72a193-10f2-41d0-a3b5-3a7fb5e25f09","stack":null,"status":1,"workflowId":19,"updatedAt":"2025-04-12T13:00:13.117Z","createdAt":"2025-04-12T13:00:12.973Z","output":null},"message":"execution (765) finished with status: 1","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (766) fetched from db","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (766) starting...","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (766) run instruction [destroy] for node (83)","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (766) run instruction [destroy] for node (83) finished as status: 1","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (766) exiting with status 1","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","execution":{"id":766,"createdAt":"2025-04-12T13:00:13.012Z","updatedAt":"2025-04-12T13:00:13.146Z","key":"ovwxg0vt98l","eventKey":"fd06c330-6cb2-4aad-b76b-fdc523b47110","context":{"data":{"createdAt":"2025-04-11T12:40:50.668Z","updatedAt":"2025-04-11T12:40:50.680Z","start_date":"2025-04-11 00:00:26","end_date":"2025-04-11 08:50:00","package_id":2,"id":136,"payment_method":"Cash Deposit","fee":400,"progress":0,"student_id":6,"invoice_number":"INV2","payment_date":"2025-04-11","createdById":1,"updatedById":1}},"status":1,"stack":null,"output":null,"workflowId":19},"message":"execution (766) finished with status: 1","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (767) fetched from db","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (767) starting...","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (767) run instruction [destroy] for node (83)","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (767) run instruction [destroy] for node (83) finished as status: 1","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (767) exiting with status 1","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","execution":{"id":767,"createdAt":"2025-04-12T13:00:13.019Z","updatedAt":"2025-04-12T13:00:13.160Z","key":"ovwxg0vt98l","eventKey":"ab978296-45de-481c-a5c5-942dff38429d","context":{"data":{"createdAt":"2025-04-12T05:36:51.023Z","updatedAt":"2025-04-12T05:36:51.045Z","start_date":"2025-04-12 08:00:26","end_date":"2025-04-12 08:50:00","package_id":2,"id":137,"payment_method":"Online Transfer","fee":400,"progress":0,"student_id":5,"invoice_number":"INV3","payment_date":"2025-04-12","createdById":1,"updatedById":1}},"status":1,"stack":null,"output":null,"workflowId":19},"message":"execution (767) finished with status: 1","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (768) fetched from db","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (768) starting...","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (768) run instruction [destroy] for node (83)","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (768) run instruction [destroy] for node (83) finished as status: 1","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (768) exiting with status 1","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","execution":{"id":768,"createdAt":"2025-04-12T13:00:13.035Z","updatedAt":"2025-04-12T13:00:13.176Z","key":"ovwxg0vt98l","eventKey":"9b5a3143-072c-496e-a1c4-d7a9d5e9eeb7","context":{"data":{"createdAt":"2025-04-12T05:41:59.184Z","updatedAt":"2025-04-12T05:41:59.192Z","start_date":"2025-04-12 08:00:26","end_date":"2025-04-12 08:50:00","package_id":2,"id":138,"payment_method":"Online Transfer","fee":400,"progress":0,"student_id":5,"invoice_number":"INV4","payment_date":"2025-04-12","createdById":1,"updatedById":1}},"status":1,"stack":null,"output":null,"workflowId":19},"message":"execution (768) finished with status: 1","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (769) fetched from db","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (769) starting...","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (769) run instruction [destroy] for node (83)","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (769) run instruction [destroy] for node (83) finished as status: 1","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","message":"execution (769) exiting with status 1","timestamp":"2025-04-12 13:00:13"}
+{"level":"info","execution":{"id":769,"createdAt":"2025-04-12T13:00:13.042Z","updatedAt":"2025-04-12T13:00:13.187Z","key":"ovwxg0vt98l","eventKey":"36303355-8a63-44b7-86f3-e569fce8e961","context":{"data":{"createdAt":"2025-04-12T10:45:56.193Z","updatedAt":"2025-04-12T10:45:56.219Z","start_date":"2025-04-12 08:00:26","end_date":"2025-04-12 08:50:00","package_id":3,"id":139,"payment_method":"Cash Deposit","fee":950,"progress":0,"student_id":5,"invoice_number":"INV5","payment_date":"2025-04-12","createdById":1,"updatedById":1}},"status":1,"stack":null,"output":null,"workflowId":19},"message":"execution (769) finished with status: 1","timestamp":"2025-04-12 13:00:13"}

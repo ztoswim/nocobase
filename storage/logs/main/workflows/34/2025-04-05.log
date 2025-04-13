@@ -1,0 +1,9 @@
+{"level":"info","message":"execution of workflow 34 created as 58","timestamp":"2025-04-05 01:32:31"}
+{"level":"info","message":"queueing execution (58) from pending list updated to started","timestamp":"2025-04-05 01:32:31"}
+{"level":"info","message":"execution (58) starting...","timestamp":"2025-04-05 01:32:31"}
+{"level":"info","message":"execution (58) run instruction [calculation] for node (402)","timestamp":"2025-04-05 01:32:31"}
+{"level":"info","message":"execution (58) run instruction [calculation] for node (402) finished as status: 1","timestamp":"2025-04-05 01:32:31"}
+{"level":"info","message":"execution (58) run instruction [update] for node (403)","timestamp":"2025-04-05 01:32:31"}
+{"level":"info","message":"execution (58) run instruction [update] for node (403) finished as status: 1","timestamp":"2025-04-05 01:32:31"}
+{"level":"info","message":"execution (58) exiting with status 1","timestamp":"2025-04-05 01:32:31"}
+{"level":"info","execution":{"id":58,"context":{"data":{"createdAt":"2025-04-04T12:51:59.430Z","updatedAt":"2025-04-05T01:24:32.356Z","start_date":"2024-05-06T08:00:00.000Z","end_date":"2024-04-29T08:50:00.000Z","employee_id":1,"create_course_id":35,"student":"AISYAH KHAYRA BINTI ABDULLAH UZAIR","id":120,"createdById":null,"updatedById":1,"status":null,"status_convert":null}},"key":"7onz6z2yqo4","eventKey":"1c58e57e-1b4a-4a96-9c1a-09a0ad518290","stack":null,"status":1,"workflowId":34,"updatedAt":"2025-04-05T01:32:31.962Z","createdAt":"2025-04-05T01:32:31.935Z","output":null},"message":"execution (58) finished with status: 1","timestamp":"2025-04-05 01:32:31"}

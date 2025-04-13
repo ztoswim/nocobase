@@ -1,0 +1,13 @@
+{"level":"info","message":"execution of workflow 39 created as 63","timestamp":"2025-04-05 01:52:10"}
+{"level":"info","message":"queueing execution (63) from pending list updated to started","timestamp":"2025-04-05 01:52:10"}
+{"level":"info","message":"execution (63) starting...","timestamp":"2025-04-05 01:52:10"}
+{"level":"info","message":"execution (63) run instruction [calculation] for node (417)","timestamp":"2025-04-05 01:52:10"}
+{"level":"info","message":"execution (63) run instruction [calculation] for node (417) finished as status: 1","timestamp":"2025-04-05 01:52:10"}
+{"level":"info","message":"execution (63) run instruction [update] for node (418)","timestamp":"2025-04-05 01:52:10"}
+{"level":"info","message":"execution (63) run instruction [update] for node (418) finished as status: 1","timestamp":"2025-04-05 01:52:10"}
+{"level":"info","message":"execution (63) run instruction [calculation] for node (420)","timestamp":"2025-04-05 01:52:10"}
+{"level":"info","message":"execution (63) run instruction [calculation] for node (420) finished as status: 1","timestamp":"2025-04-05 01:52:10"}
+{"level":"info","message":"execution (63) run instruction [update] for node (419)","timestamp":"2025-04-05 01:52:10"}
+{"level":"info","message":"execution (63) run instruction [update] for node (419) finished as status: 1","timestamp":"2025-04-05 01:52:10"}
+{"level":"info","message":"execution (63) exiting with status 1","timestamp":"2025-04-05 01:52:10"}
+{"level":"info","execution":{"id":63,"context":{"data":{"createdAt":"2025-04-04T12:51:59.419Z","updatedAt":"2025-04-05T01:51:28.287Z","start_date":"2024-05-06T08:00:00.000Z","end_date":"2024-04-22T08:50:00.000Z","employee_id":1,"create_course_id":35,"student":"AISYAH KHAYRA BINTI ABDULLAH UZAIR","id":119,"createdById":null,"updatedById":1,"status":null,"status_convert":null}},"key":"7onz6z2yqo4","eventKey":"d8617f9e-328b-4a07-9972-320b2c0471a3","stack":null,"status":1,"workflowId":39,"updatedAt":"2025-04-05T01:52:10.972Z","createdAt":"2025-04-05T01:52:10.930Z","output":null},"message":"execution (63) finished with status: 1","timestamp":"2025-04-05 01:52:10"}

@@ -1,0 +1,7 @@
+{"level":"info","message":"execution of workflow 130 created as 622","timestamp":"2025-04-09 16:17:36"}
+{"level":"info","message":"queueing execution (622) from pending list updated to started","timestamp":"2025-04-09 16:17:36"}
+{"level":"info","message":"execution (622) starting...","timestamp":"2025-04-09 16:17:36"}
+{"level":"info","message":"execution (622) run instruction [sql] for node (896)","timestamp":"2025-04-09 16:17:36"}
+{"level":"info","message":"execution (622) run instruction [sql] for node (896) finished as status: 1","timestamp":"2025-04-09 16:17:36"}
+{"level":"info","message":"execution (622) exiting with status 1","timestamp":"2025-04-09 16:17:36"}
+{"level":"info","execution":{"id":622,"context":{"date":"2025-05-07T16:17:27.946Z"},"key":"2ly86fuayl9","eventKey":"d89ff843-b8f0-422f-b037-39baaf2127d2","stack":null,"status":1,"workflowId":130,"updatedAt":"2025-04-09T16:17:36.469Z","createdAt":"2025-04-09T16:17:36.435Z","output":null},"message":"execution (622) finished with status: 1","timestamp":"2025-04-09 16:17:36"}

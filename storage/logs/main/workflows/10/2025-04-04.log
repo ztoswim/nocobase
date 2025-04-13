@@ -1,0 +1,25 @@
+{"level":"info","message":"execution of workflow 10 created as 8","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"queueing execution (8) from pending list updated to started","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"execution (8) starting...","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"execution (8) run instruction [condition] for node (46)","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"execution (8) run instruction [condition] for node (51)","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"execution (8) run instruction [create] for node (52)","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"execution (8) run instruction [create] for node (52) finished as status: 1","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"execution (8) run instruction [calculation] for node (53)","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"execution (8) run instruction [calculation] for node (53) finished as status: 1","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"execution (8) run instruction [create] for node (57)","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"execution (8) run instruction [create] for node (57) finished as status: 1","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"execution (8) run instruction [calculation] for node (58)","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"execution (8) run instruction [calculation] for node (58) finished as status: 1","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"execution (8) run instruction [create] for node (59)","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"execution (8) run instruction [create] for node (59) finished as status: 1","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"execution (8) run instruction [calculation] for node (60)","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"execution (8) run instruction [calculation] for node (60) finished as status: 1","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"execution (8) run instruction [create] for node (61)","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"execution (8) run instruction [create] for node (61) finished as status: 1","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"execution (8) run instruction [end] for node (62)","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"execution (8) exiting with status 1","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"execution (8) exiting with status 1","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"execution (8) exiting with status 1","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","message":"execution (8) exiting with status 1","timestamp":"2025-04-04 05:49:10"}
+{"level":"info","execution":{"id":8,"context":{"data":{"createdAt":"2025-04-04T05:04:52.251Z","updatedAt":"2025-04-04T05:48:37.715Z","payment_date":"2025-04-10T16:00:00.000Z","start_date":"2025-04-11T16:00:00.000Z","id":13,"invoice_number":"inv001","student":2,"payment_method":"1","createdById":1,"updatedById":1,"package_id":2,"package_db":{"createdAt":"2025-04-04T05:48:00.404Z","updatedAt":"2025-04-04T05:48:00.404Z","type":"PV","fee":400,"id":2,"name":"PV4 - 1","transport_fee":null,"quantity":4,"createdById":1,"updatedById":1},"student_db":{"createdAt":"2025-04-03T00:52:07.906Z","updatedAt":"2025-04-03T02:25:22.956Z","dob":null,"start_date":null,"coach":1,"class_venue":2,"name":"LEE CHIN MENG","gender":null,"parent_name":null,"contact_number":null,"email":null,"address":null,"emergency_contact_name":null,"emergency_contact_nunber":null,"day":null,"time":null,"duration":null,"id":2,"createdById":1,"updatedById":1}},"user":{"nickname":"Felix","username":"felix","email":"xmrxperfectx@gmail.com","phone":null,"passwordChangeTz":1743556989843,"appLang":"zh-CN","systemSettings":{},"id":1,"createdById":null,"updatedById":1},"roleName":"admin"},"key":"o3iucqm26et","eventKey":"73eb781d-5735-4bb9-9e0a-77cb0e20c6ee","stack":null,"status":1,"workflowId":10,"updatedAt":"2025-04-04T05:49:10.698Z","createdAt":"2025-04-04T05:49:10.583Z","output":null},"message":"execution (8) finished with status: 1","timestamp":"2025-04-04 05:49:10"}

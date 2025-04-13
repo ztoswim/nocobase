@@ -1,0 +1,16 @@
+{"level":"info","message":"execution of workflow 45 created as 75","timestamp":"2025-04-05 13:23:25"}
+{"level":"info","message":"queueing execution (75) from pending list updated to started","timestamp":"2025-04-05 13:23:25"}
+{"level":"info","message":"execution (75) starting...","timestamp":"2025-04-05 13:23:25"}
+{"level":"info","message":"execution (75) run instruction [parallel] for node (439)","timestamp":"2025-04-05 13:23:25"}
+{"level":"info","message":"execution (75) run instruction [create] for node (440)","timestamp":"2025-04-05 13:23:25"}
+{"level":"info","message":"execution (75) run instruction [create] for node (440) finished as status: 1","timestamp":"2025-04-05 13:23:26"}
+{"level":"info","message":"execution (75) run instruction [parallel] for node (439)","timestamp":"2025-04-05 13:23:26"}
+{"level":"info","message":"execution (75) exiting with status 0","timestamp":"2025-04-05 13:23:26"}
+{"level":"info","message":"execution (75) exiting with status 0","timestamp":"2025-04-05 13:23:26"}
+{"level":"info","message":"execution (75) run instruction [create] for node (441)","timestamp":"2025-04-05 13:23:26"}
+{"level":"info","message":"execution (75) run instruction [create] for node (441) finished as status: 1","timestamp":"2025-04-05 13:23:26"}
+{"level":"info","message":"execution (75) run instruction [parallel] for node (439)","timestamp":"2025-04-05 13:23:26"}
+{"level":"info","message":"execution (75) run instruction [parallel] for node (439) finished as status: 1","timestamp":"2025-04-05 13:23:26"}
+{"level":"info","message":"execution (75) exiting with status 1","timestamp":"2025-04-05 13:23:26"}
+{"level":"info","message":"execution (75) exiting with status 1","timestamp":"2025-04-05 13:23:26"}
+{"level":"info","execution":{"id":75,"context":{"date":"2025-04-05T13:23:25.954Z"},"key":"2ly86fuayl9","eventKey":"899dfd7d-0052-492e-8563-15ea302b77bc","stack":null,"status":1,"workflowId":45,"updatedAt":"2025-04-05T13:23:26.019Z","createdAt":"2025-04-05T13:23:25.962Z","output":null},"message":"execution (75) finished with status: 1","timestamp":"2025-04-05 13:23:26"}

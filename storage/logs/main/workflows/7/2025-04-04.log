@@ -1,0 +1,14 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-04 02:48:53"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-04 02:48:53"}
+{"level":"info","message":"execution of workflow 7 created as 5","timestamp":"2025-04-04 02:48:53"}
+{"level":"info","message":"pending execution (5) ready to process","timestamp":"2025-04-04 02:48:53"}
+{"level":"info","message":"queueing execution (5) from pending list updated to started","timestamp":"2025-04-04 02:48:53"}
+{"level":"info","message":"execution (5) starting...","timestamp":"2025-04-04 02:48:53"}
+{"level":"info","message":"execution (5) run instruction [condition] for node (33)","timestamp":"2025-04-04 02:48:53"}
+{"level":"info","message":"execution (5) run instruction [create] for node (34)","timestamp":"2025-04-04 02:48:53"}
+{"level":"info","message":"execution (5) run instruction [create] for node (34) finished as status: 1","timestamp":"2025-04-04 02:48:53"}
+{"level":"info","message":"execution (5) run instruction [condition] for node (33)","timestamp":"2025-04-04 02:48:53"}
+{"level":"info","message":"execution (5) run instruction [condition] for node (33) finished as status: 1","timestamp":"2025-04-04 02:48:53"}
+{"level":"info","message":"execution (5) exiting with status 1","timestamp":"2025-04-04 02:48:53"}
+{"level":"info","message":"execution (5) exiting with status 1","timestamp":"2025-04-04 02:48:53"}
+{"level":"info","execution":{"id":5,"context":{"data":{"createdAt":"2025-04-04T02:48:53.285Z","updatedAt":"2025-04-04T02:48:53.298Z","payment_date":"2025-04-03T16:00:00.000Z","start_date":"2025-04-10T16:00:00.000Z","id":12,"invoice_number":"inv001","student":3,"payment_method":"4","createdById":1,"updatedById":1,"package_id":1,"package_db":{"createdAt":"2025-04-04T02:12:12.702Z","updatedAt":"2025-04-04T02:12:12.702Z","type":"PV","fee":120,"id":1,"name":"PV1 - 1","transport_fee":null,"quantity":1,"createdById":1,"updatedById":1},"student_db":{"createdAt":"2025-04-03T00:52:15.538Z","updatedAt":"2025-04-03T01:41:59.008Z","dob":null,"start_date":null,"coach":3,"class_venue":2,"name":"ZERO TO ONE","gender":null,"parent_name":null,"contact_number":null,"email":null,"address":null,"emergency_contact_name":null,"emergency_contact_nunber":null,"day":null,"time":null,"duration":null,"id":3,"createdById":1,"updatedById":1}},"user":{"createdAt":"2025-03-31T14:39:23.735Z","updatedAt":"2025-04-02T02:53:08.419Z","systemSettings":{},"id":1,"nickname":"Felix","username":"felix","email":"xmrxperfectx@gmail.com","phone":null,"passwordChangeTz":1743556989843,"appLang":"zh-CN","createdById":null,"updatedById":1},"roleName":"root"},"key":"o3iucqm26et","eventKey":"f663d6c5-4471-4055-9299-75235c7acf7e","stack":null,"status":1,"workflowId":7,"updatedAt":"2025-04-04T02:48:53.360Z","createdAt":"2025-04-04T02:48:53.322Z","output":null},"message":"execution (5) finished with status: 1","timestamp":"2025-04-04 02:48:53"}

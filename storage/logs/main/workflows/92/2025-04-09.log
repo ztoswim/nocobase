@@ -1,0 +1,9 @@
+{"level":"info","message":"caching scheduled workflow will run at: 2025-05-01T08:00:00.000Z","timestamp":"2025-04-09 04:40:18"}
+{"level":"info","message":"caching scheduled workflow will run at: 2025-05-01T08:00:00.000Z","timestamp":"2025-04-09 13:53:40"}
+{"level":"info","message":"execution of workflow 92 created as 620","timestamp":"2025-04-09 16:15:27"}
+{"level":"info","message":"queueing execution (620) from pending list updated to started","timestamp":"2025-04-09 16:15:27"}
+{"level":"info","message":"execution (620) starting...","timestamp":"2025-04-09 16:15:27"}
+{"level":"info","message":"execution (620) run instruction [sql] for node (894)","timestamp":"2025-04-09 16:15:27"}
+{"level":"info","message":"execution (620) run instruction [sql] for node (894) finished as status: 1","timestamp":"2025-04-09 16:15:27"}
+{"level":"info","message":"execution (620) exiting with status 1","timestamp":"2025-04-09 16:15:27"}
+{"level":"info","execution":{"id":620,"context":{"date":"2025-05-14T16:15:21.909Z"},"key":"2ly86fuayl9","eventKey":"7ba2e588-ed75-47fa-ad64-f90faf59910b","stack":null,"status":1,"workflowId":92,"updatedAt":"2025-04-09T16:15:27.365Z","createdAt":"2025-04-09T16:15:27.338Z","output":null},"message":"execution (620) finished with status: 1","timestamp":"2025-04-09 16:15:27"}
