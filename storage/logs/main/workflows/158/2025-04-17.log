@@ -1,0 +1,110 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"new event triggered, now events: 2","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"new event triggered, now events: 3","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"execution of workflow 158 created as 1075","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"execution of workflow 158 created as 1076","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"execution of workflow 158 created as 1077","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"pending execution (1075) ready to process","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"queueing execution (1075) from pending list updated to started","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"execution (1075) starting...","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"execution (1075) run instruction [destroy] for node (1399)","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"execution (1075) run instruction [destroy] for node (1399) finished as status: 1","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"execution (1075) exiting with status 1","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","execution":{"id":1075,"context":{"data":{"createdAt":"2025-04-17T05:25:08.624Z","updatedAt":"2025-04-17T05:25:08.697Z","student_id":9,"id":5,"createdById":null,"updatedById":null,"progress":0,"level_id":1}},"key":"m5jhlssgfcn","eventKey":"55b6c1a1-e231-4fd5-8ecf-0f936f362cf1","stack":null,"status":1,"workflowId":158,"updatedAt":"2025-04-17T05:26:48.162Z","createdAt":"2025-04-17T05:26:48.090Z","output":null},"message":"execution (1075) finished with status: 1","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"execution (1076) fetched from db","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"execution (1076) starting...","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"execution (1076) run instruction [destroy] for node (1399)","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"execution (1076) run instruction [destroy] for node (1399) finished as status: 1","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"execution (1076) exiting with status 1","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","execution":{"id":1076,"createdAt":"2025-04-17T05:26:48.110Z","updatedAt":"2025-04-17T05:26:48.187Z","key":"m5jhlssgfcn","eventKey":"335b811b-72ec-423f-b2ba-ae04ca956a1e","context":{"data":{"createdAt":"2025-04-17T05:25:08.713Z","updatedAt":"2025-04-17T05:25:08.772Z","student_id":9,"id":6,"createdById":null,"updatedById":null,"progress":0,"level_id":2}},"status":1,"stack":null,"output":null,"workflowId":158},"message":"execution (1076) finished with status: 1","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"execution (1077) fetched from db","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"execution (1077) starting...","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"execution (1077) run instruction [destroy] for node (1399)","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"execution (1077) run instruction [destroy] for node (1399) finished as status: 1","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"execution (1077) exiting with status 1","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","execution":{"id":1077,"createdAt":"2025-04-17T05:26:48.125Z","updatedAt":"2025-04-17T05:26:48.206Z","key":"m5jhlssgfcn","eventKey":"5c1dddaa-daac-4c78-a6e8-09e29915b3a5","context":{"data":{"createdAt":"2025-04-17T05:25:08.785Z","updatedAt":"2025-04-17T05:25:08.828Z","student_id":9,"id":7,"createdById":null,"updatedById":null,"progress":0,"level_id":3}},"status":1,"stack":null,"output":null,"workflowId":158},"message":"execution (1077) finished with status: 1","timestamp":"2025-04-17 05:26:48"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-17 05:29:02"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-17 05:29:02"}
+{"level":"info","message":"execution of workflow 158 created as 1078","timestamp":"2025-04-17 05:29:02"}
+{"level":"info","message":"pending execution (1078) ready to process","timestamp":"2025-04-17 05:29:02"}
+{"level":"info","message":"queueing execution (1078) from pending list updated to started","timestamp":"2025-04-17 05:29:02"}
+{"level":"info","message":"execution (1078) starting...","timestamp":"2025-04-17 05:29:02"}
+{"level":"info","message":"execution (1078) run instruction [destroy] for node (1399)","timestamp":"2025-04-17 05:29:02"}
+{"level":"info","message":"execution (1078) run instruction [destroy] for node (1399) finished as status: 1","timestamp":"2025-04-17 05:29:02"}
+{"level":"info","message":"execution (1078) exiting with status 1","timestamp":"2025-04-17 05:29:02"}
+{"level":"info","execution":{"id":1078,"context":{"data":{"createdAt":"2025-04-17T05:25:08.840Z","updatedAt":"2025-04-17T05:25:08.891Z","student_id":9,"id":8,"createdById":null,"updatedById":null,"progress":0,"level_id":4}},"key":"m5jhlssgfcn","eventKey":"9e1ca982-a1b0-4736-9f5e-2da316b474c1","stack":null,"status":1,"workflowId":158,"updatedAt":"2025-04-17T05:29:02.402Z","createdAt":"2025-04-17T05:29:02.344Z","output":null},"message":"execution (1078) finished with status: 1","timestamp":"2025-04-17 05:29:02"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"new event triggered, now events: 2","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"new event triggered, now events: 3","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"new event triggered, now events: 4","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"new event triggered, now events: 5","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"new event triggered, now events: 6","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"new event triggered, now events: 7","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"new event is pending to be prepared after previous preparation is finished","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution of workflow 158 created as 1080","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution of workflow 158 created as 1081","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution of workflow 158 created as 1082","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution of workflow 158 created as 1083","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution of workflow 158 created as 1084","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution of workflow 158 created as 1085","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution of workflow 158 created as 1086","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"pending execution (1080) ready to process","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"queueing execution (1080) from pending list updated to started","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1080) starting...","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1080) run instruction [destroy] for node (1399)","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1080) run instruction [destroy] for node (1399) finished as status: 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1080) exiting with status 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","execution":{"id":1080,"context":{"data":{"createdAt":"2025-04-17T05:25:08.901Z","updatedAt":"2025-04-17T05:29:25.241Z","student_id":null,"id":9,"createdById":null,"updatedById":null,"progress":0,"level_id":5}},"key":"m5jhlssgfcn","eventKey":"fa108be7-4fcf-41e4-8623-57b3fdffd58c","stack":[1079],"status":1,"workflowId":158,"updatedAt":"2025-04-17T05:29:25.425Z","createdAt":"2025-04-17T05:29:25.382Z","output":null},"message":"execution (1080) finished with status: 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1081) fetched from db","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1081) starting...","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1081) run instruction [destroy] for node (1399)","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1081) run instruction [destroy] for node (1399) finished as status: 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1081) exiting with status 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","execution":{"id":1081,"createdAt":"2025-04-17T05:29:25.393Z","updatedAt":"2025-04-17T05:29:25.442Z","key":"m5jhlssgfcn","eventKey":"3158bf00-3e76-493a-b830-74d52ce8ba3f","context":{"data":{"createdAt":"2025-04-17T05:25:08.977Z","updatedAt":"2025-04-17T05:29:25.243Z","student_id":null,"id":10,"createdById":null,"updatedById":null,"progress":0,"level_id":6}},"status":1,"stack":[1079],"output":null,"workflowId":158},"message":"execution (1081) finished with status: 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1082) fetched from db","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1082) starting...","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1082) run instruction [destroy] for node (1399)","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1082) run instruction [destroy] for node (1399) finished as status: 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1082) exiting with status 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","execution":{"id":1082,"createdAt":"2025-04-17T05:29:25.401Z","updatedAt":"2025-04-17T05:29:25.456Z","key":"m5jhlssgfcn","eventKey":"b00b021b-4097-403c-8f15-24ed81588810","context":{"data":{"createdAt":"2025-04-17T05:25:09.041Z","updatedAt":"2025-04-17T05:29:25.243Z","student_id":null,"id":11,"createdById":null,"updatedById":null,"progress":0,"level_id":7}},"status":1,"stack":[1079],"output":null,"workflowId":158},"message":"execution (1082) finished with status: 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1083) fetched from db","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1083) starting...","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1083) run instruction [destroy] for node (1399)","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1083) run instruction [destroy] for node (1399) finished as status: 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1083) exiting with status 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","execution":{"id":1083,"createdAt":"2025-04-17T05:29:25.405Z","updatedAt":"2025-04-17T05:29:25.469Z","key":"m5jhlssgfcn","eventKey":"cc25398a-6705-43aa-b013-6053f0e8f45c","context":{"data":{"createdAt":"2025-04-17T05:25:09.092Z","updatedAt":"2025-04-17T05:29:25.244Z","student_id":null,"id":12,"createdById":null,"updatedById":null,"progress":0,"level_id":8}},"status":1,"stack":[1079],"output":null,"workflowId":158},"message":"execution (1083) finished with status: 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1084) fetched from db","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1084) starting...","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1084) run instruction [destroy] for node (1399)","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1084) run instruction [destroy] for node (1399) finished as status: 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1084) exiting with status 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","execution":{"id":1084,"createdAt":"2025-04-17T05:29:25.408Z","updatedAt":"2025-04-17T05:29:25.483Z","key":"m5jhlssgfcn","eventKey":"337bc9e4-3d54-4921-8fca-48c55344b9b5","context":{"data":{"createdAt":"2025-04-17T05:25:09.160Z","updatedAt":"2025-04-17T05:29:25.245Z","student_id":null,"id":13,"createdById":null,"updatedById":null,"progress":0,"level_id":9}},"status":1,"stack":[1079],"output":null,"workflowId":158},"message":"execution (1084) finished with status: 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1085) fetched from db","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1085) starting...","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1085) run instruction [destroy] for node (1399)","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1085) run instruction [destroy] for node (1399) finished as status: 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1085) exiting with status 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","execution":{"id":1085,"createdAt":"2025-04-17T05:29:25.411Z","updatedAt":"2025-04-17T05:29:25.498Z","key":"m5jhlssgfcn","eventKey":"2085fbb4-6e6b-44d0-a049-d49cbd37b5fd","context":{"data":{"createdAt":"2025-04-17T05:25:09.199Z","updatedAt":"2025-04-17T05:29:25.247Z","student_id":null,"id":14,"createdById":null,"updatedById":null,"progress":0,"level_id":10}},"status":1,"stack":[1079],"output":null,"workflowId":158},"message":"execution (1085) finished with status: 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1086) fetched from db","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1086) starting...","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1086) run instruction [destroy] for node (1399)","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1086) run instruction [destroy] for node (1399) finished as status: 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1086) exiting with status 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","execution":{"id":1086,"createdAt":"2025-04-17T05:29:25.416Z","updatedAt":"2025-04-17T05:29:25.512Z","key":"m5jhlssgfcn","eventKey":"543ba8d9-684f-49ef-805a-ffdfbfc95e03","context":{"data":{"createdAt":"2025-04-17T05:25:09.241Z","updatedAt":"2025-04-17T05:29:25.248Z","student_id":null,"id":15,"createdById":null,"updatedById":null,"progress":0,"level_id":11}},"status":1,"stack":[1079],"output":null,"workflowId":158},"message":"execution (1086) finished with status: 1","timestamp":"2025-04-17 05:29:25"}

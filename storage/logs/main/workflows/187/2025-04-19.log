@@ -1,0 +1,22 @@
+{"level":"info","message":"execution of workflow 187 created as 1293","timestamp":"2025-04-19 13:31:52"}
+{"level":"info","message":"queueing execution (1293) from pending list updated to started","timestamp":"2025-04-19 13:31:52"}
+{"level":"info","message":"execution (1293) starting...","timestamp":"2025-04-19 13:31:52"}
+{"level":"info","message":"execution (1293) run instruction [query] for node (1842)","timestamp":"2025-04-19 13:31:52"}
+{"level":"info","message":"execution (1293) run instruction [query] for node (1842) finished as status: 1","timestamp":"2025-04-19 13:31:52"}
+{"level":"info","message":"execution (1293) run instruction [calculation] for node (1843)","timestamp":"2025-04-19 13:31:52"}
+{"level":"info","message":"execution (1293) run instruction [calculation] for node (1843) finished as status: 1","timestamp":"2025-04-19 13:31:52"}
+{"level":"info","message":"execution (1293) run instruction [update] for node (1844)","timestamp":"2025-04-19 13:31:52"}
+{"level":"info","message":"execution (1293) run instruction [update] for node (1844) finished as status: 1","timestamp":"2025-04-19 13:31:52"}
+{"level":"info","message":"execution (1293) exiting with status 1","timestamp":"2025-04-19 13:31:52"}
+{"level":"info","execution":{"id":1293,"context":{"data":{"createdAt":"2025-04-19T11:49:21.462Z","updatedAt":"2025-04-19T11:49:21.490Z","start_date":"2025-04-19T08:00:26.000Z","end_date":"2025-04-19T08:50:00.000Z","package_id":2,"id":167,"payment_method":"Cash","progress":0,"fee":400,"transport_fee":0,"student_id":5,"total":400,"invoice_number":"INV1","payment_date":"2025-04-19","createdById":1,"updatedById":1,"month_convert":"4/2025"}},"key":"u5phrpskvkc","eventKey":"3089617c-835b-497d-82f3-93292dac1e9c","stack":null,"status":1,"workflowId":187,"updatedAt":"2025-04-19T13:31:52.053Z","createdAt":"2025-04-19T13:31:52.010Z","output":null},"message":"execution (1293) finished with status: 1","timestamp":"2025-04-19 13:31:52"}
+{"level":"info","message":"execution of workflow 187 created as 1294","timestamp":"2025-04-19 13:33:03"}
+{"level":"info","message":"queueing execution (1294) from pending list updated to started","timestamp":"2025-04-19 13:33:03"}
+{"level":"info","message":"execution (1294) starting...","timestamp":"2025-04-19 13:33:03"}
+{"level":"info","message":"execution (1294) run instruction [query] for node (1842)","timestamp":"2025-04-19 13:33:03"}
+{"level":"info","message":"execution (1294) run instruction [query] for node (1842) finished as status: 1","timestamp":"2025-04-19 13:33:03"}
+{"level":"info","message":"execution (1294) run instruction [calculation] for node (1843)","timestamp":"2025-04-19 13:33:03"}
+{"level":"info","message":"execution (1294) run instruction [calculation] for node (1843) finished as status: 1","timestamp":"2025-04-19 13:33:03"}
+{"level":"info","message":"execution (1294) run instruction [update] for node (1844)","timestamp":"2025-04-19 13:33:03"}
+{"level":"info","message":"execution (1294) run instruction [update] for node (1844) finished as status: 1","timestamp":"2025-04-19 13:33:03"}
+{"level":"info","message":"execution (1294) exiting with status 1","timestamp":"2025-04-19 13:33:03"}
+{"level":"info","execution":{"id":1294,"context":{"data":{"createdAt":"2025-04-19T11:49:21.462Z","updatedAt":"2025-04-19T11:49:21.490Z","start_date":"2025-04-19T08:00:26.000Z","end_date":"2025-04-19T08:50:00.000Z","package_id":2,"id":167,"payment_method":"Cash","progress":0,"fee":400,"transport_fee":0,"student_id":5,"total":400,"invoice_number":"INV1","payment_date":"2025-04-19","createdById":1,"updatedById":1,"month_convert":"4/2025"}},"key":"u5phrpskvkc","eventKey":"3be01625-e181-426e-87b9-5d3eee781f05","stack":null,"status":1,"workflowId":187,"updatedAt":"2025-04-19T13:33:03.742Z","createdAt":"2025-04-19T13:33:03.708Z","output":null},"message":"execution (1294) finished with status: 1","timestamp":"2025-04-19 13:33:03"}

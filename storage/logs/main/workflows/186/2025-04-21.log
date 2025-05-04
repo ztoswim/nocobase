@@ -1,0 +1,14 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-21 14:14:40"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-21 14:14:40"}
+{"level":"info","message":"execution of workflow 186 created as 20699","timestamp":"2025-04-21 14:14:40"}
+{"level":"info","message":"pending execution (20699) ready to process","timestamp":"2025-04-21 14:14:40"}
+{"level":"info","message":"queueing execution (20699) from pending list updated to started","timestamp":"2025-04-21 14:14:40"}
+{"level":"info","message":"execution (20699) starting...","timestamp":"2025-04-21 14:14:40"}
+{"level":"info","message":"execution (20699) run instruction [query] for node (1839)","timestamp":"2025-04-21 14:14:40"}
+{"level":"info","message":"execution (20699) run instruction [query] for node (1839) finished as status: 1","timestamp":"2025-04-21 14:14:40"}
+{"level":"info","message":"execution (20699) run instruction [calculation] for node (1840)","timestamp":"2025-04-21 14:14:40"}
+{"level":"info","message":"execution (20699) run instruction [calculation] for node (1840) finished as status: 1","timestamp":"2025-04-21 14:14:40"}
+{"level":"info","message":"execution (20699) run instruction [update] for node (1841)","timestamp":"2025-04-21 14:14:40"}
+{"level":"info","message":"execution (20699) run instruction [update] for node (1841) finished as status: 1","timestamp":"2025-04-21 14:14:40"}
+{"level":"info","message":"execution (20699) exiting with status 1","timestamp":"2025-04-21 14:14:40"}
+{"level":"info","execution":{"id":20699,"context":{"data":{"createdAt":"2025-04-21T14:14:40.208Z","updatedAt":"2025-04-21T14:14:40.245Z","start_date":"2023-12-01T14:00:00.000Z","end_date":"2023-12-01T14:50:00.000Z","progress":0,"id":1,"invoice_number":null,"payment_date":"2023-11-26","fee":400,"transport_fee":0,"discount":0,"total":400,"month_convert":"2023/11","payment_method":"Online Transfer","package_id":2,"student_id":87,"createdById":1,"updatedById":1}},"key":"u5phrpskvkc","eventKey":"ca0d3b84-1f01-4799-ab05-4520f6481f85","stack":null,"status":1,"workflowId":186,"updatedAt":"2025-04-21T14:14:40.533Z","createdAt":"2025-04-21T14:14:40.291Z","output":null},"message":"execution (20699) finished with status: 1","timestamp":"2025-04-21 14:14:40"}

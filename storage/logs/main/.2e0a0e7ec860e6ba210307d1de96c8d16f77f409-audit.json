@@ -6,69 +6,79 @@
     "auditLog": "/app/nocobase/storage/logs/main/.2e0a0e7ec860e6ba210307d1de96c8d16f77f409-audit.json",
     "files": [
         {
-            "date": 1743431956486,
-            "name": "/app/nocobase/storage/logs/main/system_2025-03-31.log",
-            "hash": "0aca4161c94546c0475a05e2216acb7d1f50fe78528f4c9784ba065f8af2cb39"
+            "date": 1745140491046,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-20.log",
+            "hash": "eff8de13ca5240600978b07f45d360328a1d3062498f84316b72d01d8fdc4f18"
         },
         {
-            "date": 1743479802011,
-            "name": "/app/nocobase/storage/logs/main/system_2025-04-01.log",
-            "hash": "a768388dfb0a55de828dec7fb2f087c493e8c819a2d7643ce1db6db6909307c7"
+            "date": 1745206525719,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-21.log",
+            "hash": "0296dba291fd00dd90588fcbffef67158d3c3391c9c62e453f2710b14d3b16dc"
         },
         {
-            "date": 1743556542613,
-            "name": "/app/nocobase/storage/logs/main/system_2025-04-02.log",
-            "hash": "a4e5801d816a53db38e3c90a6f7a5fbdc2a0a731ef8518d7421f8b2c5aed1920"
+            "date": 1745285516524,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-22.log",
+            "hash": "017f6d8e0bf1652e444f517a920dadacf54af91aa9bf6daaff49e81b8123b0fa"
         },
         {
-            "date": 1743644261468,
-            "name": "/app/nocobase/storage/logs/main/system_2025-04-03.log",
-            "hash": "3b475c7cdcf48d068b2e07b84be1d4f0c93dbfc736ac07bebdab25371ce7a048"
+            "date": 1745378828941,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-23.log",
+            "hash": "44e64917fd9bfa70e2feedc3577a827fb451d72372d7c919b3daa00eebe99ee6"
         },
         {
-            "date": 1743731649890,
-            "name": "/app/nocobase/storage/logs/main/system_2025-04-04.log",
-            "hash": "e563a62eeb8b54c19bd4b0429c985d78b199ce4a3f378b898b2fdc6d8801c4da"
+            "date": 1745461699927,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-24.log",
+            "hash": "11980e64b240a388aaa1f39cb0e6d0051a33e7e0863f37e9eb97873d85af74dd"
         },
         {
-            "date": 1743843879998,
-            "name": "/app/nocobase/storage/logs/main/system_2025-04-05.log",
-            "hash": "701623df10e37292c6fa0e9d7660ec608471853752316e4fe32493999efda3d8"
+            "date": 1745589219775,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-25.log",
+            "hash": "da6eac4fcf49782a51ce7a789e1e0d2a9656d3fe41e1000402b4c4f842bdeec8"
         },
         {
-            "date": 1744023106293,
-            "name": "/app/nocobase/storage/logs/main/system_2025-04-07.log",
-            "hash": "d4b8d21e2db3085f5c549228b9a2739a3d12808c47899bb3d386bb44a61042d9"
+            "date": 1745679758481,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-26.log",
+            "hash": "3a5914a7b619ea8a2cf51527fddf094bf398df5a76fef658d1ad08076f01a9d1"
         },
         {
-            "date": 1744078443484,
-            "name": "/app/nocobase/storage/logs/main/system_2025-04-08.log",
-            "hash": "2f3346b1abc44e6879914522f7e0bb9686600650f88fd1bb0100c0034dc27e73"
+            "date": 1745746710588,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-27.log",
+            "hash": "126fa59cad774d5189b21b1fcc6f32901b7f41afa942f5f92e5753ba376e24dd"
         },
         {
-            "date": 1744173603729,
-            "name": "/app/nocobase/storage/logs/main/system_2025-04-09.log",
-            "hash": "a473e79f31ada4aacfec0118a589f2ec02f74b12ca3963373444ecf29d63cfa5"
+            "date": 1745800709333,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-28.log",
+            "hash": "245e0ccbad75c58ac9cf799f82af6dbcc16a5313d1fbc3d175b3209152a490f4"
         },
         {
-            "date": 1744262281128,
-            "name": "/app/nocobase/storage/logs/main/system_2025-04-10.log",
-            "hash": "bdfbf1cbe15a19dd095582ef6eae6e3ff4bf38766debc2510eda052f7bf17538"
+            "date": 1745933126630,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-29.log",
+            "hash": "ed2a6ffc03ceb3c4a4f3ef5fad6a5f9b5c359d4d98cdecb8f89a89960d26d7f5"
         },
         {
-            "date": 1744345782842,
-            "name": "/app/nocobase/storage/logs/main/system_2025-04-11.log",
-            "hash": "e9f4a8a6b1d350bb3fd94acab8fab7470ce07e69b2f2186b926db9c553b8f7b7"
+            "date": 1745989510216,
+            "name": "/app/nocobase/storage/logs/main/system_2025-04-30.log",
+            "hash": "423ae5495ec99b16e9a1f80abb577139d611a4c2745a1585c158b5f22da0a310"
         },
         {
-            "date": 1744434580161,
-            "name": "/app/nocobase/storage/logs/main/system_2025-04-12.log",
-            "hash": "fdc655eb1e74bfcd577b0bd0f2e6b518aec52ed39588efdabb8c998589378058"
+            "date": 1746061306011,
+            "name": "/app/nocobase/storage/logs/main/system_2025-05-01.log",
+            "hash": "0b938841496586294deda706866da28647aa38147fb71cc3e119d7e96c93d878"
         },
         {
-            "date": 1744507878357,
-            "name": "/app/nocobase/storage/logs/main/system_2025-04-13.log",
-            "hash": "9165db15c130733b4f2b2991ce1344b39541b25ed8ecca784d566b0fd2449f71"
+            "date": 1746150801836,
+            "name": "/app/nocobase/storage/logs/main/system_2025-05-02.log",
+            "hash": "8f186405ba2cd1d3a16155aaa5fcf5e2ebf6483b56800a45169be83a30a3fff9"
+        },
+        {
+            "date": 1746233519823,
+            "name": "/app/nocobase/storage/logs/main/system_2025-05-03.log",
+            "hash": "f2606d6cc0bf7224dc0ff76b8cc59eb57d30a955a2b07aee713d311c74edacc2"
+        },
+        {
+            "date": 1746340479564,
+            "name": "/app/nocobase/storage/logs/main/system_2025-05-04.log",
+            "hash": "a7583edf97f724a56e7cffa26736772af5434232dfe594142e201789404c3b14"
         }
     ],
     "hashType": "sha256"

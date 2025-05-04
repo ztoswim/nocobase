@@ -1,0 +1,227 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution of workflow 191 created as 1303","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"pending execution (1303) ready to process","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"queueing execution (1303) from pending list updated to started","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1303) starting...","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution of workflow 191 created as 1304","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1303) run instruction [query] for node (1868)","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1303) run instruction [query] for node (1868) finished as status: 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1303) run instruction [condition] for node (1870)","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1303) run instruction [update] for node (1869)","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1303) run instruction [update] for node (1869) finished as status: 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1303) run instruction [condition] for node (1870)","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1303) run instruction [condition] for node (1870) finished as status: 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1303) run instruction [condition] for node (1872)","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1303) run instruction [update] for node (1877)","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1303) run instruction [update] for node (1877) finished as status: 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1303) run instruction [condition] for node (1872)","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1303) run instruction [condition] for node (1872) finished as status: 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1303) run instruction [sql] for node (1878)","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1303) run instruction [sql] for node (1878) finished as status: 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1303) run instruction [calculation] for node (1882)","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1303) run instruction [calculation] for node (1882) finished as status: 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1303) run instruction [update] for node (1883)","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1303) run instruction [update] for node (1883) finished as status: 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1303) exiting with status 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1303) exiting with status 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1303) exiting with status 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","execution":{"id":1303,"context":{"data":{"createdAt":"2025-04-19T11:49:21.565Z","updatedAt":"2025-04-19T13:47:31.370Z","start_date":"2025-04-19T08:00:26.000Z","end_date":"2025-04-19T08:50:00.000Z","employee_id":1,"create_course_id":167,"salary_id":1,"remark":null,"expired_date":null,"status_sort":31,"id":607,"status":"Inactive","status_convert":1,"month_convert":"4/2025","student":"A Student","teaching_fee":70,"actual_class_date":"2025-04-19","createdById":null,"updatedById":null,"salary_db":{"createdAt":"2025-04-05T13:23:25.985Z","updatedAt":"2025-04-09T14:30:50.356Z","employee_id":1,"salary_amount":0,"id":1,"date":"2025-04-01","monthly":"4/2025","createdById":null,"updatedById":1,"attendance_db":[{"createdAt":"2025-04-19T11:49:21.565Z","updatedAt":"2025-04-19T13:47:31.370Z","start_date":"2025-04-19T08:00:26.000Z","end_date":"2025-04-19T08:50:00.000Z","employee_id":1,"create_course_id":167,"salary_id":1,"remark":null,"expired_date":null,"status_sort":31,"id":607,"status":"Inactive","status_convert":1,"month_convert":"4/2025","student":"A Student","teaching_fee":70,"actual_class_date":"2025-04-19","createdById":null,"updatedById":null}]},"create_course_db":{"createdAt":"2025-04-19T11:49:21.462Z","updatedAt":"2025-04-19T11:49:21.490Z","start_date":"2025-04-19T08:00:26.000Z","end_date":"2025-04-19T08:50:00.000Z","package_id":2,"id":167,"payment_method":"Cash","progress":0.25,"fee":400,"transport_fee":0,"student_id":5,"total":400,"invoice_number":"INV1","payment_date":"2025-04-19","createdById":1,"updatedById":1,"month_convert":"4/2025","package_db":{"createdAt":"2025-04-04T05:48:00.404Z","updatedAt":"2025-04-09T15:33:56.292Z","name_sort":5,"nop_sort":2,"fee":400,"id":2,"name":"PV4 - 👤","transport_fee":null,"quantity":4,"type":"PV","nop":"1","createdById":1,"updatedById":1}},"employee_db":{"createdAt":"2025-04-02T13:39:00.321Z","updatedAt":"2025-04-18T14:37:42.160Z","bank_name":"Hong Leong Bank","bank_account":"1","emergency_contact_number":"1","job_title":"Swimming Coach","name":"Lee Chin Meng","contact_number":"0142788556","id":1,"identity_card":"990422016885","email":"xmrxperfectx@gmail.com","address":"No 28, Jalan Desa Putih 9, Taman Desa Putih","gender":"Male","emergency_contact_name":"1","user_id":1,"nickname":"Felix","dob":"1999-04-22","start_date":"2024-04-22","end_date":null,"level":"Special","createdById":1,"updatedById":1}}},"key":"wyjfsqwxgr1","eventKey":"9777e9f5-71d9-4f07-adb4-bbf8832b495a","stack":null,"status":1,"workflowId":191,"updatedAt":"2025-04-19T13:47:31.508Z","createdAt":"2025-04-19T13:47:31.404Z","output":null},"message":"execution (1303) finished with status: 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) fetched from db","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) starting...","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) run instruction [query] for node (1868)","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) run instruction [query] for node (1868) finished as status: 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) run instruction [condition] for node (1870)","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) run instruction [update] for node (1869)","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) run instruction [update] for node (1869) finished as status: 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) run instruction [condition] for node (1870)","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) run instruction [condition] for node (1870) finished as status: 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) run instruction [condition] for node (1872)","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) run instruction [update] for node (1877)","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) run instruction [update] for node (1877) finished as status: 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) run instruction [condition] for node (1872)","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) run instruction [condition] for node (1872) finished as status: 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) run instruction [sql] for node (1878)","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) run instruction [sql] for node (1878) finished as status: 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) run instruction [calculation] for node (1882)","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) run instruction [calculation] for node (1882) finished as status: 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) run instruction [update] for node (1883)","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) run instruction [update] for node (1883) finished as status: 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) exiting with status 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) exiting with status 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"execution (1304) exiting with status 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","execution":{"id":1304,"createdAt":"2025-04-19T13:47:31.431Z","updatedAt":"2025-04-19T13:47:31.568Z","key":"wyjfsqwxgr1","eventKey":"fd7692c7-054c-4a02-8890-3b8a7102d579","context":{"data":{"createdAt":"2025-04-19T11:49:21.565Z","updatedAt":"2025-04-19T13:47:31.370Z","start_date":"2025-04-19T08:00:26.000Z","end_date":"2025-04-19T08:50:00.000Z","employee_id":1,"create_course_id":167,"salary_id":1,"remark":null,"expired_date":null,"status_sort":27,"id":607,"status":"Inactive","status_convert":1,"month_convert":"4/2025","student":"A Student","teaching_fee":70,"actual_class_date":"2025-04-19","createdById":null,"updatedById":null,"salary_db":{"createdAt":"2025-04-05T13:23:25.985Z","updatedAt":"2025-04-09T14:30:50.356Z","employee_id":1,"salary_amount":0,"id":1,"date":"2025-04-01","monthly":"4/2025","createdById":null,"updatedById":1,"attendance_db":[{"createdAt":"2025-04-19T11:49:21.565Z","updatedAt":"2025-04-19T13:47:31.370Z","start_date":"2025-04-19T08:00:26.000Z","end_date":"2025-04-19T08:50:00.000Z","employee_id":1,"create_course_id":167,"salary_id":1,"remark":null,"expired_date":null,"status_sort":27,"id":607,"status":"Inactive","status_convert":1,"month_convert":"4/2025","student":"A Student","teaching_fee":70,"actual_class_date":"2025-04-19","createdById":null,"updatedById":null}]},"create_course_db":{"createdAt":"2025-04-19T11:49:21.462Z","updatedAt":"2025-04-19T11:49:21.490Z","start_date":"2025-04-19T08:00:26.000Z","end_date":"2025-04-19T08:50:00.000Z","package_id":2,"id":167,"payment_method":"Cash","progress":0.25,"fee":400,"transport_fee":0,"student_id":5,"total":400,"invoice_number":"INV1","payment_date":"2025-04-19","createdById":1,"updatedById":1,"month_convert":"4/2025","package_db":{"createdAt":"2025-04-04T05:48:00.404Z","updatedAt":"2025-04-09T15:33:56.292Z","name_sort":5,"nop_sort":2,"fee":400,"id":2,"name":"PV4 - 👤","transport_fee":null,"quantity":4,"type":"PV","nop":"1","createdById":1,"updatedById":1}},"employee_db":{"createdAt":"2025-04-02T13:39:00.321Z","updatedAt":"2025-04-18T14:37:42.160Z","bank_name":"Hong Leong Bank","bank_account":"1","emergency_contact_number":"1","job_title":"Swimming Coach","name":"Lee Chin Meng","contact_number":"0142788556","id":1,"identity_card":"990422016885","email":"xmrxperfectx@gmail.com","address":"No 28, Jalan Desa Putih 9, Taman Desa Putih","gender":"Male","emergency_contact_name":"1","user_id":1,"nickname":"Felix","dob":"1999-04-22","start_date":"2024-04-22","end_date":null,"level":"Special","createdById":1,"updatedById":1}}},"status":1,"stack":null,"output":null,"workflowId":191},"message":"execution (1304) finished with status: 1","timestamp":"2025-04-19 13:47:31"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution of workflow 191 created as 1305","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"pending execution (1305) ready to process","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"queueing execution (1305) from pending list updated to started","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution (1305) starting...","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution (1305) run instruction [query] for node (1868)","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution (1305) run instruction [query] for node (1868) finished as status: 1","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution (1305) run instruction [condition] for node (1870)","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution (1305) run instruction [update] for node (1869)","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution (1305) run instruction [update] for node (1869) finished as status: 1","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution (1305) run instruction [condition] for node (1870)","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution (1305) run instruction [condition] for node (1870) finished as status: 1","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution (1305) run instruction [condition] for node (1872)","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution (1305) run instruction [update] for node (1877)","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution (1305) run instruction [update] for node (1877) finished as status: 1","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution (1305) run instruction [condition] for node (1872)","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution (1305) run instruction [condition] for node (1872) finished as status: 1","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution (1305) run instruction [sql] for node (1878)","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution (1305) run instruction [sql] for node (1878) finished as status: 1","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution (1305) run instruction [calculation] for node (1882)","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution (1305) run instruction [calculation] for node (1882) finished as status: 1","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution (1305) run instruction [update] for node (1883)","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution (1305) run instruction [update] for node (1883) finished as status: 1","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution (1305) exiting with status 1","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution (1305) exiting with status 1","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"execution (1305) exiting with status 1","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","execution":{"id":1305,"context":{"data":{"createdAt":"2025-04-19T12:38:39.852Z","updatedAt":"2025-04-19T13:47:33.830Z","start_date":"2025-04-19T00:00:00.000Z","end_date":"2025-04-19T00:40:00.000Z","employee_id":3,"create_course_id":169,"salary_id":2,"remark":null,"expired_date":null,"status_sort":32,"id":621,"status":"Inactive","status_convert":1,"month_convert":"4/2025","student":"Halo","teaching_fee":84,"actual_class_date":"2025-04-19","createdById":null,"updatedById":2,"salary_db":{"createdAt":"2025-04-05T13:23:26.011Z","updatedAt":"2025-04-09T14:30:50.356Z","employee_id":3,"salary_amount":84,"id":2,"date":"2025-04-01","monthly":"4/2025","createdById":null,"updatedById":1,"attendance_db":[{"createdAt":"2025-04-19T12:38:39.852Z","updatedAt":"2025-04-19T13:47:33.830Z","start_date":"2025-04-19T00:00:00.000Z","end_date":"2025-04-19T00:40:00.000Z","employee_id":3,"create_course_id":169,"salary_id":2,"remark":null,"expired_date":null,"status_sort":32,"id":621,"status":"Inactive","status_convert":1,"month_convert":"4/2025","student":"Halo","teaching_fee":84,"actual_class_date":"2025-04-19","createdById":null,"updatedById":2},{"createdAt":"2025-04-19T12:43:46.840Z","updatedAt":"2025-04-19T13:47:31.543Z","start_date":"2025-04-19T00:00:00.000Z","end_date":"2025-04-19T00:40:00.000Z","employee_id":3,"create_course_id":171,"salary_id":2,"remark":null,"expired_date":null,"status_sort":1,"id":622,"status":"Claim","status_convert":1,"month_convert":"4/2025","student":"Halo","teaching_fee":0,"actual_class_date":"2025-04-19","createdById":null,"updatedById":null}]},"create_course_db":{"createdAt":"2025-04-19T12:38:39.735Z","updatedAt":"2025-04-19T12:38:39.745Z","start_date":"2025-04-19T00:00:00.000Z","end_date":"2025-04-19T00:40:00.000Z","package_id":1,"id":169,"payment_method":"Online Transfer","progress":1,"fee":120,"transport_fee":0,"student_id":11,"total":120,"invoice_number":"INV3","payment_date":"2025-04-19","createdById":2,"updatedById":2,"month_convert":"4/2025","package_db":{"createdAt":"2025-04-04T02:12:12.702Z","updatedAt":"2025-04-10T16:33:42.955Z","name_sort":4,"nop_sort":1,"fee":120,"id":1,"name":"PV1 - 👤","transport_fee":null,"quantity":1,"type":"PV","nop":"1","createdById":1,"updatedById":1}},"employee_db":{"createdAt":"2025-04-03T01:13:37.661Z","updatedAt":"2025-04-19T12:36:13.931Z","bank_name":"Ngxuanpeng","bank_account":"123123123","emergency_contact_number":"0108654399","job_title":"Swimming Coach","name":"Ng Xuan Peng","contact_number":"01111668618","id":3,"identity_card":"000928010143","email":"ngxuanpeng@gmail.com","address":"53, Jalan Bakawali 10 Taman Johor Jaya 81100 Johor Bahru","gender":"Male","emergency_contact_name":"Lee Chin Meng","user_id":2,"nickname":"Desmond","dob":"2000-09-28","start_date":"2024-04-22","end_date":null,"level":"Special","createdById":1,"updatedById":2}}},"key":"wyjfsqwxgr1","eventKey":"84f650c3-bd89-4fe0-9e39-e2787be82aef","stack":null,"status":1,"workflowId":191,"updatedAt":"2025-04-19T13:47:33.912Z","createdAt":"2025-04-19T13:47:33.846Z","output":null},"message":"execution (1305) finished with status: 1","timestamp":"2025-04-19 13:47:33"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-19 13:48:00"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-19 13:48:00"}
+{"level":"info","message":"execution of workflow 191 created as 1306","timestamp":"2025-04-19 13:48:00"}
+{"level":"info","message":"pending execution (1306) ready to process","timestamp":"2025-04-19 13:48:00"}
+{"level":"info","message":"queueing execution (1306) from pending list updated to started","timestamp":"2025-04-19 13:48:00"}
+{"level":"info","message":"execution (1306) starting...","timestamp":"2025-04-19 13:48:00"}
+{"level":"info","message":"execution (1306) run instruction [query] for node (1868)","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [query] for node (1868) finished as status: 1","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [condition] for node (1870)","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [update] for node (1869)","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [update] for node (1869) finished as status: 1","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [condition] for node (1870)","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [condition] for node (1870) finished as status: 1","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [condition] for node (1872)","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [parallel] for node (1873)","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [calculation] for node (1876)","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [calculation] for node (1876) finished as status: 1","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [update] for node (1874)","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [update] for node (1874) finished as status: 1","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [parallel] for node (1873)","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) exiting with status 0","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) exiting with status 0","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [query] for node (1879)","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [query] for node (1879) finished as status: 1","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [calculation] for node (1880)","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [calculation] for node (1880) finished as status: 1","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [update] for node (1875)","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [update] for node (1875) finished as status: 1","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [parallel] for node (1873)","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) exiting with status 0","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) exiting with status 0","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [update] for node (1881)","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [update] for node (1881) finished as status: 1","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [parallel] for node (1873)","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [parallel] for node (1873) finished as status: 1","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [condition] for node (1872)","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [condition] for node (1872) finished as status: 1","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [sql] for node (1878)","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [sql] for node (1878) finished as status: 1","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [calculation] for node (1882)","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [calculation] for node (1882) finished as status: 1","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [update] for node (1883)","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) run instruction [update] for node (1883) finished as status: 1","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) exiting with status 1","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) exiting with status 1","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) exiting with status 1","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"execution (1306) exiting with status 1","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","execution":{"id":1306,"context":{"data":{"createdAt":"2025-04-19T11:55:31.430Z","updatedAt":"2025-04-19T13:48:00.899Z","start_date":"2025-04-19T00:00:00.000Z","end_date":"2025-04-19T00:40:00.000Z","employee_id":1,"create_course_id":168,"salary_id":null,"remark":null,"expired_date":null,"status_sort":1,"id":611,"status":"Attend","status_convert":0,"month_convert":"4/2025","student":"Student A","teaching_fee":0,"actual_class_date":"2025-04-19","createdById":null,"updatedById":null,"salary_db":null,"create_course_db":{"createdAt":"2025-04-19T11:55:31.318Z","updatedAt":"2025-04-19T11:55:31.324Z","start_date":"2025-04-19T00:00:00.000Z","end_date":"2025-04-19T00:40:00.000Z","package_id":3,"id":168,"payment_method":"Cash","progress":0,"fee":950,"transport_fee":0,"student_id":10,"total":950,"invoice_number":"INV2","payment_date":"2025-04-19","createdById":1,"updatedById":1,"month_convert":"4/2025","package_db":{"createdAt":"2025-04-04T08:27:13.303Z","updatedAt":"2025-04-09T15:33:58.807Z","name_sort":6,"nop_sort":3,"fee":950,"id":3,"name":"PV10 - 👤","transport_fee":null,"quantity":10,"type":"PV","nop":"1","createdById":1,"updatedById":1}},"employee_db":{"createdAt":"2025-04-02T13:39:00.321Z","updatedAt":"2025-04-18T14:37:42.160Z","bank_name":"Hong Leong Bank","bank_account":"1","emergency_contact_number":"1","job_title":"Swimming Coach","name":"Lee Chin Meng","contact_number":"0142788556","id":1,"identity_card":"990422016885","email":"xmrxperfectx@gmail.com","address":"No 28, Jalan Desa Putih 9, Taman Desa Putih","gender":"Male","emergency_contact_name":"1","user_id":1,"nickname":"Felix","dob":"1999-04-22","start_date":"2024-04-22","end_date":null,"level":"Special","createdById":1,"updatedById":1}}},"key":"wyjfsqwxgr1","eventKey":"8b291d57-d805-46f9-aefc-9532385b60e2","stack":null,"status":1,"workflowId":191,"updatedAt":"2025-04-19T13:48:01.131Z","createdAt":"2025-04-19T13:48:00.928Z","output":null},"message":"execution (1306) finished with status: 1","timestamp":"2025-04-19 13:48:01"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-19 13:50:22"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-19 13:50:22"}
+{"level":"info","message":"execution of workflow 191 created as 1307","timestamp":"2025-04-19 13:50:22"}
+{"level":"info","message":"pending execution (1307) ready to process","timestamp":"2025-04-19 13:50:22"}
+{"level":"info","message":"queueing execution (1307) from pending list updated to started","timestamp":"2025-04-19 13:50:22"}
+{"level":"info","message":"execution (1307) starting...","timestamp":"2025-04-19 13:50:22"}
+{"level":"info","message":"execution (1307) run instruction [query] for node (1868)","timestamp":"2025-04-19 13:50:22"}
+{"level":"info","message":"execution (1307) run instruction [query] for node (1868) finished as status: 1","timestamp":"2025-04-19 13:50:22"}
+{"level":"info","message":"execution (1307) run instruction [condition] for node (1870)","timestamp":"2025-04-19 13:50:22"}
+{"level":"info","message":"execution (1307) run instruction [update] for node (1869)","timestamp":"2025-04-19 13:50:22"}
+{"level":"info","message":"execution (1307) run instruction [update] for node (1869) finished as status: 1","timestamp":"2025-04-19 13:50:22"}
+{"level":"info","message":"execution (1307) run instruction [condition] for node (1870)","timestamp":"2025-04-19 13:50:22"}
+{"level":"info","message":"execution (1307) run instruction [condition] for node (1870) finished as status: 1","timestamp":"2025-04-19 13:50:22"}
+{"level":"info","message":"execution (1307) run instruction [condition] for node (1872)","timestamp":"2025-04-19 13:50:22"}
+{"level":"info","message":"execution (1307) run instruction [parallel] for node (1873)","timestamp":"2025-04-19 13:50:22"}
+{"level":"info","message":"execution (1307) run instruction [calculation] for node (1876)","timestamp":"2025-04-19 13:50:22"}
+{"level":"info","message":"execution (1307) run instruction [calculation] for node (1876) finished as status: 1","timestamp":"2025-04-19 13:50:22"}
+{"level":"info","message":"execution (1307) run instruction [update] for node (1874)","timestamp":"2025-04-19 13:50:22"}
+{"level":"info","message":"execution (1307) run instruction [update] for node (1874) finished as status: 1","timestamp":"2025-04-19 13:50:22"}
+{"level":"info","message":"execution (1307) run instruction [parallel] for node (1873)","timestamp":"2025-04-19 13:50:22"}
+{"level":"info","message":"execution (1307) exiting with status 0","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) exiting with status 0","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) run instruction [query] for node (1879)","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) run instruction [query] for node (1879) finished as status: 1","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) run instruction [calculation] for node (1880)","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) run instruction [calculation] for node (1880) finished as status: 1","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) run instruction [update] for node (1875)","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) run instruction [update] for node (1875) finished as status: 1","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) run instruction [parallel] for node (1873)","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) exiting with status 0","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) exiting with status 0","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) run instruction [update] for node (1881)","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) run instruction [update] for node (1881) finished as status: 1","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) run instruction [parallel] for node (1873)","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) run instruction [parallel] for node (1873) finished as status: 1","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) run instruction [condition] for node (1872)","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) run instruction [condition] for node (1872) finished as status: 1","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) run instruction [sql] for node (1878)","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) run instruction [sql] for node (1878) finished as status: 1","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) run instruction [calculation] for node (1882)","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) run instruction [calculation] for node (1882) finished as status: 1","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) run instruction [update] for node (1883)","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) run instruction [update] for node (1883) finished as status: 1","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) exiting with status 1","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) exiting with status 1","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) exiting with status 1","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"execution (1307) exiting with status 1","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","execution":{"id":1307,"context":{"data":{"createdAt":"2025-04-19T11:49:21.565Z","updatedAt":"2025-04-19T13:50:22.896Z","start_date":"2025-04-19T08:00:26.000Z","end_date":"2025-04-19T08:50:00.000Z","employee_id":1,"create_course_id":167,"salary_id":1,"remark":null,"expired_date":null,"status_sort":2,"id":607,"status":"Attend","status_convert":1,"month_convert":"4/2025","student":"A Student","teaching_fee":0,"actual_class_date":"2025-04-19","createdById":null,"updatedById":null,"salary_db":{"createdAt":"2025-04-05T13:23:25.985Z","updatedAt":"2025-04-19T13:48:01.123Z","employee_id":1,"salary_amount":0,"id":1,"date":"2025-04-01","monthly":"4/2025","createdById":null,"updatedById":1,"attendance_db":[{"createdAt":"2025-04-19T11:49:21.565Z","updatedAt":"2025-04-19T13:50:22.896Z","start_date":"2025-04-19T08:00:26.000Z","end_date":"2025-04-19T08:50:00.000Z","employee_id":1,"create_course_id":167,"salary_id":1,"remark":null,"expired_date":null,"status_sort":2,"id":607,"status":"Attend","status_convert":1,"month_convert":"4/2025","student":"A Student","teaching_fee":0,"actual_class_date":"2025-04-19","createdById":null,"updatedById":null},{"createdAt":"2025-04-19T11:55:31.430Z","updatedAt":"2025-04-19T13:48:01.064Z","start_date":"2025-04-19T00:00:00.000Z","end_date":"2025-04-19T00:40:00.000Z","employee_id":1,"create_course_id":168,"salary_id":1,"remark":null,"expired_date":null,"status_sort":1,"id":611,"status":"Attend","status_convert":1,"month_convert":"4/2025","student":"Student A","teaching_fee":66.5,"actual_class_date":"2025-04-19","createdById":null,"updatedById":null}]},"create_course_db":{"createdAt":"2025-04-19T11:49:21.462Z","updatedAt":"2025-04-19T11:49:21.490Z","start_date":"2025-04-19T08:00:26.000Z","end_date":"2025-04-19T08:50:00.000Z","package_id":2,"id":167,"payment_method":"Cash","progress":0.25,"fee":400,"transport_fee":0,"student_id":5,"total":400,"invoice_number":"INV1","payment_date":"2025-04-19","createdById":1,"updatedById":1,"month_convert":"4/2025","package_db":{"createdAt":"2025-04-04T05:48:00.404Z","updatedAt":"2025-04-09T15:33:56.292Z","name_sort":5,"nop_sort":2,"fee":400,"id":2,"name":"PV4 - 👤","transport_fee":null,"quantity":4,"type":"PV","nop":"1","createdById":1,"updatedById":1}},"employee_db":{"createdAt":"2025-04-02T13:39:00.321Z","updatedAt":"2025-04-18T14:37:42.160Z","bank_name":"Hong Leong Bank","bank_account":"1","emergency_contact_number":"1","job_title":"Swimming Coach","name":"Lee Chin Meng","contact_number":"0142788556","id":1,"identity_card":"990422016885","email":"xmrxperfectx@gmail.com","address":"No 28, Jalan Desa Putih 9, Taman Desa Putih","gender":"Male","emergency_contact_name":"1","user_id":1,"nickname":"Felix","dob":"1999-04-22","start_date":"2024-04-22","end_date":null,"level":"Special","createdById":1,"updatedById":1}}},"key":"wyjfsqwxgr1","eventKey":"95f4ee61-980d-45dc-85ff-d3f639cf16d5","stack":null,"status":1,"workflowId":191,"updatedAt":"2025-04-19T13:50:23.063Z","createdAt":"2025-04-19T13:50:22.920Z","output":null},"message":"execution (1307) finished with status: 1","timestamp":"2025-04-19 13:50:23"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution of workflow 191 created as 1308","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"pending execution (1308) ready to process","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"queueing execution (1308) from pending list updated to started","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) starting...","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [query] for node (1868)","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [query] for node (1868) finished as status: 1","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [condition] for node (1870)","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [update] for node (1869)","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [update] for node (1869) finished as status: 1","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [condition] for node (1870)","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [condition] for node (1870) finished as status: 1","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [condition] for node (1872)","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [parallel] for node (1873)","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [calculation] for node (1876)","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [calculation] for node (1876) finished as status: 1","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [update] for node (1874)","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [update] for node (1874) finished as status: 1","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [parallel] for node (1873)","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) exiting with status 0","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) exiting with status 0","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [query] for node (1879)","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [query] for node (1879) finished as status: 1","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [calculation] for node (1880)","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [calculation] for node (1880) finished as status: 1","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [update] for node (1875)","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [update] for node (1875) finished as status: 1","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [parallel] for node (1873)","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) exiting with status 0","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) exiting with status 0","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [update] for node (1881)","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [update] for node (1881) finished as status: 1","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [parallel] for node (1873)","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [parallel] for node (1873) finished as status: 1","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [condition] for node (1872)","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [condition] for node (1872) finished as status: 1","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [sql] for node (1878)","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [sql] for node (1878) finished as status: 1","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [calculation] for node (1882)","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [calculation] for node (1882) finished as status: 1","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [update] for node (1883)","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) run instruction [update] for node (1883) finished as status: 1","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) exiting with status 1","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) exiting with status 1","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) exiting with status 1","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","message":"execution (1308) exiting with status 1","timestamp":"2025-04-19 13:50:26"}
+{"level":"info","execution":{"id":1308,"context":{"data":{"createdAt":"2025-04-19T13:34:20.881Z","updatedAt":"2025-04-19T13:50:26.420Z","start_date":"2025-04-19T08:00:26.000Z","end_date":"2025-04-19T08:50:00.000Z","employee_id":1,"create_course_id":173,"salary_id":null,"remark":null,"expired_date":null,"status_sort":3,"id":633,"status":"Attend","status_convert":0,"month_convert":"4/2025","student":"A Student","teaching_fee":0,"actual_class_date":"2025-04-19","createdById":null,"updatedById":null,"salary_db":null,"create_course_db":{"createdAt":"2025-04-19T13:34:20.765Z","updatedAt":"2025-04-19T13:34:20.773Z","start_date":"2025-04-19T08:00:26.000Z","end_date":"2025-04-19T08:50:00.000Z","package_id":2,"id":173,"payment_method":"Cash Deposit","progress":0,"fee":400,"transport_fee":0,"student_id":5,"total":400,"invoice_number":"INV5","payment_date":"2025-04-19","createdById":1,"updatedById":1,"month_convert":"4/2025","package_db":{"createdAt":"2025-04-04T05:48:00.404Z","updatedAt":"2025-04-09T15:33:56.292Z","name_sort":5,"nop_sort":2,"fee":400,"id":2,"name":"PV4 - 👤","transport_fee":null,"quantity":4,"type":"PV","nop":"1","createdById":1,"updatedById":1}},"employee_db":{"createdAt":"2025-04-02T13:39:00.321Z","updatedAt":"2025-04-18T14:37:42.160Z","bank_name":"Hong Leong Bank","bank_account":"1","emergency_contact_number":"1","job_title":"Swimming Coach","name":"Lee Chin Meng","contact_number":"0142788556","id":1,"identity_card":"990422016885","email":"xmrxperfectx@gmail.com","address":"No 28, Jalan Desa Putih 9, Taman Desa Putih","gender":"Male","emergency_contact_name":"1","user_id":1,"nickname":"Felix","dob":"1999-04-22","start_date":"2024-04-22","end_date":null,"level":"Special","createdById":1,"updatedById":1}}},"key":"wyjfsqwxgr1","eventKey":"f288208d-3668-43d1-8d4a-528fb7444d57","stack":null,"status":1,"workflowId":191,"updatedAt":"2025-04-19T13:50:26.553Z","createdAt":"2025-04-19T13:50:26.431Z","output":null},"message":"execution (1308) finished with status: 1","timestamp":"2025-04-19 13:50:26"}

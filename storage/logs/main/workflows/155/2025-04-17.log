@@ -1,0 +1,10 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-17 04:00:37"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-17 04:00:37"}
+{"level":"info","message":"execution of workflow 155 created as 1072","timestamp":"2025-04-17 04:00:37"}
+{"level":"info","message":"pending execution (1072) ready to process","timestamp":"2025-04-17 04:00:37"}
+{"level":"info","message":"queueing execution (1072) from pending list updated to started","timestamp":"2025-04-17 04:00:37"}
+{"level":"info","message":"execution (1072) starting...","timestamp":"2025-04-17 04:00:37"}
+{"level":"info","message":"execution (1072) run instruction [create] for node (1384)","timestamp":"2025-04-17 04:00:37"}
+{"level":"info","message":"execution (1072) run instruction [create] for node (1384) finished as status: 1","timestamp":"2025-04-17 04:00:37"}
+{"level":"info","message":"execution (1072) exiting with status 1","timestamp":"2025-04-17 04:00:37"}
+{"level":"info","execution":{"id":1072,"context":{"data":{"createdAt":"2025-04-17T04:00:37.739Z","updatedAt":"2025-04-17T04:00:37.739Z","employee_id":null,"class_venue":null,"gender":null,"day":null,"name":"asd","parent_name":null,"contact_number":null,"email":null,"address":null,"emergency_contact_name":null,"emergency_contact_nunber":null,"id":8,"dob":null,"start_date":null,"start_time":"08:00:00","duration":null,"createdById":1,"updatedById":1,"student_level_db":[]}},"key":"9xnyqeml35d","eventKey":"e0bee8d2-a7dd-4099-97a3-3adcab799200","stack":null,"status":1,"workflowId":155,"updatedAt":"2025-04-17T04:00:37.977Z","createdAt":"2025-04-17T04:00:37.799Z","output":null},"message":"execution (1072) finished with status: 1","timestamp":"2025-04-17 04:00:37"}

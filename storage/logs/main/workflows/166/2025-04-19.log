@@ -1,0 +1,12 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-19 00:51:42"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-19 00:51:42"}
+{"level":"info","message":"execution of workflow 166 created as 1190","timestamp":"2025-04-19 00:51:42"}
+{"level":"info","message":"pending execution (1190) ready to process","timestamp":"2025-04-19 00:51:42"}
+{"level":"info","message":"queueing execution (1190) from pending list updated to started","timestamp":"2025-04-19 00:51:42"}
+{"level":"info","message":"execution (1190) starting...","timestamp":"2025-04-19 00:51:42"}
+{"level":"info","message":"execution (1190) run instruction [calculation] for node (1540)","timestamp":"2025-04-19 00:51:42"}
+{"level":"info","message":"execution (1190) run instruction [calculation] for node (1540) finished as status: 1","timestamp":"2025-04-19 00:51:42"}
+{"level":"info","message":"execution (1190) run instruction [update] for node (1538)","timestamp":"2025-04-19 00:51:42"}
+{"level":"info","message":"execution (1190) run instruction [update] for node (1538) finished as status: 1","timestamp":"2025-04-19 00:51:42"}
+{"level":"info","message":"execution (1190) exiting with status 1","timestamp":"2025-04-19 00:51:42"}
+{"level":"info","execution":{"id":1190,"context":{"data":{"createdAt":"2025-04-19T00:51:42.539Z","updatedAt":"2025-04-19T00:51:42.574Z","start_date":"2025-04-19T08:00:26.000Z","end_date":"2025-04-19T08:50:00.000Z","package_id":63,"id":165,"payment_method":"Cash","progress":0,"fee":200,"transport_fee":0,"student_id":5,"total":200,"invoice_number":"INV3","payment_date":"2025-04-19","createdById":1,"updatedById":1,"attendance_db":[]}},"key":"w7l7s4r9bj8","eventKey":"0e2da143-2481-406c-b9e3-4aebd0d564fd","stack":null,"status":1,"workflowId":166,"updatedAt":"2025-04-19T00:51:42.671Z","createdAt":"2025-04-19T00:51:42.605Z","output":null},"message":"execution (1190) finished with status: 1","timestamp":"2025-04-19 00:51:42"}

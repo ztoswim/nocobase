@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/app/nocobase/storage/logs/main/workflows/221/.5e96a3d3cabe4e3a04e01dda232410641d3ba679-audit.json",
+    "files": [
+        {
+            "date": 1745464731178,
+            "name": "/app/nocobase/storage/logs/main/workflows/221/2025-04-24.log",
+            "hash": "da25f3480f52d12d0dc702034531ed085fa4d5989614282c6addce03fe7d459a"
+        },
+        {
+            "date": 1745544724045,
+            "name": "/app/nocobase/storage/logs/main/workflows/221/2025-04-25.log",
+            "hash": "e85c90e5c18e679f47d51b17c3e52e0142e69cc321e90dd68326e6269785f388"
+        },
+        {
+            "date": 1745652716577,
+            "name": "/app/nocobase/storage/logs/main/workflows/221/2025-04-26.log",
+            "hash": "9d187cde776c22857334f02ab071c363b8b7435a69ec824a058b3294d9926b89"
+        }
+    ],
+    "hashType": "sha256"
+}

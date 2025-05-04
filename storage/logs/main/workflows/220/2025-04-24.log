@@ -1,0 +1,154 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-24 00:03:12"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-24 00:03:12"}
+{"level":"info","message":"execution of workflow 220 created as 21735","timestamp":"2025-04-24 00:03:12"}
+{"level":"info","message":"pending execution (21735) ready to process","timestamp":"2025-04-24 00:03:12"}
+{"level":"info","message":"queueing execution (21735) from pending list updated to started","timestamp":"2025-04-24 00:03:12"}
+{"level":"info","message":"execution (21735) starting...","timestamp":"2025-04-24 00:03:12"}
+{"level":"info","message":"execution (21735) run instruction [query] for node (2372)","timestamp":"2025-04-24 00:03:12"}
+{"level":"info","message":"execution (21735) run instruction [query] for node (2372) finished as status: 1","timestamp":"2025-04-24 00:03:12"}
+{"level":"info","message":"execution (21735) run instruction [condition] for node (2373)","timestamp":"2025-04-24 00:03:12"}
+{"level":"info","message":"execution (21735) run instruction [update] for node (2375)","timestamp":"2025-04-24 00:03:12"}
+{"level":"info","message":"execution (21735) run instruction [update] for node (2375) finished as status: 1","timestamp":"2025-04-24 00:03:12"}
+{"level":"info","message":"execution (21735) run instruction [condition] for node (2373)","timestamp":"2025-04-24 00:03:12"}
+{"level":"info","message":"execution (21735) run instruction [condition] for node (2373) finished as status: 1","timestamp":"2025-04-24 00:03:12"}
+{"level":"info","message":"execution (21735) run instruction [query] for node (2377)","timestamp":"2025-04-24 00:03:12"}
+{"level":"info","message":"execution (21735) run instruction [query] for node (2377) finished as status: 1","timestamp":"2025-04-24 00:03:12"}
+{"level":"info","message":"execution (21735) run instruction [calculation] for node (2378)","timestamp":"2025-04-24 00:03:12"}
+{"level":"info","message":"execution (21735) run instruction [calculation] for node (2378) finished as status: 1","timestamp":"2025-04-24 00:03:12"}
+{"level":"info","message":"execution (21735) run instruction [update] for node (2379)","timestamp":"2025-04-24 00:03:12"}
+{"level":"info","message":"execution (21735) run instruction [update] for node (2379) finished as status: 1","timestamp":"2025-04-24 00:03:12"}
+{"level":"info","message":"execution (21735) exiting with status 1","timestamp":"2025-04-24 00:03:13"}
+{"level":"info","message":"execution (21735) exiting with status 1","timestamp":"2025-04-24 00:03:13"}
+{"level":"info","execution":{"id":21735,"context":{"data":{"createdAt":"2025-04-23T15:43:14.136Z","updatedAt":"2025-04-24T00:03:12.805Z","start_date":"2024-05-08T00:00:00.000Z","end_date":null,"package_id":null,"discount":0,"month_convert":"2024/8","id":333,"total":-1609.2,"transport_fee":0,"payment_method":"Online Transfer","fee":-1609.2,"progress":null,"student_id":null,"invoice_number":null,"payment_date":"2024-08-05","salary_id":14,"createdById":3,"updatedById":3,"createdBy":{"createdAt":"2025-04-02T02:52:35.125Z","updatedAt":"2025-04-02T02:52:35.125Z","nickname":"Felicia","username":"felicia","email":"t.xinyi98@gmail.com","phone":null,"password":"160dabe583514020485d260fddf382262c07b48beed0c55a1d405fbc13b131f7","passwordChangeTz":null,"appLang":null,"resetToken":null,"systemSettings":{},"sort":3,"id":3,"createdById":1,"updatedById":1,"admin_db":{"createdAt":"2025-04-22T03:20:04.564Z","updatedAt":"2025-04-22T14:48:12.935Z","users_id":3,"nickname":"Felicia","contact_number":null,"emergency_contact_name":null,"bank_name":null,"gender":null,"dob":null,"email":null,"emergency_contact_number":null,"name":"Tan Xin Yi","identity_card":null,"address":null,"start_date":null,"bank_account":null,"id":1,"createdById":1,"updatedById":3}}}},"key":"u5phrpskvkc","eventKey":"c72c169c-1b83-44a6-89a1-f9bd890d0d5c","stack":null,"status":1,"workflowId":220,"updatedAt":"2025-04-24T00:03:12.999Z","createdAt":"2025-04-24T00:03:12.827Z","output":null},"message":"execution (21735) finished with status: 1","timestamp":"2025-04-24 00:03:13"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-24 00:03:17"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-24 00:03:17"}
+{"level":"info","message":"execution of workflow 220 created as 21736","timestamp":"2025-04-24 00:03:17"}
+{"level":"info","message":"pending execution (21736) ready to process","timestamp":"2025-04-24 00:03:17"}
+{"level":"info","message":"queueing execution (21736) from pending list updated to started","timestamp":"2025-04-24 00:03:17"}
+{"level":"info","message":"execution (21736) starting...","timestamp":"2025-04-24 00:03:17"}
+{"level":"info","message":"execution (21736) run instruction [query] for node (2372)","timestamp":"2025-04-24 00:03:17"}
+{"level":"info","message":"execution (21736) run instruction [query] for node (2372) finished as status: 1","timestamp":"2025-04-24 00:03:17"}
+{"level":"info","message":"execution (21736) run instruction [condition] for node (2373)","timestamp":"2025-04-24 00:03:17"}
+{"level":"info","message":"execution (21736) run instruction [update] for node (2375)","timestamp":"2025-04-24 00:03:17"}
+{"level":"info","message":"execution (21736) run instruction [update] for node (2375) finished as status: 1","timestamp":"2025-04-24 00:03:17"}
+{"level":"info","message":"execution (21736) run instruction [condition] for node (2373)","timestamp":"2025-04-24 00:03:17"}
+{"level":"info","message":"execution (21736) run instruction [condition] for node (2373) finished as status: 1","timestamp":"2025-04-24 00:03:17"}
+{"level":"info","message":"execution (21736) run instruction [query] for node (2377)","timestamp":"2025-04-24 00:03:17"}
+{"level":"info","message":"execution (21736) run instruction [query] for node (2377) finished as status: 1","timestamp":"2025-04-24 00:03:17"}
+{"level":"info","message":"execution (21736) run instruction [calculation] for node (2378)","timestamp":"2025-04-24 00:03:17"}
+{"level":"info","message":"execution (21736) run instruction [calculation] for node (2378) finished as status: 1","timestamp":"2025-04-24 00:03:17"}
+{"level":"info","message":"execution (21736) run instruction [update] for node (2379)","timestamp":"2025-04-24 00:03:17"}
+{"level":"info","message":"execution (21736) run instruction [update] for node (2379) finished as status: 1","timestamp":"2025-04-24 00:03:17"}
+{"level":"info","message":"execution (21736) exiting with status 1","timestamp":"2025-04-24 00:03:17"}
+{"level":"info","message":"execution (21736) exiting with status 1","timestamp":"2025-04-24 00:03:17"}
+{"level":"info","execution":{"id":21736,"context":{"data":{"createdAt":"2025-04-23T15:43:14.198Z","updatedAt":"2025-04-24T00:03:17.052Z","start_date":"2024-08-16T00:00:00.000Z","end_date":null,"package_id":null,"discount":0,"month_convert":"2024/8","id":340,"total":-530,"transport_fee":0,"payment_method":"Online Transfer","fee":-530,"progress":null,"student_id":null,"invoice_number":null,"payment_date":"2024-08-16","salary_id":14,"createdById":3,"updatedById":3,"createdBy":{"createdAt":"2025-04-02T02:52:35.125Z","updatedAt":"2025-04-02T02:52:35.125Z","nickname":"Felicia","username":"felicia","email":"t.xinyi98@gmail.com","phone":null,"password":"160dabe583514020485d260fddf382262c07b48beed0c55a1d405fbc13b131f7","passwordChangeTz":null,"appLang":null,"resetToken":null,"systemSettings":{},"sort":3,"id":3,"createdById":1,"updatedById":1,"admin_db":{"createdAt":"2025-04-22T03:20:04.564Z","updatedAt":"2025-04-22T14:48:12.935Z","users_id":3,"nickname":"Felicia","contact_number":null,"emergency_contact_name":null,"bank_name":null,"gender":null,"dob":null,"email":null,"emergency_contact_number":null,"name":"Tan Xin Yi","identity_card":null,"address":null,"start_date":null,"bank_account":null,"id":1,"createdById":1,"updatedById":3}}}},"key":"u5phrpskvkc","eventKey":"6aca7c58-e95c-428c-839d-3982abf13b25","stack":null,"status":1,"workflowId":220,"updatedAt":"2025-04-24T00:03:17.118Z","createdAt":"2025-04-24T00:03:17.059Z","output":null},"message":"execution (21736) finished with status: 1","timestamp":"2025-04-24 00:03:17"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-24 00:03:22"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-24 00:03:22"}
+{"level":"info","message":"execution of workflow 220 created as 21737","timestamp":"2025-04-24 00:03:22"}
+{"level":"info","message":"pending execution (21737) ready to process","timestamp":"2025-04-24 00:03:22"}
+{"level":"info","message":"queueing execution (21737) from pending list updated to started","timestamp":"2025-04-24 00:03:22"}
+{"level":"info","message":"execution (21737) starting...","timestamp":"2025-04-24 00:03:22"}
+{"level":"info","message":"execution (21737) run instruction [query] for node (2372)","timestamp":"2025-04-24 00:03:22"}
+{"level":"info","message":"execution (21737) run instruction [query] for node (2372) finished as status: 1","timestamp":"2025-04-24 00:03:22"}
+{"level":"info","message":"execution (21737) run instruction [condition] for node (2373)","timestamp":"2025-04-24 00:03:22"}
+{"level":"info","message":"execution (21737) run instruction [update] for node (2375)","timestamp":"2025-04-24 00:03:22"}
+{"level":"info","message":"execution (21737) run instruction [update] for node (2375) finished as status: 1","timestamp":"2025-04-24 00:03:22"}
+{"level":"info","message":"execution (21737) run instruction [condition] for node (2373)","timestamp":"2025-04-24 00:03:22"}
+{"level":"info","message":"execution (21737) run instruction [condition] for node (2373) finished as status: 1","timestamp":"2025-04-24 00:03:22"}
+{"level":"info","message":"execution (21737) run instruction [query] for node (2377)","timestamp":"2025-04-24 00:03:22"}
+{"level":"info","message":"execution (21737) run instruction [query] for node (2377) finished as status: 1","timestamp":"2025-04-24 00:03:22"}
+{"level":"info","message":"execution (21737) run instruction [calculation] for node (2378)","timestamp":"2025-04-24 00:03:22"}
+{"level":"info","message":"execution (21737) run instruction [calculation] for node (2378) finished as status: 1","timestamp":"2025-04-24 00:03:22"}
+{"level":"info","message":"execution (21737) run instruction [update] for node (2379)","timestamp":"2025-04-24 00:03:22"}
+{"level":"info","message":"execution (21737) run instruction [update] for node (2379) finished as status: 1","timestamp":"2025-04-24 00:03:22"}
+{"level":"info","message":"execution (21737) exiting with status 1","timestamp":"2025-04-24 00:03:22"}
+{"level":"info","message":"execution (21737) exiting with status 1","timestamp":"2025-04-24 00:03:22"}
+{"level":"info","execution":{"id":21737,"context":{"data":{"createdAt":"2025-04-23T15:43:16.285Z","updatedAt":"2025-04-24T00:03:22.792Z","start_date":"2025-03-14T00:00:00.000Z","end_date":null,"package_id":null,"discount":0,"month_convert":"2025/3","id":579,"total":-850,"transport_fee":0,"payment_method":"Online Transfer","fee":-850,"progress":null,"student_id":null,"invoice_number":null,"payment_date":"2025-03-14","salary_id":20,"createdById":3,"updatedById":3,"createdBy":{"createdAt":"2025-04-02T02:52:35.125Z","updatedAt":"2025-04-02T02:52:35.125Z","nickname":"Felicia","username":"felicia","email":"t.xinyi98@gmail.com","phone":null,"password":"160dabe583514020485d260fddf382262c07b48beed0c55a1d405fbc13b131f7","passwordChangeTz":null,"appLang":null,"resetToken":null,"systemSettings":{},"sort":3,"id":3,"createdById":1,"updatedById":1,"admin_db":{"createdAt":"2025-04-22T03:20:04.564Z","updatedAt":"2025-04-22T14:48:12.935Z","users_id":3,"nickname":"Felicia","contact_number":null,"emergency_contact_name":null,"bank_name":null,"gender":null,"dob":null,"email":null,"emergency_contact_number":null,"name":"Tan Xin Yi","identity_card":null,"address":null,"start_date":null,"bank_account":null,"id":1,"createdById":1,"updatedById":3}}}},"key":"u5phrpskvkc","eventKey":"0d95a446-08f0-4efb-9371-65e86460f735","stack":null,"status":1,"workflowId":220,"updatedAt":"2025-04-24T00:03:22.903Z","createdAt":"2025-04-24T00:03:22.798Z","output":null},"message":"execution (21737) finished with status: 1","timestamp":"2025-04-24 00:03:22"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-24 00:04:31"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-24 00:04:31"}
+{"level":"info","message":"execution of workflow 220 created as 21738","timestamp":"2025-04-24 00:04:31"}
+{"level":"info","message":"pending execution (21738) ready to process","timestamp":"2025-04-24 00:04:31"}
+{"level":"info","message":"queueing execution (21738) from pending list updated to started","timestamp":"2025-04-24 00:04:31"}
+{"level":"info","message":"execution (21738) starting...","timestamp":"2025-04-24 00:04:31"}
+{"level":"info","message":"execution (21738) run instruction [query] for node (2372)","timestamp":"2025-04-24 00:04:31"}
+{"level":"info","message":"execution (21738) run instruction [query] for node (2372) finished as status: 1","timestamp":"2025-04-24 00:04:31"}
+{"level":"info","message":"execution (21738) run instruction [condition] for node (2373)","timestamp":"2025-04-24 00:04:31"}
+{"level":"info","message":"execution (21738) run instruction [update] for node (2375)","timestamp":"2025-04-24 00:04:31"}
+{"level":"info","message":"execution (21738) run instruction [update] for node (2375) finished as status: 1","timestamp":"2025-04-24 00:04:31"}
+{"level":"info","message":"execution (21738) run instruction [condition] for node (2373)","timestamp":"2025-04-24 00:04:31"}
+{"level":"info","message":"execution (21738) run instruction [condition] for node (2373) finished as status: 1","timestamp":"2025-04-24 00:04:31"}
+{"level":"info","message":"execution (21738) run instruction [query] for node (2377)","timestamp":"2025-04-24 00:04:31"}
+{"level":"info","message":"execution (21738) run instruction [query] for node (2377) finished as status: 1","timestamp":"2025-04-24 00:04:31"}
+{"level":"info","message":"execution (21738) run instruction [calculation] for node (2378)","timestamp":"2025-04-24 00:04:31"}
+{"level":"info","message":"execution (21738) run instruction [calculation] for node (2378) finished as status: 1","timestamp":"2025-04-24 00:04:31"}
+{"level":"info","message":"execution (21738) run instruction [update] for node (2379)","timestamp":"2025-04-24 00:04:31"}
+{"level":"info","message":"execution (21738) run instruction [update] for node (2379) finished as status: 1","timestamp":"2025-04-24 00:04:31"}
+{"level":"info","message":"execution (21738) exiting with status 1","timestamp":"2025-04-24 00:04:31"}
+{"level":"info","message":"execution (21738) exiting with status 1","timestamp":"2025-04-24 00:04:31"}
+{"level":"info","execution":{"id":21738,"context":{"data":{"createdAt":"2025-04-23T15:43:14.136Z","updatedAt":"2025-04-24T00:04:31.055Z","start_date":"2024-05-08T00:00:00.000Z","end_date":null,"package_id":null,"discount":0,"month_convert":"2024/8","id":333,"total":-1609.2,"transport_fee":0,"payment_method":"Online Transfer","fee":-1609.2,"progress":null,"student_id":null,"invoice_number":null,"payment_date":"2024-08-05","salary_id":14,"createdById":3,"updatedById":3,"createdBy":{"createdAt":"2025-04-02T02:52:35.125Z","updatedAt":"2025-04-02T02:52:35.125Z","nickname":"Felicia","username":"felicia","email":"t.xinyi98@gmail.com","phone":null,"password":"160dabe583514020485d260fddf382262c07b48beed0c55a1d405fbc13b131f7","passwordChangeTz":null,"appLang":null,"resetToken":null,"systemSettings":{},"sort":3,"id":3,"createdById":1,"updatedById":1,"admin_db":{"createdAt":"2025-04-22T03:20:04.564Z","updatedAt":"2025-04-22T14:48:12.935Z","users_id":3,"nickname":"Felicia","contact_number":null,"emergency_contact_name":null,"bank_name":null,"gender":null,"dob":null,"email":null,"emergency_contact_number":null,"name":"Tan Xin Yi","identity_card":null,"address":null,"start_date":null,"bank_account":null,"id":1,"createdById":1,"updatedById":3}}}},"key":"u5phrpskvkc","eventKey":"cf08609f-ed8b-4e0b-bdbd-0db5547c71d3","stack":null,"status":1,"workflowId":220,"updatedAt":"2025-04-24T00:04:31.142Z","createdAt":"2025-04-24T00:04:31.077Z","output":null},"message":"execution (21738) finished with status: 1","timestamp":"2025-04-24 00:04:31"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-24 00:04:46"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-24 00:04:46"}
+{"level":"info","message":"execution of workflow 220 created as 21739","timestamp":"2025-04-24 00:04:46"}
+{"level":"info","message":"pending execution (21739) ready to process","timestamp":"2025-04-24 00:04:46"}
+{"level":"info","message":"queueing execution (21739) from pending list updated to started","timestamp":"2025-04-24 00:04:46"}
+{"level":"info","message":"execution (21739) starting...","timestamp":"2025-04-24 00:04:46"}
+{"level":"info","message":"execution (21739) run instruction [query] for node (2372)","timestamp":"2025-04-24 00:04:46"}
+{"level":"info","message":"execution (21739) run instruction [query] for node (2372) finished as status: 1","timestamp":"2025-04-24 00:04:46"}
+{"level":"info","message":"execution (21739) run instruction [condition] for node (2373)","timestamp":"2025-04-24 00:04:46"}
+{"level":"info","message":"execution (21739) run instruction [update] for node (2375)","timestamp":"2025-04-24 00:04:46"}
+{"level":"info","message":"execution (21739) run instruction [update] for node (2375) finished as status: 1","timestamp":"2025-04-24 00:04:46"}
+{"level":"info","message":"execution (21739) run instruction [condition] for node (2373)","timestamp":"2025-04-24 00:04:46"}
+{"level":"info","message":"execution (21739) run instruction [condition] for node (2373) finished as status: 1","timestamp":"2025-04-24 00:04:46"}
+{"level":"info","message":"execution (21739) run instruction [query] for node (2377)","timestamp":"2025-04-24 00:04:46"}
+{"level":"info","message":"execution (21739) run instruction [query] for node (2377) finished as status: 1","timestamp":"2025-04-24 00:04:46"}
+{"level":"info","message":"execution (21739) run instruction [calculation] for node (2378)","timestamp":"2025-04-24 00:04:46"}
+{"level":"info","message":"execution (21739) run instruction [calculation] for node (2378) finished as status: 1","timestamp":"2025-04-24 00:04:46"}
+{"level":"info","message":"execution (21739) run instruction [update] for node (2379)","timestamp":"2025-04-24 00:04:46"}
+{"level":"info","message":"execution (21739) run instruction [update] for node (2379) finished as status: 1","timestamp":"2025-04-24 00:04:47"}
+{"level":"info","message":"execution (21739) exiting with status 1","timestamp":"2025-04-24 00:04:47"}
+{"level":"info","message":"execution (21739) exiting with status 1","timestamp":"2025-04-24 00:04:47"}
+{"level":"info","execution":{"id":21739,"context":{"data":{"createdAt":"2025-04-23T15:43:16.285Z","updatedAt":"2025-04-24T00:04:46.904Z","start_date":"2025-03-14T00:00:00.000Z","end_date":null,"package_id":null,"discount":0,"month_convert":"2025/3","id":579,"total":-850,"transport_fee":0,"payment_method":"Online Transfer","fee":-850,"progress":null,"student_id":null,"invoice_number":null,"payment_date":"2025-03-14","salary_id":null,"createdById":3,"updatedById":3,"createdBy":{"createdAt":"2025-04-02T02:52:35.125Z","updatedAt":"2025-04-02T02:52:35.125Z","nickname":"Felicia","username":"felicia","email":"t.xinyi98@gmail.com","phone":null,"password":"160dabe583514020485d260fddf382262c07b48beed0c55a1d405fbc13b131f7","passwordChangeTz":null,"appLang":null,"resetToken":null,"systemSettings":{},"sort":3,"id":3,"createdById":1,"updatedById":1,"admin_db":{"createdAt":"2025-04-22T03:20:04.564Z","updatedAt":"2025-04-22T14:48:12.935Z","users_id":3,"nickname":"Felicia","contact_number":null,"emergency_contact_name":null,"bank_name":null,"gender":null,"dob":null,"email":null,"emergency_contact_number":null,"name":"Tan Xin Yi","identity_card":null,"address":null,"start_date":null,"bank_account":null,"id":1,"createdById":1,"updatedById":3}}}},"key":"u5phrpskvkc","eventKey":"f10e1231-d5b6-4f15-8395-f5c2bd10d390","stack":null,"status":1,"workflowId":220,"updatedAt":"2025-04-24T00:04:47.008Z","createdAt":"2025-04-24T00:04:46.916Z","output":null},"message":"execution (21739) finished with status: 1","timestamp":"2025-04-24 00:04:47"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-24 00:04:51"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-24 00:04:51"}
+{"level":"info","message":"execution of workflow 220 created as 21740","timestamp":"2025-04-24 00:04:51"}
+{"level":"info","message":"pending execution (21740) ready to process","timestamp":"2025-04-24 00:04:51"}
+{"level":"info","message":"queueing execution (21740) from pending list updated to started","timestamp":"2025-04-24 00:04:51"}
+{"level":"info","message":"execution (21740) starting...","timestamp":"2025-04-24 00:04:51"}
+{"level":"info","message":"execution (21740) run instruction [query] for node (2372)","timestamp":"2025-04-24 00:04:51"}
+{"level":"info","message":"execution (21740) run instruction [query] for node (2372) finished as status: 1","timestamp":"2025-04-24 00:04:51"}
+{"level":"info","message":"execution (21740) run instruction [condition] for node (2373)","timestamp":"2025-04-24 00:04:51"}
+{"level":"info","message":"execution (21740) run instruction [update] for node (2375)","timestamp":"2025-04-24 00:04:51"}
+{"level":"info","message":"execution (21740) run instruction [update] for node (2375) finished as status: 1","timestamp":"2025-04-24 00:04:51"}
+{"level":"info","message":"execution (21740) run instruction [condition] for node (2373)","timestamp":"2025-04-24 00:04:51"}
+{"level":"info","message":"execution (21740) run instruction [condition] for node (2373) finished as status: 1","timestamp":"2025-04-24 00:04:51"}
+{"level":"info","message":"execution (21740) run instruction [query] for node (2377)","timestamp":"2025-04-24 00:04:51"}
+{"level":"info","message":"execution (21740) run instruction [query] for node (2377) finished as status: 1","timestamp":"2025-04-24 00:04:51"}
+{"level":"info","message":"execution (21740) run instruction [calculation] for node (2378)","timestamp":"2025-04-24 00:04:51"}
+{"level":"info","message":"execution (21740) run instruction [calculation] for node (2378) finished as status: 1","timestamp":"2025-04-24 00:04:51"}
+{"level":"info","message":"execution (21740) run instruction [update] for node (2379)","timestamp":"2025-04-24 00:04:51"}
+{"level":"info","message":"execution (21740) run instruction [update] for node (2379) finished as status: 1","timestamp":"2025-04-24 00:04:51"}
+{"level":"info","message":"execution (21740) exiting with status 1","timestamp":"2025-04-24 00:04:51"}
+{"level":"info","message":"execution (21740) exiting with status 1","timestamp":"2025-04-24 00:04:51"}
+{"level":"info","execution":{"id":21740,"context":{"data":{"createdAt":"2025-04-23T15:43:14.198Z","updatedAt":"2025-04-24T00:04:51.559Z","start_date":"2024-08-16T00:00:00.000Z","end_date":null,"package_id":null,"discount":0,"month_convert":"2024/8","id":340,"total":-530,"transport_fee":0,"payment_method":"Online Transfer","fee":-530,"progress":null,"student_id":null,"invoice_number":null,"payment_date":"2024-08-16","salary_id":null,"createdById":3,"updatedById":3,"createdBy":{"createdAt":"2025-04-02T02:52:35.125Z","updatedAt":"2025-04-02T02:52:35.125Z","nickname":"Felicia","username":"felicia","email":"t.xinyi98@gmail.com","phone":null,"password":"160dabe583514020485d260fddf382262c07b48beed0c55a1d405fbc13b131f7","passwordChangeTz":null,"appLang":null,"resetToken":null,"systemSettings":{},"sort":3,"id":3,"createdById":1,"updatedById":1,"admin_db":{"createdAt":"2025-04-22T03:20:04.564Z","updatedAt":"2025-04-22T14:48:12.935Z","users_id":3,"nickname":"Felicia","contact_number":null,"emergency_contact_name":null,"bank_name":null,"gender":null,"dob":null,"email":null,"emergency_contact_number":null,"name":"Tan Xin Yi","identity_card":null,"address":null,"start_date":null,"bank_account":null,"id":1,"createdById":1,"updatedById":3}}}},"key":"u5phrpskvkc","eventKey":"124f6fcd-a121-4e1f-9357-d33eac4d9bf3","stack":null,"status":1,"workflowId":220,"updatedAt":"2025-04-24T00:04:51.638Z","createdAt":"2025-04-24T00:04:51.581Z","output":null},"message":"execution (21740) finished with status: 1","timestamp":"2025-04-24 00:04:51"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-24 00:04:56"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-24 00:04:56"}
+{"level":"info","message":"execution of workflow 220 created as 21741","timestamp":"2025-04-24 00:04:56"}
+{"level":"info","message":"pending execution (21741) ready to process","timestamp":"2025-04-24 00:04:56"}
+{"level":"info","message":"queueing execution (21741) from pending list updated to started","timestamp":"2025-04-24 00:04:56"}
+{"level":"info","message":"execution (21741) starting...","timestamp":"2025-04-24 00:04:56"}
+{"level":"info","message":"execution (21741) run instruction [query] for node (2372)","timestamp":"2025-04-24 00:04:56"}
+{"level":"info","message":"execution (21741) run instruction [query] for node (2372) finished as status: 1","timestamp":"2025-04-24 00:04:56"}
+{"level":"info","message":"execution (21741) run instruction [condition] for node (2373)","timestamp":"2025-04-24 00:04:56"}
+{"level":"info","message":"execution (21741) run instruction [update] for node (2375)","timestamp":"2025-04-24 00:04:56"}
+{"level":"info","message":"execution (21741) run instruction [update] for node (2375) finished as status: 1","timestamp":"2025-04-24 00:04:56"}
+{"level":"info","message":"execution (21741) run instruction [condition] for node (2373)","timestamp":"2025-04-24 00:04:56"}
+{"level":"info","message":"execution (21741) run instruction [condition] for node (2373) finished as status: 1","timestamp":"2025-04-24 00:04:56"}
+{"level":"info","message":"execution (21741) run instruction [query] for node (2377)","timestamp":"2025-04-24 00:04:56"}
+{"level":"info","message":"execution (21741) run instruction [query] for node (2377) finished as status: 1","timestamp":"2025-04-24 00:04:56"}
+{"level":"info","message":"execution (21741) run instruction [calculation] for node (2378)","timestamp":"2025-04-24 00:04:56"}
+{"level":"info","message":"execution (21741) run instruction [calculation] for node (2378) finished as status: 1","timestamp":"2025-04-24 00:04:56"}
+{"level":"info","message":"execution (21741) run instruction [update] for node (2379)","timestamp":"2025-04-24 00:04:56"}
+{"level":"info","message":"execution (21741) run instruction [update] for node (2379) finished as status: 1","timestamp":"2025-04-24 00:04:56"}
+{"level":"info","message":"execution (21741) exiting with status 1","timestamp":"2025-04-24 00:04:56"}
+{"level":"info","message":"execution (21741) exiting with status 1","timestamp":"2025-04-24 00:04:56"}
+{"level":"info","execution":{"id":21741,"context":{"data":{"createdAt":"2025-04-23T15:43:14.136Z","updatedAt":"2025-04-24T00:04:56.257Z","start_date":"2024-05-08T00:00:00.000Z","end_date":null,"package_id":null,"discount":0,"month_convert":"2024/8","id":333,"total":-1609.2,"transport_fee":0,"payment_method":"Online Transfer","fee":-1609.2,"progress":null,"student_id":null,"invoice_number":null,"payment_date":"2024-08-05","salary_id":null,"createdById":3,"updatedById":3,"createdBy":{"createdAt":"2025-04-02T02:52:35.125Z","updatedAt":"2025-04-02T02:52:35.125Z","nickname":"Felicia","username":"felicia","email":"t.xinyi98@gmail.com","phone":null,"password":"160dabe583514020485d260fddf382262c07b48beed0c55a1d405fbc13b131f7","passwordChangeTz":null,"appLang":null,"resetToken":null,"systemSettings":{},"sort":3,"id":3,"createdById":1,"updatedById":1,"admin_db":{"createdAt":"2025-04-22T03:20:04.564Z","updatedAt":"2025-04-22T14:48:12.935Z","users_id":3,"nickname":"Felicia","contact_number":null,"emergency_contact_name":null,"bank_name":null,"gender":null,"dob":null,"email":null,"emergency_contact_number":null,"name":"Tan Xin Yi","identity_card":null,"address":null,"start_date":null,"bank_account":null,"id":1,"createdById":1,"updatedById":3}}}},"key":"u5phrpskvkc","eventKey":"8ecf5135-19ab-4280-96db-65f8d347a5fd","stack":null,"status":1,"workflowId":220,"updatedAt":"2025-04-24T00:04:56.311Z","createdAt":"2025-04-24T00:04:56.264Z","output":null},"message":"execution (21741) finished with status: 1","timestamp":"2025-04-24 00:04:56"}

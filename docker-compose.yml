@@ -28,7 +28,7 @@ services:
       # Database password
       - DB_PASSWORD=nocobase
       # Timezone
-      - TZ=GMT+0800
+      - TZ=Asia/Kuala_Lumpur
       # Service platform username and password,
       # used for automatically downloading and updating plugins.
       - NOCOBASE_PKG_USERNAME=

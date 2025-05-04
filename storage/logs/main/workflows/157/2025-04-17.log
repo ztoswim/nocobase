@@ -1,0 +1,24 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-17 05:23:28"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-17 05:23:28"}
+{"level":"info","message":"execution of workflow 157 created as 1073","timestamp":"2025-04-17 05:23:28"}
+{"level":"info","message":"pending execution (1073) ready to process","timestamp":"2025-04-17 05:23:28"}
+{"level":"info","message":"queueing execution (1073) from pending list updated to started","timestamp":"2025-04-17 05:23:28"}
+{"level":"info","message":"execution (1073) starting...","timestamp":"2025-04-17 05:23:28"}
+{"level":"info","message":"execution (1073) run instruction [destroy] for node (1396)","timestamp":"2025-04-17 05:23:28"}
+{"level":"info","message":"execution (1073) run instruction [destroy] for node (1396) finished as status: 1","timestamp":"2025-04-17 05:23:28"}
+{"level":"info","message":"execution (1073) run instruction [destroy] for node (1397)","timestamp":"2025-04-17 05:23:28"}
+{"level":"info","message":"execution (1073) run instruction [destroy] for node (1397) finished as status: 1","timestamp":"2025-04-17 05:23:28"}
+{"level":"info","message":"execution (1073) exiting with status 1","timestamp":"2025-04-17 05:23:28"}
+{"level":"info","execution":{"id":1073,"context":{"data":{"createdAt":"2025-04-17T04:00:37.739Z","updatedAt":"2025-04-17T04:00:37.739Z","employee_id":null,"class_venue":null,"gender":null,"day":null,"name":"asd","parent_name":null,"contact_number":null,"email":null,"address":null,"emergency_contact_name":null,"emergency_contact_nunber":null,"id":8,"dob":null,"start_date":null,"start_time":"08:00:00","duration":null,"createdById":1,"updatedById":1}},"key":"2tprfy8gm53","eventKey":"09b99c52-c03c-411c-af69-b92fe5632407","stack":null,"status":1,"workflowId":157,"updatedAt":"2025-04-17T05:23:28.121Z","createdAt":"2025-04-17T05:23:28.059Z","output":null},"message":"execution (1073) finished with status: 1","timestamp":"2025-04-17 05:23:28"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution of workflow 157 created as 1079","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"pending execution (1079) ready to process","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"queueing execution (1079) from pending list updated to started","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1079) starting...","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1079) run instruction [destroy] for node (1396)","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1079) run instruction [destroy] for node (1396) finished as status: 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1079) run instruction [destroy] for node (1397)","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1079) run instruction [destroy] for node (1397) finished as status: 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","message":"execution (1079) exiting with status 1","timestamp":"2025-04-17 05:29:25"}
+{"level":"info","execution":{"id":1079,"context":{"data":{"createdAt":"2025-04-17T05:25:08.555Z","updatedAt":"2025-04-17T05:25:08.555Z","employee_id":null,"class_venue":null,"gender":null,"day":null,"name":"D Student","parent_name":null,"contact_number":null,"email":null,"address":null,"emergency_contact_name":null,"emergency_contact_nunber":null,"id":9,"dob":null,"start_date":null,"start_time":"08:00:00","duration":null,"createdById":1,"updatedById":1}},"key":"2tprfy8gm53","eventKey":"43c4a6ef-d460-431c-b8fa-71ac2045950c","stack":null,"status":1,"workflowId":157,"updatedAt":"2025-04-17T05:29:25.389Z","createdAt":"2025-04-17T05:29:25.268Z","output":null},"message":"execution (1079) finished with status: 1","timestamp":"2025-04-17 05:29:25"}

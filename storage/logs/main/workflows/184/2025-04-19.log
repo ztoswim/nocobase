@@ -1,0 +1,7 @@
+{"level":"info","message":"execution of workflow 184 created as 1248","timestamp":"2025-04-19 11:50:51"}
+{"level":"info","message":"queueing execution (1248) from pending list updated to started","timestamp":"2025-04-19 11:50:51"}
+{"level":"info","message":"execution (1248) starting...","timestamp":"2025-04-19 11:50:51"}
+{"level":"info","message":"execution (1248) run instruction [query] for node (1835)","timestamp":"2025-04-19 11:50:51"}
+{"level":"info","message":"execution (1248) run instruction [query] for node (1835) finished as status: 1","timestamp":"2025-04-19 11:50:51"}
+{"level":"info","message":"execution (1248) exiting with status 1","timestamp":"2025-04-19 11:50:51"}
+{"level":"info","execution":{"id":1248,"context":{"data":{"createdAt":"2025-04-19T11:49:21.462Z","updatedAt":"2025-04-19T11:49:21.490Z","start_date":"2025-04-19T08:00:26.000Z","end_date":"2025-04-19T08:50:00.000Z","package_id":2,"id":167,"payment_method":"Cash","progress":0,"fee":400,"transport_fee":0,"student_id":5,"total":400,"invoice_number":"INV1","payment_date":"2025-04-19","createdById":1,"updatedById":1,"month_convert":"4/2025"}},"key":"u5phrpskvkc","eventKey":"0a03410c-e4fd-40a9-8c0e-f084d7921fec","stack":null,"status":1,"workflowId":184,"updatedAt":"2025-04-19T11:50:51.388Z","createdAt":"2025-04-19T11:50:51.367Z","output":null},"message":"execution (1248) finished with status: 1","timestamp":"2025-04-19 11:50:51"}

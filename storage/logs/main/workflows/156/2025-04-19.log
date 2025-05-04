@@ -1,0 +1,30 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution of workflow 156 created as 1263","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"pending execution (1263) ready to process","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"queueing execution (1263) from pending list updated to started","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) starting...","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) run instruction [create] for node (1385)","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) run instruction [create] for node (1385) finished as status: 1","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) run instruction [create] for node (1386)","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) run instruction [create] for node (1386) finished as status: 1","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) run instruction [create] for node (1387)","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) run instruction [create] for node (1387) finished as status: 1","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) run instruction [create] for node (1388)","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) run instruction [create] for node (1388) finished as status: 1","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) run instruction [create] for node (1389)","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) run instruction [create] for node (1389) finished as status: 1","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) run instruction [create] for node (1390)","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) run instruction [create] for node (1390) finished as status: 1","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) run instruction [create] for node (1391)","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) run instruction [create] for node (1391) finished as status: 1","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) run instruction [create] for node (1392)","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) run instruction [create] for node (1392) finished as status: 1","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) run instruction [create] for node (1393)","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) run instruction [create] for node (1393) finished as status: 1","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) run instruction [create] for node (1394)","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) run instruction [create] for node (1394) finished as status: 1","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) run instruction [create] for node (1395)","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) run instruction [create] for node (1395) finished as status: 1","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","message":"execution (1263) exiting with status 1","timestamp":"2025-04-19 12:37:40"}
+{"level":"info","execution":{"id":1263,"context":{"data":{"createdAt":"2025-04-19T12:37:40.364Z","updatedAt":"2025-04-19T12:37:40.379Z","employee_id":3,"class_venue":2,"gender":"Male","day":["Thursday"],"name":"Halo","parent_name":null,"contact_number":"HTH","email":"HAHAHHA@GMAIL.COM","address":"Djhsadiujgeiwdf","emergency_contact_name":"Sdwd","emergency_contact_nunber":"WWWDWD","id":11,"dob":"2025-04-19","start_date":"2025-04-19","start_time":"08:00:00","duration":"40 Mins","createdById":2,"updatedById":2,"student_level_db":[]}},"key":"9xnyqeml35d","eventKey":"e082226f-7bce-4b22-b30b-0446b62b29a1","stack":null,"status":1,"workflowId":156,"updatedAt":"2025-04-19T12:37:40.751Z","createdAt":"2025-04-19T12:37:40.408Z","output":null},"message":"execution (1263) finished with status: 1","timestamp":"2025-04-19 12:37:40"}
