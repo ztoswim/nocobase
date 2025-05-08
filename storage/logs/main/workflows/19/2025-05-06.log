@@ -1,0 +1,10 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-05-06 05:08:59"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-05-06 05:08:59"}
+{"level":"info","message":"execution of workflow 19 created as 31244","timestamp":"2025-05-06 05:08:59"}
+{"level":"info","message":"pending execution (31244) ready to process","timestamp":"2025-05-06 05:08:59"}
+{"level":"info","message":"queueing execution (31244) from pending list updated to started","timestamp":"2025-05-06 05:08:59"}
+{"level":"info","message":"execution (31244) starting...","timestamp":"2025-05-06 05:08:59"}
+{"level":"info","message":"execution (31244) run instruction [destroy] for node (83)","timestamp":"2025-05-06 05:08:59"}
+{"level":"info","message":"execution (31244) run instruction [destroy] for node (83) finished as status: 1","timestamp":"2025-05-06 05:08:59"}
+{"level":"info","message":"execution (31244) exiting with status 1","timestamp":"2025-05-06 05:08:59"}
+{"level":"info","execution":{"id":31244,"context":{"data":{"createdAt":"2025-05-06T05:06:26.118Z","updatedAt":"2025-05-06T05:06:26.170Z","start_date":"2025-05-06T02:00:00.000Z","end_date":"2025-05-06T02:40:00.000Z","package_id":2,"discount":0,"month_convert":"2025/5","id":470,"total":400,"transport_fee":0,"payment_method":"Online Transfer","fee":400,"progress":0,"student_id":116,"payment_date":"2025-05-06","invoice_number":"INV250506-0396","salary_id":null,"commission":null,"done":null,"createdById":1,"updatedById":1}},"key":"ovwxg0vt98l","eventKey":"232e2690-bf04-425b-aa3b-cbd37d31e0c9","stack":null,"status":1,"workflowId":19,"updatedAt":"2025-05-06T05:08:59.223Z","createdAt":"2025-05-06T05:08:59.184Z","output":null},"message":"execution (31244) finished with status: 1","timestamp":"2025-05-06 05:08:59"}
