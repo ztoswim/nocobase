@@ -1,0 +1,39 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution of workflow 227 created as 31301","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) fetched from db","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) starting...","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [calculation] for node (2598)","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [calculation] for node (2598) finished as status: 1","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [create] for node (2597)","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [create] for node (2597) finished as status: 1","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [condition] for node (2599)","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [condition] for node (2599) finished as status: 1","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [calculation] for node (2600)","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [calculation] for node (2600) finished as status: 1","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [calculation] for node (2601)","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [calculation] for node (2601) finished as status: 1","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [calculation] for node (2603)","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [calculation] for node (2603) finished as status: 1","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [create] for node (2602)","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [create] for node (2602) finished as status: 1","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [calculation] for node (2606)","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [calculation] for node (2606) finished as status: 1","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [calculation] for node (2605)","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [calculation] for node (2605) finished as status: 1","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [calculation] for node (2604)","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [calculation] for node (2604) finished as status: 1","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [create] for node (2607)","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [create] for node (2607) finished as status: 1","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [calculation] for node (2610)","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [calculation] for node (2610) finished as status: 1","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [calculation] for node (2609)","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [calculation] for node (2609) finished as status: 1","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [calculation] for node (2608)","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [calculation] for node (2608) finished as status: 1","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [create] for node (2611)","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [create] for node (2611) finished as status: 1","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [condition] for node (2616)","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) run instruction [condition] for node (2616) finished as status: -1","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","message":"execution (31301) exiting with status -1","timestamp":"2025-05-09 12:00:22"}
+{"level":"info","execution":{"id":31301,"createdAt":"2025-05-09T12:00:22.578Z","updatedAt":"2025-05-09T12:00:22.884Z","key":"o3iucqm26et","eventKey":"d2db6123-850c-48a5-85bf-98f066c04e31","context":{"data":{"createdAt":"2025-05-09T12:00:22.398Z","updatedAt":"2025-05-09T12:00:22.433Z","start_date":"2025-05-24T06:30:00.000Z","end_date":"2025-05-24T07:20:00.000Z","package_id":2,"discount":0,"month_convert":"2025/5","id":473,"total":400,"transport_fee":0,"payment_method":"Cash Deposit","fee":400,"progress":0,"student_id":80,"payment_date":"2025-05-09","invoice_number":"INV250509-0398","salary_id":null,"commission":null,"done":null,"createdById":3,"updatedById":3,"student_db":{"createdAt":"2025-04-20T14:09:29.494Z","updatedAt":"2025-05-02T15:10:54.230Z","dob":"2016-12-25T00:00:00.000Z","class_venue":4,"gender":"Male","day":["Saturday"],"name":"Scott Lim Ze Han","parent_name":"Elainne Tan Suu Ling","contact_number":"0163287568","email":null,"address":"-","emergency_contact_name":"","emergency_contact_nunber":null,"id":80,"start_date":"2023-12-07","start_time":"14:30:00","duration":"50 Mins","user_id":null,"coach_id":1,"age":"9","createdById":1,"updatedById":1},"attendance_db":[],"package_db":{"createdAt":"2025-04-04T05:48:00.404Z","updatedAt":"2025-05-04T07:43:10.716Z","fee":400,"id":2,"name":"PV4 - 👤","transport_fee":null,"quantity":4,"type":"PV","nop":"1","total":400,"description":"PRIVATE 1V1 - 4 LESSON","createdById":1,"updatedById":3}},"user":{"createdAt":"2025-04-02T02:52:35.125Z","updatedAt":"2025-05-04T10:00:42.937Z","systemSettings":{},"id":3,"nickname":"Felicia","phone":null,"passwordChangeTz":null,"appLang":"zh-CN","username":"felicia","email":"t.xinyi98@gmail.com","createdById":1,"updatedById":3},"roleName":"root"},"status":-1,"stack":null,"output":null,"workflowId":227},"message":"execution (31301) finished with status: -1","timestamp":"2025-05-09 12:00:22"}

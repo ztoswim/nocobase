@@ -1,0 +1,60 @@
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-05-11 05:06:39"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-05-11 05:06:39"}
+{"level":"info","message":"execution of workflow 156 created as 31348","timestamp":"2025-05-11 05:06:39"}
+{"level":"info","message":"pending execution (31348) ready to process","timestamp":"2025-05-11 05:06:39"}
+{"level":"info","message":"queueing execution (31348) from pending list updated to started","timestamp":"2025-05-11 05:06:39"}
+{"level":"info","message":"execution (31348) starting...","timestamp":"2025-05-11 05:06:39"}
+{"level":"info","message":"execution (31348) run instruction [create] for node (1385)","timestamp":"2025-05-11 05:06:39"}
+{"level":"info","message":"execution (31348) run instruction [create] for node (1385) finished as status: 1","timestamp":"2025-05-11 05:06:39"}
+{"level":"info","message":"execution (31348) run instruction [create] for node (1386)","timestamp":"2025-05-11 05:06:39"}
+{"level":"info","message":"execution (31348) run instruction [create] for node (1386) finished as status: 1","timestamp":"2025-05-11 05:06:40"}
+{"level":"info","message":"execution (31348) run instruction [create] for node (1387)","timestamp":"2025-05-11 05:06:40"}
+{"level":"info","message":"execution (31348) run instruction [create] for node (1387) finished as status: 1","timestamp":"2025-05-11 05:06:40"}
+{"level":"info","message":"execution (31348) run instruction [create] for node (1388)","timestamp":"2025-05-11 05:06:40"}
+{"level":"info","message":"execution (31348) run instruction [create] for node (1388) finished as status: 1","timestamp":"2025-05-11 05:06:40"}
+{"level":"info","message":"execution (31348) run instruction [create] for node (1389)","timestamp":"2025-05-11 05:06:40"}
+{"level":"info","message":"execution (31348) run instruction [create] for node (1389) finished as status: 1","timestamp":"2025-05-11 05:06:40"}
+{"level":"info","message":"execution (31348) run instruction [create] for node (1390)","timestamp":"2025-05-11 05:06:40"}
+{"level":"info","message":"execution (31348) run instruction [create] for node (1390) finished as status: 1","timestamp":"2025-05-11 05:06:40"}
+{"level":"info","message":"execution (31348) run instruction [create] for node (1391)","timestamp":"2025-05-11 05:06:40"}
+{"level":"info","message":"execution (31348) run instruction [create] for node (1391) finished as status: 1","timestamp":"2025-05-11 05:06:40"}
+{"level":"info","message":"execution (31348) run instruction [create] for node (1392)","timestamp":"2025-05-11 05:06:40"}
+{"level":"info","message":"execution (31348) run instruction [create] for node (1392) finished as status: 1","timestamp":"2025-05-11 05:06:40"}
+{"level":"info","message":"execution (31348) run instruction [create] for node (1393)","timestamp":"2025-05-11 05:06:40"}
+{"level":"info","message":"execution (31348) run instruction [create] for node (1393) finished as status: 1","timestamp":"2025-05-11 05:06:40"}
+{"level":"info","message":"execution (31348) run instruction [create] for node (1394)","timestamp":"2025-05-11 05:06:40"}
+{"level":"info","message":"execution (31348) run instruction [create] for node (1394) finished as status: 1","timestamp":"2025-05-11 05:06:40"}
+{"level":"info","message":"execution (31348) run instruction [create] for node (1395)","timestamp":"2025-05-11 05:06:40"}
+{"level":"info","message":"execution (31348) run instruction [create] for node (1395) finished as status: 1","timestamp":"2025-05-11 05:06:40"}
+{"level":"info","message":"execution (31348) exiting with status 1","timestamp":"2025-05-11 05:06:40"}
+{"level":"info","execution":{"id":31348,"context":{"data":{"createdAt":"2025-05-11T05:06:39.182Z","updatedAt":"2025-05-11T05:06:39.257Z","dob":"2012-10-07T16:00:00.000Z","class_venue":22,"gender":"Male","day":["Sunday"],"name":"Koh Fang Kai","parent_name":"Angela Bek","contact_number":"592299777","email":"angelabek@gmail.com","address":"91, Isola Grandeur, Persiaran Senibong, 81750 Masai , Johor","emergency_contact_name":"","emergency_contact_nunber":"0189011999","id":117,"start_date":"2025-05-18","start_time":"17:30:00","duration":"50 Mins","user_id":null,"coach_id":2,"age":"13","createdById":3,"updatedById":3,"student_level_db":[]}},"key":"9xnyqeml35d","eventKey":"97085af9-967d-4593-a7a7-f7ac993f1779","stack":null,"status":1,"workflowId":156,"updatedAt":"2025-05-11T05:06:40.583Z","createdAt":"2025-05-11T05:06:39.392Z","output":null},"message":"execution (31348) finished with status: 1","timestamp":"2025-05-11 05:06:40"}
+{"level":"info","message":"new event triggered, now events: 1","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"preparing execution for event","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"execution of workflow 156 created as 31349","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"pending execution (31349) ready to process","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"queueing execution (31349) from pending list updated to started","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"execution (31349) starting...","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"execution (31349) run instruction [create] for node (1385)","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"execution (31349) run instruction [create] for node (1385) finished as status: 1","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"execution (31349) run instruction [create] for node (1386)","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"execution (31349) run instruction [create] for node (1386) finished as status: 1","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"execution (31349) run instruction [create] for node (1387)","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"execution (31349) run instruction [create] for node (1387) finished as status: 1","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"execution (31349) run instruction [create] for node (1388)","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"execution (31349) run instruction [create] for node (1388) finished as status: 1","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"execution (31349) run instruction [create] for node (1389)","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"execution (31349) run instruction [create] for node (1389) finished as status: 1","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"execution (31349) run instruction [create] for node (1390)","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"execution (31349) run instruction [create] for node (1390) finished as status: 1","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"execution (31349) run instruction [create] for node (1391)","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"execution (31349) run instruction [create] for node (1391) finished as status: 1","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"execution (31349) run instruction [create] for node (1392)","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"execution (31349) run instruction [create] for node (1392) finished as status: 1","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"execution (31349) run instruction [create] for node (1393)","timestamp":"2025-05-11 05:07:50"}
+{"level":"info","message":"execution (31349) run instruction [create] for node (1393) finished as status: 1","timestamp":"2025-05-11 05:07:51"}
+{"level":"info","message":"execution (31349) run instruction [create] for node (1394)","timestamp":"2025-05-11 05:07:51"}
+{"level":"info","message":"execution (31349) run instruction [create] for node (1394) finished as status: 1","timestamp":"2025-05-11 05:07:51"}
+{"level":"info","message":"execution (31349) run instruction [create] for node (1395)","timestamp":"2025-05-11 05:07:51"}
+{"level":"info","message":"execution (31349) run instruction [create] for node (1395) finished as status: 1","timestamp":"2025-05-11 05:07:51"}
+{"level":"info","message":"execution (31349) exiting with status 1","timestamp":"2025-05-11 05:07:51"}
+{"level":"info","execution":{"id":31349,"context":{"data":{"createdAt":"2025-05-11T05:07:50.307Z","updatedAt":"2025-05-11T05:07:50.335Z","dob":"2014-10-06T16:00:00.000Z","class_venue":22,"gender":"Male","day":["Sunday"],"name":"Koh Zhe Kai","parent_name":"Angela Bek","contact_number":"592299777","email":"angelabek@gmail.com","address":"91, Isola Grandeur, Persiaran Senibong, 81750 Masai , Johor","emergency_contact_name":null,"emergency_contact_nunber":"0189011999","id":118,"start_date":"2025-05-18","start_time":"17:30:00","duration":"50 Mins","user_id":null,"coach_id":2,"age":"11","createdById":3,"updatedById":3,"student_level_db":[]}},"key":"9xnyqeml35d","eventKey":"bc2095f6-5667-4b8e-9ab3-cab49ae19d4c","stack":null,"status":1,"workflowId":156,"updatedAt":"2025-05-11T05:07:51.144Z","createdAt":"2025-05-11T05:07:50.364Z","output":null},"message":"execution (31349) finished with status: 1","timestamp":"2025-05-11 05:07:51"}
